@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>🔒 StudioRich Dev Access</title>
+<style>
+  body{font-family:system-ui;background:#000;color:#fff;display:flex;align-items:center;justify-content:center;height:100vh;flex-direction:column;}
+  input{padding:8px 12px;margin-top:10px;background:#111;color:#fff;border:1px solid #333;}
+</style>
+</head>
+<body>
+  <h3>StudioRich Dev Access</h3>
+  <input type="password" id="pw" placeholder="Enter password">
+  <p style="font-size:12px;opacity:0.6;">Access limited to internal use</p>
+  <script>
+    const pass = "dev.studiorich.shop"; // change this to anything you want
+    const pw = document.getElementById("pw");
+    pw.addEventListener("keyup", e => {
+      if (e.key === "Enter" && e.target.value === pass) {
+        sessionStorage.setItem("devAuth","ok");
+        location.href = "/";
+      }
+    });
+  </script>
+</body>
+</html>

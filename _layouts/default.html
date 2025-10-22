@@ -5,6 +5,15 @@
     {% include head.html %}
   </head>
 <body>
+  {% if site.url contains "dev" %}
+  <script>
+    // Simple password gate for dev.studiorich.shop
+    if (sessionStorage.getItem("devAuth") !== "ok") {
+      window.location.replace("/gate.html");
+    }
+  </script>
+  {% endif %}
+
   {% include sidebar.html %}
 
   <div class="layout-wrapper">
@@ -15,20 +24,16 @@
   </div>
 
   <script type="module" src="/assets/js/magicLink.js"></script>
-
   <script src="/assets/js/theme-toggle.js?v=3"></script>
   <script src="/assets/js/user-settings.js?v=3"></script>
   <script src="/assets/js/subscribe-form.js" defer></script>
 
+  {% if site.url contains "dev" %}
+  <div style="position:fixed;bottom:8px;right:10px;font-size:11px;color:#0f0;background:#111;padding:4px 6px;border-radius:4px;opacity:.7;z-index:9999;">
+    ⚙️ DEV: {{ site.url }}
+  </div>
+  {% endif %}
 
-
-<!-- Map Page Scripts -->
-  {% if jekyll.environment != "production" %}
-<div style="position:fixed;bottom:8px;right:10px;font-size:11px;color:#0f0;background:#111;padding:4px 6px;border-radius:4px;opacity:.7;z-index:9999;">
-  ⚙️ DEV: {{ site.url }}
-</div>
-{% endif %}
-
-<!-- Toast Notification -->
   <div id="toast" class="toast"></div>
 </body>
+</html>

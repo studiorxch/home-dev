@@ -1,8 +1,9 @@
-{% if site.url contains "dev." %}
+{% assign domain = site.github.hostname | default: site.url | downcase %}
+{% if domain contains "dev" %}
 User-agent: *
 Disallow: /
 {% else %}
 User-agent: *
 Allow: /
-Sitemap: https://www.studiorich.shop/sitemap.xml
+Sitemap: https://studiorich.shop/sitemap.xml
 {% endif %}
