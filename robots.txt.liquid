@@ -1,5 +1,6 @@
-{% assign current_host = site.github.hostname | default: site.url %}
-{% if current_host contains "dev" %}
+{% assign current_domain = site.url | default: site.github.repository_url | downcase %}
+
+{% if current_domain contains "home-dev" or current_domain contains "dev." %}
 User-agent: *
 Disallow: /
 {% else %}
