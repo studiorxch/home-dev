@@ -1,0 +1,9 @@
+station_id: "106"
+name: "Marble Hill-225 St"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.874561, lon: -73.909831 }
+neighborhood: "Marble Hill"
+zip_code: "10463"
+tags: []
+entrances: []

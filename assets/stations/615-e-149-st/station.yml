@@ -1,0 +1,9 @@
+station_id: "615"
+name: "E 149 St"
+borough: "Bronx"
+routes: ["6"]
+coord: { lat: 40.812118, lon: -73.904098 }
+neighborhood: "Longwood"
+zip_code: "10455"
+tags: []
+entrances: []

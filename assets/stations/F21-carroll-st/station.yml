@@ -1,0 +1,9 @@
+station_id: "F21"
+name: "Carroll St"
+borough: "Brooklyn"
+routes: ["G","F"]
+coord: { lat: 40.680303, lon: -73.995048 }
+neighborhood: "Carroll Gardens"
+zip_code: "11231"
+tags: []
+entrances: []

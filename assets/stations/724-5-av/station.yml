@@ -1,0 +1,9 @@
+station_id: "724"
+name: "5 Av"
+borough: "Manhattan"
+routes: ["7","7X"]
+coord: { lat: 40.753821, lon: -73.981963 }
+neighborhood: "Garment District"
+zip_code: "10018"
+tags: []
+entrances: []

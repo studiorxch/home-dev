@@ -1,0 +1,9 @@
+station_id: "209"
+name: "Burke Av"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.871356, lon: -73.867164 }
+neighborhood: "Allerton"
+zip_code: "10467"
+tags: []
+entrances: []

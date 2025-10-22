@@ -1,0 +1,9 @@
+station_id: "H01"
+name: "Aqueduct Racetrack"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.672369, lon: -73.835254 }
+neighborhood: "Ozone Park"
+zip_code: "11420"
+tags: []
+entrances: []

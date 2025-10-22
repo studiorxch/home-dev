@@ -1,0 +1,9 @@
+station_id: "F25"
+name: "15 St-Prospect Park"
+borough: "Brooklyn"
+routes: ["G","F"]
+coord: { lat: 40.660365, lon: -73.979493 }
+neighborhood: "Windsor Terrace"
+zip_code: "11215"
+tags: []
+entrances: []

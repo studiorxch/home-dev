@@ -1,0 +1,109 @@
+/* ============================================================================
+   StudioRich Subway Map System — Fast Version (no transitions)
+   ========================================================================= */
+
+.map-hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 0;
+  background: var(--color-bg);
+}
+
+/* === SVG Container === */
+.map-svg {
+  display: block;
+  width: min(95vw, 680px);
+  height: min(95vw, 680px);
+  background: var(--color-bg);
+}
+
+.map-svg svg {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--color-bg);
+  border: 1.5px solid var(--map-border);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.05);
+}
+
+/* === Border colors by theme === */
+[data-theme='light'] .map-svg svg {
+  --map-border: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] .map-svg svg {
+  --map-border: rgba(255, 255, 255, 0.08);
+}
+
+/* === Map frame === */
+.map-svg svg #map-frame {
+  fill: var(--color-bg);
+  stroke: var(--map-border);
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+
+/* === Subway Lines === */
+.map-svg path[class^='line-'] {
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  opacity: 0.95;
+}
+
+.map-svg path[class^='line-']:hover {
+  stroke-width: 4;
+  opacity: 1;
+  filter: drop-shadow(0 0 6px currentColor);
+}
+
+/* === Stations === */
+.map-svg circle {
+  fill: #fff;
+  opacity: 0.85;
+}
+
+.map-svg circle:hover {
+  fill: #ff3366;
+  r: 4;
+  opacity: 1;
+  cursor: pointer;
+  filter: drop-shadow(0 0 1px #ff3366);
+}
+
+/* === Tooltip Overlay === */
+.map-tooltip {
+  position: absolute;
+  display: none;
+  padding: 3px 6px;
+  font-size: 0.7rem;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.85);
+  color: #fff;
+  white-space: nowrap;
+  pointer-events: none;
+  transform: translate(-50%, -120%);
+  z-index: 50;
+}
+
+/* === Station Info Card === */
+.station-card {
+  position: absolute;
+  display: none;
+  background: rgba(20, 20, 20, 0.95);
+  color: #fff;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(255, 0, 76, 0.25);
+  font-size: 0.8rem;
+  width: 160px;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  border-left: 3px solid var(--color-line-a, #ff3366);
+  backdrop-filter: blur(8px);
+}
+
+.station-card.active {
+  display: block;
+}

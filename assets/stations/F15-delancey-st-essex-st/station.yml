@@ -1,0 +1,9 @@
+station_id: "F15"
+name: "Delancey St-Essex St"
+borough: "Manhattan"
+routes: ["F","FX"]
+coord: { lat: 40.718611, lon: -73.988114 }
+neighborhood: "Lower East Side"
+zip_code: "10002"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "214"
+name: "West Farms Sq-E Tremont Av"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.840295, lon: -73.880049 }
+neighborhood: "East Tremont"
+zip_code: "10460"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "L24"
+name: "Atlantic Av"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.675345, lon: -73.903097 }
+neighborhood: "East New York"
+zip_code: "11207"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "G36"
+name: "Fulton St"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.687119, lon: -73.975375 }
+neighborhood: "Fort Greene"
+zip_code: "11217"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "237"
+name: "Grand Army Plaza"
+borough: "Brooklyn"
+routes: ["2","4","3"]
+coord: { lat: 40.675235, lon: -73.971046 }
+neighborhood: "Park Slope"
+zip_code: "11238"
+tags: []
+entrances: []

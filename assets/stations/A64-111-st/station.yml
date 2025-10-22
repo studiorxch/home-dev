@@ -1,0 +1,9 @@
+station_id: "A64"
+name: "111 St"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.684331, lon: -73.832163 }
+neighborhood: "Richmond Hill"
+zip_code: "11419"
+tags: []
+entrances: []

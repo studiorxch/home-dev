@@ -1,0 +1,9 @@
+station_id: "501"
+name: "Eastchester-Dyre Av"
+borough: "Bronx"
+routes: ["5"]
+coord: { lat: 40.8883, lon: -73.830834 }
+neighborhood: "Eastchester"
+zip_code: "10466"
+tags: []
+entrances: []

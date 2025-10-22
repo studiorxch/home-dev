@@ -1,0 +1,9 @@
+station_id: "L21"
+name: "Bushwick Av-Aberdeen St"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.682829, lon: -73.905249 }
+neighborhood: "Bushwick"
+zip_code: "11207"
+tags: []
+entrances: []

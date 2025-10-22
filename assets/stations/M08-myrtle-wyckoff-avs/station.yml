@@ -1,0 +1,9 @@
+station_id: "M08"
+name: "Myrtle-Wyckoff Avs"
+borough: "Brooklyn"
+routes: ["M"]
+coord: { lat: 40.69943, lon: -73.912385 }
+neighborhood: "Bushwick"
+zip_code: "11237"
+tags: []
+entrances: []

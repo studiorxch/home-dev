@@ -1,0 +1,9 @@
+station_id: "252"
+name: "Saratoga Av"
+borough: "Brooklyn"
+routes: ["2","4","3","5"]
+coord: { lat: 40.661453, lon: -73.916327 }
+neighborhood: "Brownsville"
+zip_code: "11212"
+tags: []
+entrances: []

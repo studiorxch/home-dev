@@ -1,0 +1,9 @@
+station_id: "S11"
+name: "Arthur Kill"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.516578, lon: -74.242096 }
+neighborhood: "Tottenville"
+zip_code: "10307"
+tags: []
+entrances: []

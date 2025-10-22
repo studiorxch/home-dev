@@ -1,0 +1,9 @@
+station_id: "A48"
+name: "Utica Av"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.679364, lon: -73.930729 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11213"
+tags: []
+entrances: []

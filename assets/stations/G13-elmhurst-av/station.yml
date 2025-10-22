@@ -1,0 +1,9 @@
+station_id: "G13"
+name: "Elmhurst Av"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.742454, lon: -73.882017 }
+neighborhood: "Elmhurst"
+zip_code: "11373"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "D27"
+name: "Parkside Av"
+borough: "Brooklyn"
+routes: ["Q","B"]
+coord: { lat: 40.655292, lon: -73.961495 }
+neighborhood: "Prospect Lefferts Gardens"
+zip_code: "11225"
+tags: []
+entrances: []

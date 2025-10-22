@@ -1,0 +1,9 @@
+station_id: "R09"
+name: "Queensboro Plaza"
+borough: "Queens"
+routes: ["N","W"]
+coord: { lat: 40.750582, lon: -73.940202 }
+neighborhood: "Long Island City"
+zip_code: "11101"
+tags: []
+entrances: []

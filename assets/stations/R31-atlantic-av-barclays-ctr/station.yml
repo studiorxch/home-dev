@@ -1,0 +1,9 @@
+station_id: "R31"
+name: "Atlantic Av-Barclays Ctr"
+borough: "Brooklyn"
+routes: ["D","N","W","R"]
+coord: { lat: 40.683666, lon: -73.97881 }
+neighborhood: "Park Slope"
+zip_code: "11217"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "401"
+name: "Woodlawn"
+borough: "Bronx"
+routes: ["4"]
+coord: { lat: 40.886037, lon: -73.878751 }
+neighborhood: "Norwood"
+zip_code: "10467"
+tags: []
+entrances: []

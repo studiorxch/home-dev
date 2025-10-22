@@ -1,0 +1,9 @@
+station_id: "120"
+name: "96 St"
+borough: "Manhattan"
+routes: ["2","3","1"]
+coord: { lat: 40.793919, lon: -73.972323 }
+neighborhood: "Upper West Side"
+zip_code: "10025"
+tags: []
+entrances: []

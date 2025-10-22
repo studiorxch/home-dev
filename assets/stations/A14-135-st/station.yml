@@ -1,0 +1,9 @@
+station_id: "A14"
+name: "135 St"
+borough: "Manhattan"
+routes: ["C","A","B"]
+coord: { lat: 40.817894, lon: -73.947649 }
+neighborhood: "Hamilton Heights"
+zip_code: "10031"
+tags: []
+entrances: []

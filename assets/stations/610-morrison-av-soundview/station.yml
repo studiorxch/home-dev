@@ -1,0 +1,9 @@
+station_id: "610"
+name: "Morrison Av-Soundview"
+borough: "Bronx"
+routes: ["6","6X"]
+coord: { lat: 40.829521, lon: -73.874516 }
+neighborhood: "Soundview"
+zip_code: "10472"
+tags: []
+entrances: []

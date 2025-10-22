@@ -1,0 +1,9 @@
+station_id: "D16"
+name: "42 St-Bryant Pk"
+borough: "Manhattan"
+routes: ["D","B","M","FX","F"]
+coord: { lat: 40.754222, lon: -73.984569 }
+neighborhood: "Theater District"
+zip_code: "10036"
+tags: []
+entrances: []

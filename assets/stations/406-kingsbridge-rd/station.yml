@@ -1,0 +1,9 @@
+station_id: "406"
+name: "Kingsbridge Rd"
+borough: "Bronx"
+routes: ["4"]
+coord: { lat: 40.86776, lon: -73.897174 }
+neighborhood: "Fordham"
+zip_code: "10468"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "A61"
+name: "Rockaway Blvd"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.680429, lon: -73.843853 }
+neighborhood: "Ozone Park"
+zip_code: "11417"
+tags: []
+entrances: []

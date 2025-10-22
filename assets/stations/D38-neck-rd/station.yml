@@ -1,0 +1,9 @@
+station_id: "D38"
+name: "Neck Rd"
+borough: "Brooklyn"
+routes: ["Q"]
+coord: { lat: 40.595246, lon: -73.955161 }
+neighborhood: "Homecrest"
+zip_code: "11229"
+tags: []
+entrances: []

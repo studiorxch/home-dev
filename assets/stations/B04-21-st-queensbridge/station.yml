@@ -1,0 +1,9 @@
+station_id: "B04"
+name: "21 St-Queensbridge"
+borough: "Queens"
+routes: ["F","FX"]
+coord: { lat: 40.754203, lon: -73.942836 }
+neighborhood: "Long Island City"
+zip_code: "11101"
+tags: []
+entrances: []

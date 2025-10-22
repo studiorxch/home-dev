@@ -1,0 +1,9 @@
+station_id: "S31"
+name: "St George"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.643748, lon: -74.073643 }
+neighborhood: "St. George"
+zip_code: "10301"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "635"
+name: "14 St-Union Sq"
+borough: "Manhattan"
+routes: ["6X","4","6","5"]
+coord: { lat: 40.734673, lon: -73.989951 }
+neighborhood: "Union Square"
+zip_code: "10003"
+tags: []
+entrances: []

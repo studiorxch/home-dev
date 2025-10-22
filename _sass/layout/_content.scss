@@ -1,0 +1,16 @@
+/* _sass/layout/_content.scss */
+
+.page-content,
+.station-list,
+footer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: var(--sidebar-width, 80px);
+  padding-right: var(--page-margin, 40px);
+  box-sizing: border-box;
+}
+footer {
+  border-top: 1px solid var(--border-color, #333);
+  padding-top: 2rem;
+  margin-top: 3rem;
+}

@@ -1,0 +1,9 @@
+station_id: "R43"
+name: "77 St"
+borough: "Brooklyn"
+routes: ["R"]
+coord: { lat: 40.629742, lon: -74.02551 }
+neighborhood: "Bay Ridge"
+zip_code: "11209"
+tags: []
+entrances: []

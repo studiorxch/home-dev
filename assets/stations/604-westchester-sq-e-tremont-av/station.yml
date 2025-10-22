@@ -1,0 +1,9 @@
+station_id: "604"
+name: "Westchester Sq-E Tremont Av"
+borough: "Bronx"
+routes: ["6","6X"]
+coord: { lat: 40.839892, lon: -73.842952 }
+neighborhood: "Westchester Square"
+zip_code: "10461"
+tags: []
+entrances: []

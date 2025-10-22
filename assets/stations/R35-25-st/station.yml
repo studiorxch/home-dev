@@ -1,0 +1,9 @@
+station_id: "R35"
+name: "25 St"
+borough: "Brooklyn"
+routes: ["D","N","W","R"]
+coord: { lat: 40.660397, lon: -73.998091 }
+neighborhood: "Greenwood Heights"
+zip_code: "11232"
+tags: []
+entrances: []

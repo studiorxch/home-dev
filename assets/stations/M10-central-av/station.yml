@@ -1,0 +1,9 @@
+station_id: "M10"
+name: "Central Av"
+borough: "Brooklyn"
+routes: ["M"]
+coord: { lat: 40.697857, lon: -73.927397 }
+neighborhood: "Bushwick"
+zip_code: "11221"
+tags: []
+entrances: []

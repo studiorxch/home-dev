@@ -1,0 +1,9 @@
+station_id: "A27"
+name: "42 St-Port Authority Bus Terminal"
+borough: "Manhattan"
+routes: ["C","A","E"]
+coord: { lat: 40.757308, lon: -73.989735 }
+neighborhood: "Unknown"
+zip_code: "10036"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "N02"
+name: "8 Av"
+borough: "Brooklyn"
+routes: ["N","W"]
+coord: { lat: 40.635064, lon: -74.011719 }
+neighborhood: "Sunset Park"
+zip_code: "11220"
+tags: []
+entrances: []

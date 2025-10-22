@@ -1,0 +1,9 @@
+station_id: "212"
+name: "Bronx Park East"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.848828, lon: -73.868457 }
+neighborhood: "Pelham Parkway"
+zip_code: "10462"
+tags: []
+entrances: []

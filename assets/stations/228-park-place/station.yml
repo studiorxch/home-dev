@@ -1,0 +1,9 @@
+station_id: "228"
+name: "Park Place"
+borough: "Manhattan"
+routes: ["2","3"]
+coord: { lat: 40.713051, lon: -74.008811 }
+neighborhood: "TriBeCa"
+zip_code: "10007"
+tags: []
+entrances: []

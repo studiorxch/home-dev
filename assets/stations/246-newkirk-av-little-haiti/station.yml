@@ -1,0 +1,9 @@
+station_id: "246"
+name: "Newkirk Av-Little Haiti"
+borough: "Brooklyn"
+routes: ["2","5"]
+coord: { lat: 40.639967, lon: -73.948411 }
+neighborhood: "Flatbush"
+zip_code: "11226"
+tags: []
+entrances: []

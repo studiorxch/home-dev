@@ -1,0 +1,9 @@
+station_id: "M19"
+name: "Bowery"
+borough: "Manhattan"
+routes: ["Z","J"]
+coord: { lat: 40.72028, lon: -73.993915 }
+neighborhood: "The Bowery"
+zip_code: "10002"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "R18"
+name: "28 St"
+borough: "Manhattan"
+routes: ["N","Q","W","R"]
+coord: { lat: 40.745494, lon: -73.988691 }
+neighborhood: "NoMad"
+zip_code: "10001"
+tags: []
+entrances: []

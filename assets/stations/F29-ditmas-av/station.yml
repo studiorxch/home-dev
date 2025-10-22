@@ -1,0 +1,9 @@
+station_id: "F29"
+name: "Ditmas Av"
+borough: "Brooklyn"
+routes: ["F","FX"]
+coord: { lat: 40.636119, lon: -73.978172 }
+neighborhood: "Borough Park"
+zip_code: "11218"
+tags: []
+entrances: []

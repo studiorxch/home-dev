@@ -1,0 +1,9 @@
+station_id: "S19"
+name: "Great Kills"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.551231, lon: -74.151399 }
+neighborhood: "Eltingville"
+zip_code: "10308"
+tags: []
+entrances: []

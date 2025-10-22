@@ -1,0 +1,9 @@
+station_id: "F05"
+name: "Briarwood"
+borough: "Queens"
+routes: ["F","FX","E"]
+coord: { lat: 40.709179, lon: -73.820574 }
+neighborhood: "Kew Gardens"
+zip_code: "11435"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "F35"
+name: "Kings Hwy"
+borough: "Brooklyn"
+routes: ["F","FX"]
+coord: { lat: 40.603217, lon: -73.972361 }
+neighborhood: "Gravesend"
+zip_code: "11223"
+tags: []
+entrances: []

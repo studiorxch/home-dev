@@ -1,0 +1,9 @@
+station_id: "D40"
+name: "Brighton Beach"
+borough: "Brooklyn"
+routes: ["Q","B"]
+coord: { lat: 40.577621, lon: -73.961376 }
+neighborhood: "Brighton Beach"
+zip_code: "11235"
+tags: []
+entrances: []

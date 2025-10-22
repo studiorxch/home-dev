@@ -1,0 +1,9 @@
+station_id: "618"
+name: "Brook Av"
+borough: "Bronx"
+routes: ["6"]
+coord: { lat: 40.807566, lon: -73.91924 }
+neighborhood: "Mott Haven"
+zip_code: "10454"
+tags: []
+entrances: []

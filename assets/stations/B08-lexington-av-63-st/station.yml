@@ -1,0 +1,9 @@
+station_id: "B08"
+name: "Lexington Av/63 St"
+borough: "Manhattan"
+routes: ["N","Q","R","FX","F"]
+coord: { lat: 40.764629, lon: -73.966113 }
+neighborhood: "Lenox Hill"
+zip_code: "10065"
+tags: []
+entrances: []

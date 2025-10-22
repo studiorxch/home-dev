@@ -1,0 +1,254 @@
+[
+  {
+    "station_id": "701",
+    "slug": "flushing-main-st",
+    "name": "Flushing-Main St",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.7596,
+    "lon": -73.83003,
+    "neighborhood": "Flushing",
+    "zip_code": "11354"
+  },
+  {
+    "station_id": "702",
+    "slug": "mets-willets-point",
+    "name": "Mets-Willets Point",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.754622,
+    "lon": -73.845625,
+    "neighborhood": "Corona",
+    "zip_code": "11368"
+  },
+  {
+    "station_id": "707",
+    "slug": "junction-blvd",
+    "name": "Junction Blvd",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.749145,
+    "lon": -73.869527,
+    "neighborhood": "Jackson Heights",
+    "zip_code": "11373"
+  },
+  {
+    "station_id": "710",
+    "slug": "74-st-broadway",
+    "name": "74 St-Broadway",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.746848,
+    "lon": -73.891394,
+    "neighborhood": "Elmhurst",
+    "zip_code": "11373"
+  },
+  {
+    "station_id": "711",
+    "slug": "69-st",
+    "name": "69 St",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.746325,
+    "lon": -73.896403,
+    "neighborhood": "Woodside",
+    "zip_code": "11377"
+  },
+  {
+    "station_id": "712",
+    "slug": "61-st-woodside",
+    "name": "61 St-Woodside",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.74563,
+    "lon": -73.902984,
+    "neighborhood": "Woodside",
+    "zip_code": "11377"
+  },
+  {
+    "station_id": "713",
+    "slug": "52-st",
+    "name": "52 St",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.744149,
+    "lon": -73.912549,
+    "neighborhood": "Woodside",
+    "zip_code": "11377"
+  },
+  {
+    "station_id": "714",
+    "slug": "46-st-bliss-st",
+    "name": "46 St-Bliss St",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.743132,
+    "lon": -73.918435,
+    "neighborhood": "Sunnyside",
+    "zip_code": "11104"
+  },
+  {
+    "station_id": "715",
+    "slug": "40-st-lowery-st",
+    "name": "40 St-Lowery St",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.743781,
+    "lon": -73.924016,
+    "neighborhood": "Sunnyside",
+    "zip_code": "11104"
+  },
+  {
+    "station_id": "716",
+    "slug": "33-st-rawson-st",
+    "name": "33 St-Rawson St",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.744587,
+    "lon": -73.930997,
+    "neighborhood": "Sunnyside",
+    "zip_code": "11101"
+  },
+  {
+    "station_id": "718",
+    "slug": "queensboro-plaza",
+    "name": "Queensboro Plaza",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.750582,
+    "lon": -73.940202,
+    "neighborhood": "Long Island City",
+    "zip_code": "11101"
+  },
+  {
+    "station_id": "719",
+    "slug": "court-sq",
+    "name": "Court Sq",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.747023,
+    "lon": -73.945264,
+    "neighborhood": "Hunters Point",
+    "zip_code": "11101"
+  },
+  {
+    "station_id": "720",
+    "slug": "hunters-point-av",
+    "name": "Hunters Point Av",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.742216,
+    "lon": -73.948916,
+    "neighborhood": "Hunters Point",
+    "zip_code": "11101"
+  },
+  {
+    "station_id": "721",
+    "slug": "vernon-blvd-jackson-av",
+    "name": "Vernon Blvd-Jackson Av",
+    "borough": "Queens",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.742626,
+    "lon": -73.953581,
+    "neighborhood": "Hunters Point",
+    "zip_code": "11101"
+  },
+  {
+    "station_id": "723",
+    "slug": "grand-central-42-st",
+    "name": "Grand Central-42 St",
+    "borough": "Manhattan",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.751431,
+    "lon": -73.976041,
+    "neighborhood": "Murray Hill",
+    "zip_code": "10017"
+  },
+  {
+    "station_id": "724",
+    "slug": "5-av",
+    "name": "5 Av",
+    "borough": "Manhattan",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.753821,
+    "lon": -73.981963,
+    "neighborhood": "Garment District",
+    "zip_code": "10018"
+  },
+  {
+    "station_id": "725",
+    "slug": "times-sq-42-st",
+    "name": "Times Sq-42 St",
+    "borough": "Manhattan",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.755477,
+    "lon": -73.987691,
+    "neighborhood": "Theater District",
+    "zip_code": "10018"
+  },
+  {
+    "station_id": "726",
+    "slug": "34-st-hudson-yards",
+    "name": "34 St-Hudson Yards",
+    "borough": "Manhattan",
+    "routes": [
+      "7",
+      "7X"
+    ],
+    "lat": 40.755882,
+    "lon": -74.00191,
+    "neighborhood": "Hell's Kitchen",
+    "zip_code": "10001"
+  }
+]

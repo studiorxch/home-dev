@@ -1,0 +1,9 @@
+station_id: "B21"
+name: "Bay Pkwy"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.601875, lon: -73.993728 }
+neighborhood: "Bath Beach"
+zip_code: "11214"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "719"
+name: "Court Sq"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.747023, lon: -73.945264 }
+neighborhood: "Hunters Point"
+zip_code: "11101"
+tags: []
+entrances: []

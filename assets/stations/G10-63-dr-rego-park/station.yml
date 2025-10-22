@@ -1,0 +1,9 @@
+station_id: "G10"
+name: "63 Dr-Rego Park"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.729846, lon: -73.861604 }
+neighborhood: "Rego Park"
+zip_code: "11374"
+tags: []
+entrances: []

@@ -1,0 +1,22 @@
+[
+    {
+        "stop_id": "R28",
+        "stop_name": "York Street",
+        "moods": [
+            "Dreamy",
+            "Comforting",
+            "Nostalgic"
+        ],
+        "playlist": "/playlists/york-st.html"
+    },
+    {
+        "stop_id": "R14",
+        "stop_name": "Union Square",
+        "moods": [
+            "Energetic",
+            "Chill",
+            "Hopeful"
+        ],
+        "playlist": "/playlists/union-square.html"
+    }
+]

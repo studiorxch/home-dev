@@ -1,0 +1,9 @@
+station_id: "714"
+name: "46 St-Bliss St"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.743132, lon: -73.918435 }
+neighborhood: "Sunnyside"
+zip_code: "11104"
+tags: []
+entrances: []

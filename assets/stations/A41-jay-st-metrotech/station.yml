@@ -1,0 +1,9 @@
+station_id: "A41"
+name: "Jay St-MetroTech"
+borough: "Brooklyn"
+routes: ["C","A","FX","F"]
+coord: { lat: 40.692338, lon: -73.987342 }
+neighborhood: "Downtown Brooklyn"
+zip_code: "11201"
+tags: []
+entrances: []

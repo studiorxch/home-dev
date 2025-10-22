@@ -1,0 +1,9 @@
+station_id: "708"
+name: "90 St-Elmhurst Av"
+borough: "Queens"
+routes: ["7"]
+coord: { lat: 40.748408, lon: -73.876613 }
+neighborhood: "Jackson Heights"
+zip_code: "11372"
+tags: []
+entrances: []

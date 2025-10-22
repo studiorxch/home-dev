@@ -1,0 +1,9 @@
+station_id: "D41"
+name: "Ocean Pkwy"
+borough: "Brooklyn"
+routes: ["Q"]
+coord: { lat: 40.576312, lon: -73.968501 }
+neighborhood: "Brighton Beach"
+zip_code: "11235"
+tags: []
+entrances: []

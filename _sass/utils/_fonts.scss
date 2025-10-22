@@ -1,0 +1,71 @@
+/* ============================================================================
+   FONT: Satoshi (Local)
+   ============================================================================ */
+body {
+  font-family:
+    'Satoshi',
+    'Inter',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    sans-serif;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src:
+    url('/assets/fonts/Satoshi-Regular.woff2') format('woff2'),
+    url('/assets/fonts/Satoshi-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src:
+    url('/assets/fonts/Satoshi-Medium.woff2') format('woff2'),
+    url('/assets/fonts/Satoshi-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src:
+    url('/assets/fonts/Satoshi-Bold.woff2') format('woff2'),
+    url('/assets/fonts/Satoshi-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ============================================================================
+   FONT: Inter (Local)
+   ============================================================================ */
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/assets/fonts/Inter_24pt-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/assets/fonts/Inter_24pt-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/assets/fonts/Inter_24pt-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

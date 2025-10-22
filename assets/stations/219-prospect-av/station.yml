@@ -1,0 +1,9 @@
+station_id: "219"
+name: "Prospect Av"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.819585, lon: -73.90177 }
+neighborhood: "Longwood"
+zip_code: "10455"
+tags: []
+entrances: []

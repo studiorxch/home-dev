@@ -1,0 +1,9 @@
+station_id: "N03"
+name: "Fort Hamilton Pkwy"
+borough: "Brooklyn"
+routes: ["N","W"]
+coord: { lat: 40.631386, lon: -74.005351 }
+neighborhood: "Bensonhurst"
+zip_code: "11219"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "R28"
+name: "Court St"
+borough: "Brooklyn"
+routes: ["N","W","R"]
+coord: { lat: 40.6941, lon: -73.991777 }
+neighborhood: "Brooklyn Heights"
+zip_code: "11201"
+tags: []
+entrances: []

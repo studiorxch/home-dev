@@ -1,0 +1,9 @@
+station_id: "N10"
+name: "86 St"
+borough: "Brooklyn"
+routes: ["N","W"]
+coord: { lat: 40.592721, lon: -73.97823 }
+neighborhood: "Gravesend"
+zip_code: "11223"
+tags: []
+entrances: []

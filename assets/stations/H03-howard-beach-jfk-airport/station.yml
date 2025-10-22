@@ -1,0 +1,9 @@
+station_id: "H03"
+name: "Howard Beach-JFK Airport"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.660476, lon: -73.830301 }
+neighborhood: "Unknown"
+zip_code: "11414"
+tags: []
+entrances: []

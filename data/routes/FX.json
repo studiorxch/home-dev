@@ -1,0 +1,589 @@
+[
+  {
+    "station_id": "A41",
+    "slug": "jay-st-metrotech",
+    "name": "Jay St-MetroTech",
+    "borough": "Brooklyn",
+    "routes": [
+      "C",
+      "A",
+      "FX",
+      "F"
+    ],
+    "lat": 40.692338,
+    "lon": -73.987342,
+    "neighborhood": "Downtown Brooklyn",
+    "zip_code": "11201"
+  },
+  {
+    "station_id": "B06",
+    "slug": "roosevelt-island",
+    "name": "Roosevelt Island",
+    "borough": "Manhattan",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.759145,
+    "lon": -73.95326,
+    "neighborhood": "Roosevelt Island",
+    "zip_code": "10044"
+  },
+  {
+    "station_id": "B04",
+    "slug": "21-st-queensbridge",
+    "name": "21 St-Queensbridge",
+    "borough": "Queens",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.754203,
+    "lon": -73.942836,
+    "neighborhood": "Long Island City",
+    "zip_code": "11101"
+  },
+  {
+    "station_id": "B08",
+    "slug": "lexington-av-63-st",
+    "name": "Lexington Av/63 St",
+    "borough": "Manhattan",
+    "routes": [
+      "N",
+      "Q",
+      "R",
+      "FX",
+      "F"
+    ],
+    "lat": 40.764629,
+    "lon": -73.966113,
+    "neighborhood": "Lenox Hill",
+    "zip_code": "10065"
+  },
+  {
+    "station_id": "B10",
+    "slug": "57-st",
+    "name": "57 St",
+    "borough": "Manhattan",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.763972,
+    "lon": -73.97745,
+    "neighborhood": "Midtown East",
+    "zip_code": "10019"
+  },
+  {
+    "station_id": "D15",
+    "slug": "47-50-sts-rockefeller-ctr",
+    "name": "47-50 Sts-Rockefeller Ctr",
+    "borough": "Manhattan",
+    "routes": [
+      "D",
+      "B",
+      "M",
+      "FX",
+      "F"
+    ],
+    "lat": 40.758663,
+    "lon": -73.981329,
+    "neighborhood": "Rockefeller Center",
+    "zip_code": "10019"
+  },
+  {
+    "station_id": "D16",
+    "slug": "42-st-bryant-pk",
+    "name": "42 St-Bryant Pk",
+    "borough": "Manhattan",
+    "routes": [
+      "D",
+      "B",
+      "M",
+      "FX",
+      "F"
+    ],
+    "lat": 40.754222,
+    "lon": -73.984569,
+    "neighborhood": "Theater District",
+    "zip_code": "10036"
+  },
+  {
+    "station_id": "D17",
+    "slug": "34-st-herald-sq",
+    "name": "34 St-Herald Sq",
+    "borough": "Manhattan",
+    "routes": [
+      "D",
+      "B",
+      "M",
+      "FX",
+      "F"
+    ],
+    "lat": 40.749719,
+    "lon": -73.987823,
+    "neighborhood": "Koreatown",
+    "zip_code": "10001"
+  },
+  {
+    "station_id": "D18",
+    "slug": "23-st",
+    "name": "23 St",
+    "borough": "Manhattan",
+    "routes": [
+      "F",
+      "FX",
+      "M"
+    ],
+    "lat": 40.742878,
+    "lon": -73.992821,
+    "neighborhood": "The Flatiron District",
+    "zip_code": "10010"
+  },
+  {
+    "station_id": "D19",
+    "slug": "14-st",
+    "name": "14 St",
+    "borough": "Manhattan",
+    "routes": [
+      "F",
+      "FX",
+      "M"
+    ],
+    "lat": 40.738228,
+    "lon": -73.996209,
+    "neighborhood": "Chelsea",
+    "zip_code": "10011"
+  },
+  {
+    "station_id": "D20",
+    "slug": "w-4-st-wash-sq",
+    "name": "W 4 St-Wash Sq",
+    "borough": "Manhattan",
+    "routes": [
+      "D",
+      "B",
+      "M",
+      "FX",
+      "F"
+    ],
+    "lat": 40.732338,
+    "lon": -74.000495,
+    "neighborhood": "West Village",
+    "zip_code": "10014"
+  },
+  {
+    "station_id": "D21",
+    "slug": "broadway-lafayette-st",
+    "name": "Broadway-Lafayette St",
+    "borough": "Manhattan",
+    "routes": [
+      "D",
+      "B",
+      "M",
+      "FX",
+      "F"
+    ],
+    "lat": 40.725297,
+    "lon": -73.996204,
+    "neighborhood": "SoHo",
+    "zip_code": "10012"
+  },
+  {
+    "station_id": "D42",
+    "slug": "w-8-st-ny-aquarium",
+    "name": "W 8 St-NY Aquarium",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "Q",
+      "FX"
+    ],
+    "lat": 40.576127,
+    "lon": -73.975939,
+    "neighborhood": "Coney Island",
+    "zip_code": "11224"
+  },
+  {
+    "station_id": "D43",
+    "slug": "coney-island-stillwell-av",
+    "name": "Coney Island-Stillwell Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "D",
+      "N",
+      "Q",
+      "FX",
+      "F"
+    ],
+    "lat": 40.577422,
+    "lon": -73.981233,
+    "neighborhood": "Coney Island",
+    "zip_code": "11224"
+  },
+  {
+    "station_id": "F01",
+    "slug": "jamaica-179-st",
+    "name": "Jamaica-179 St",
+    "borough": "Queens",
+    "routes": [
+      "F",
+      "FX",
+      "E"
+    ],
+    "lat": 40.712646,
+    "lon": -73.783817,
+    "neighborhood": "Jamaica",
+    "zip_code": "11432"
+  },
+  {
+    "station_id": "F02",
+    "slug": "169-st",
+    "name": "169 St",
+    "borough": "Queens",
+    "routes": [
+      "F",
+      "FX",
+      "E"
+    ],
+    "lat": 40.71047,
+    "lon": -73.793604,
+    "neighborhood": "Jamaica",
+    "zip_code": "11432"
+  },
+  {
+    "station_id": "F03",
+    "slug": "parsons-blvd",
+    "name": "Parsons Blvd",
+    "borough": "Queens",
+    "routes": [
+      "F",
+      "FX",
+      "E"
+    ],
+    "lat": 40.707564,
+    "lon": -73.803326,
+    "neighborhood": "Briarwood",
+    "zip_code": "11432"
+  },
+  {
+    "station_id": "F04",
+    "slug": "sutphin-blvd",
+    "name": "Sutphin Blvd",
+    "borough": "Queens",
+    "routes": [
+      "F",
+      "FX",
+      "E"
+    ],
+    "lat": 40.70546,
+    "lon": -73.810708,
+    "neighborhood": "Jamaica",
+    "zip_code": "11435"
+  },
+  {
+    "station_id": "F05",
+    "slug": "briarwood",
+    "name": "Briarwood",
+    "borough": "Queens",
+    "routes": [
+      "F",
+      "FX",
+      "E"
+    ],
+    "lat": 40.709179,
+    "lon": -73.820574,
+    "neighborhood": "Kew Gardens",
+    "zip_code": "11435"
+  },
+  {
+    "station_id": "F06",
+    "slug": "kew-gardens-union-tpke",
+    "name": "Kew Gardens-Union Tpke",
+    "borough": "Queens",
+    "routes": [
+      "F",
+      "FX",
+      "E"
+    ],
+    "lat": 40.714441,
+    "lon": -73.831008,
+    "neighborhood": "Forest Hills",
+    "zip_code": "11375"
+  },
+  {
+    "station_id": "F07",
+    "slug": "75-av",
+    "name": "75 Av",
+    "borough": "Queens",
+    "routes": [
+      "F",
+      "FX",
+      "E"
+    ],
+    "lat": 40.718331,
+    "lon": -73.837324,
+    "neighborhood": "Forest Hills",
+    "zip_code": "11375"
+  },
+  {
+    "station_id": "F14",
+    "slug": "2-av",
+    "name": "2 Av",
+    "borough": "Manhattan",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.723402,
+    "lon": -73.989938,
+    "neighborhood": "The Bowery",
+    "zip_code": "10003"
+  },
+  {
+    "station_id": "F15",
+    "slug": "delancey-st-essex-st",
+    "name": "Delancey St-Essex St",
+    "borough": "Manhattan",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.718611,
+    "lon": -73.988114,
+    "neighborhood": "Lower East Side",
+    "zip_code": "10002"
+  },
+  {
+    "station_id": "F16",
+    "slug": "east-broadway",
+    "name": "East Broadway",
+    "borough": "Manhattan",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.713715,
+    "lon": -73.990173,
+    "neighborhood": "Two Bridges",
+    "zip_code": "10002"
+  },
+  {
+    "station_id": "F18",
+    "slug": "york-st",
+    "name": "York St",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.701397,
+    "lon": -73.986751,
+    "neighborhood": "Dumbo",
+    "zip_code": "11201"
+  },
+  {
+    "station_id": "F24",
+    "slug": "7-av",
+    "name": "7 Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F",
+      "FX"
+    ],
+    "lat": 40.666271,
+    "lon": -73.980305,
+    "neighborhood": "South Slope",
+    "zip_code": "11215"
+  },
+  {
+    "station_id": "F27",
+    "slug": "church-av",
+    "name": "Church Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F",
+      "FX"
+    ],
+    "lat": 40.644041,
+    "lon": -73.979678,
+    "neighborhood": "Kensington",
+    "zip_code": "11218"
+  },
+  {
+    "station_id": "F29",
+    "slug": "ditmas-av",
+    "name": "Ditmas Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.636119,
+    "lon": -73.978172,
+    "neighborhood": "Borough Park",
+    "zip_code": "11218"
+  },
+  {
+    "station_id": "F30",
+    "slug": "18-av",
+    "name": "18 Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.629755,
+    "lon": -73.976971,
+    "neighborhood": "Kensington",
+    "zip_code": "11230"
+  },
+  {
+    "station_id": "F31",
+    "slug": "avenue-i",
+    "name": "Avenue I",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.625322,
+    "lon": -73.976127,
+    "neighborhood": "Borough Park",
+    "zip_code": "11230"
+  },
+  {
+    "station_id": "F33",
+    "slug": "avenue-n",
+    "name": "Avenue N",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.61514,
+    "lon": -73.974197,
+    "neighborhood": "Borough Park",
+    "zip_code": "11230"
+  },
+  {
+    "station_id": "F32",
+    "slug": "bay-pkwy",
+    "name": "Bay Pkwy",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.620769,
+    "lon": -73.975264,
+    "neighborhood": "Borough Park",
+    "zip_code": "11204"
+  },
+  {
+    "station_id": "F34",
+    "slug": "avenue-p",
+    "name": "Avenue P",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.608944,
+    "lon": -73.973022,
+    "neighborhood": "Midwood",
+    "zip_code": "11204"
+  },
+  {
+    "station_id": "F35",
+    "slug": "kings-hwy",
+    "name": "Kings Hwy",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.603217,
+    "lon": -73.972361,
+    "neighborhood": "Gravesend",
+    "zip_code": "11223"
+  },
+  {
+    "station_id": "F36",
+    "slug": "avenue-u",
+    "name": "Avenue U",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.596063,
+    "lon": -73.973357,
+    "neighborhood": "Gravesend",
+    "zip_code": "11223"
+  },
+  {
+    "station_id": "F38",
+    "slug": "avenue-x",
+    "name": "Avenue X",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.58962,
+    "lon": -73.97425,
+    "neighborhood": "Gravesend",
+    "zip_code": "11223"
+  },
+  {
+    "station_id": "F39",
+    "slug": "neptune-av",
+    "name": "Neptune Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "F",
+      "FX"
+    ],
+    "lat": 40.581011,
+    "lon": -73.974574,
+    "neighborhood": "Coney Island",
+    "zip_code": "11224"
+  },
+  {
+    "station_id": "G08",
+    "slug": "forest-hills-71-av",
+    "name": "Forest Hills-71 Av",
+    "borough": "Queens",
+    "routes": [
+      "R",
+      "E",
+      "M",
+      "FX",
+      "F"
+    ],
+    "lat": 40.721691,
+    "lon": -73.844521,
+    "neighborhood": "Forest Hills",
+    "zip_code": "11375"
+  },
+  {
+    "station_id": "G14",
+    "slug": "jackson-hts-roosevelt-av",
+    "name": "Jackson Hts-Roosevelt Av",
+    "borough": "Queens",
+    "routes": [
+      "R",
+      "E",
+      "M",
+      "FX",
+      "F"
+    ],
+    "lat": 40.746644,
+    "lon": -73.891338,
+    "neighborhood": "Elmhurst",
+    "zip_code": "11373"
+  }
+]

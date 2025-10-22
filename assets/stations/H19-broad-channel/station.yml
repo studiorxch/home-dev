@@ -1,0 +1,9 @@
+station_id: "H19"
+name: "Broad Channel"
+borough: "Queens"
+routes: []
+coord: { lat: 40.609014, lon: -73.816024 }
+neighborhood: "Broad Channel"
+zip_code: "11693"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "L25"
+name: "Sutter Av"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.669367, lon: -73.901975 }
+neighborhood: "Brownsville"
+zip_code: "11207"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "R03"
+name: "Astoria Blvd"
+borough: "Queens"
+routes: ["N","W"]
+coord: { lat: 40.770258, lon: -73.917843 }
+neighborhood: "Astoria"
+zip_code: "11103"
+tags: []
+entrances: []

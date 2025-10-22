@@ -1,0 +1,9 @@
+station_id: "220"
+name: "Jackson Av"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.81649, lon: -73.907807 }
+neighborhood: "Morrisania"
+zip_code: "10455"
+tags: []
+entrances: []

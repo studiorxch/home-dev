@@ -1,0 +1,9 @@
+station_id: "B19"
+name: "18 Av"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.607954, lon: -74.001736 }
+neighborhood: "Bensonhurst"
+zip_code: "11214"
+tags: []
+entrances: []

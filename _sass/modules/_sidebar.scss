@@ -1,0 +1,88 @@
+// ============================================================================
+// StudioRich Sidebar Navigation (v3)
+// Fixed footer icons + primary feature icons
+// ============================================================================
+
+.left-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 72px;
+  height: 100vh;
+  background: var(--color-bg);
+  border-right: 1px solid var(--color-border);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  z-index: 1000;
+}
+
+.left-nav .nav-top,
+.left-nav .nav-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+/* --- MAIN FEATURE ICONS --- */
+.left-nav .nav-top a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  transition:
+    background 0.3s ease,
+    transform 0.3s ease;
+}
+
+.left-nav .nav-top a:hover {
+  transform: scale(1.1);
+  background: var(--color-surface-subtle);
+}
+
+/* --- ICON VISIBILITY --- */
+.left-nav img,
+.left-nav svg {
+  width: 22px;
+  height: 22px;
+  filter: var(--nav-icon-filter);
+  transition: filter 0.3s ease;
+}
+
+[data-theme='light'] {
+  --nav-icon-filter: brightness(0) saturate(100%) invert(0.05) contrast(1.2);
+}
+
+[data-theme='dark'] {
+  --nav-icon-filter: brightness(0) saturate(100%) invert(1) contrast(1.05);
+}
+
+/* --- LOWER FIXED ICONS --- */
+.left-nav .nav-bottom {
+  position: sticky;
+  bottom: 1rem;
+  margin-top: auto;
+}
+
+.left-nav .nav-bottom a {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: transparent;
+  transition:
+    background 0.3s ease,
+    transform 0.3s ease;
+}
+
+.left-nav .nav-bottom a:hover {
+  background: var(--color-surface-subtle);
+  transform: scale(1.1);
+}

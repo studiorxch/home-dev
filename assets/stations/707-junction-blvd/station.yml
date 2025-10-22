@@ -1,0 +1,9 @@
+station_id: "707"
+name: "Junction Blvd"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.749145, lon: -73.869527 }
+neighborhood: "Jackson Heights"
+zip_code: "11373"
+tags: []
+entrances: []

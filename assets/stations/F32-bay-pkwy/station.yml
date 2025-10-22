@@ -1,0 +1,9 @@
+station_id: "F32"
+name: "Bay Pkwy"
+borough: "Brooklyn"
+routes: ["F","FX"]
+coord: { lat: 40.620769, lon: -73.975264 }
+neighborhood: "Borough Park"
+zip_code: "11204"
+tags: []
+entrances: []

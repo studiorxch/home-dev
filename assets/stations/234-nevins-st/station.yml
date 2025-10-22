@@ -1,0 +1,9 @@
+station_id: "234"
+name: "Nevins St"
+borough: "Brooklyn"
+routes: ["2","4","3","5"]
+coord: { lat: 40.688246, lon: -73.980492 }
+neighborhood: "Downtown Brooklyn"
+zip_code: "11217"
+tags: []
+entrances: []

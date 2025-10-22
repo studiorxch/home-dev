@@ -1,0 +1,9 @@
+station_id: "204"
+name: "Nereid Av"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.898379, lon: -73.854376 }
+neighborhood: "Wakefield"
+zip_code: "10466"
+tags: []
+entrances: []

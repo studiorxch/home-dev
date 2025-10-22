@@ -1,0 +1,9 @@
+station_id: "112"
+name: "168 St-Washington Hts"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.840556, lon: -73.940133 }
+neighborhood: "Washington Heights"
+zip_code: "10032"
+tags: []
+entrances: []

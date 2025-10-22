@@ -1,0 +1,9 @@
+station_id: "S17"
+name: "Annadale"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.54046, lon: -74.178217 }
+neighborhood: "Annadale"
+zip_code: "10312"
+tags: []
+entrances: []

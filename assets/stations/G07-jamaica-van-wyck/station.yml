@@ -1,0 +1,9 @@
+station_id: "G07"
+name: "Jamaica-Van Wyck"
+borough: "Queens"
+routes: ["E"]
+coord: { lat: 40.702566, lon: -73.816859 }
+neighborhood: "Richmond Hill"
+zip_code: "11418"
+tags: []
+entrances: []

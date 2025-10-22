@@ -1,0 +1,9 @@
+station_id: "238"
+name: "Eastern Pkwy-Brooklyn Museum"
+borough: "Brooklyn"
+routes: ["2","4","3"]
+coord: { lat: 40.671987, lon: -73.964375 }
+neighborhood: "Prospect Park"
+zip_code: "11238"
+tags: []
+entrances: []

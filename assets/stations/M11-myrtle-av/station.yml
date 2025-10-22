@@ -1,0 +1,9 @@
+station_id: "M11"
+name: "Myrtle Av"
+borough: "Brooklyn"
+routes: ["Z","J","M"]
+coord: { lat: 40.697207, lon: -73.935657 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11206"
+tags: []
+entrances: []

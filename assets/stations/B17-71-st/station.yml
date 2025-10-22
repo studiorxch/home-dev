@@ -1,0 +1,9 @@
+station_id: "B17"
+name: "71 St"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.619589, lon: -73.998864 }
+neighborhood: "Bensonhurst"
+zip_code: "11228"
+tags: []
+entrances: []

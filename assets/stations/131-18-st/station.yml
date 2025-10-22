@@ -1,0 +1,9 @@
+station_id: "131"
+name: "18 St"
+borough: "Manhattan"
+routes: ["2","1"]
+coord: { lat: 40.74104, lon: -73.997871 }
+neighborhood: "Chelsea"
+zip_code: "10011"
+tags: []
+entrances: []

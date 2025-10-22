@@ -1,0 +1,59 @@
+// _sass/utils/_mixins.scss
+// Shared layout mixins and utilities for StudioRich
+
+// Flexbox helpers
+@mixin flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin flex-column($align: center, $justify: flex-start) {
+  display: flex;
+  flex-direction: column;
+  align-items: $align;
+  justify-content: $justify;
+}
+
+// Media query helper
+@mixin respond-to($breakpoint) {
+  @if $breakpoint == sm {
+    @media (max-width: 640px) {
+      @content;
+    }
+  } @else if $breakpoint == md {
+    @media (max-width: 768px) {
+      @content;
+    }
+  } @else if $breakpoint == lg {
+    @media (max-width: 1024px) {
+      @content;
+    }
+  } @else if $breakpoint == xl {
+    @media (max-width: 1280px) {
+      @content;
+    }
+  }
+}
+
+// Clearfix (old school, still handy)
+@mixin clearfix {
+  &::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+}
+
+// Text utilities
+@mixin truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

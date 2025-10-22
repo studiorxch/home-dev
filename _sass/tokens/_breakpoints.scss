@@ -1,0 +1,30 @@
+// ============================================================================
+// StudioRich Breakpoint Tokens
+// Defines all viewport widths for responsive layout.
+// ============================================================================
+
+// Pixel values
+$bp-sm: 480px;
+$bp-md: 768px;
+$bp-lg: 1024px;
+$bp-xl: 1440px;
+
+// Map version (for loop-based queries)
+$breakpoints: (
+  'sm': $bp-sm,
+  'md': $bp-md,
+  'lg': $bp-lg,
+  'xl': $bp-xl,
+);
+
+// Media-query helper mixin
+@mixin respond-to($bp) {
+  $value: map-get($breakpoints, $bp);
+  @if $value {
+    @media (max-width: #{$value}) {
+      @content;
+    }
+  } @else {
+    @warn "Unknown breakpoint `#{$bp}`";
+  }
+}

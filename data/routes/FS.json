@@ -1,0 +1,56 @@
+[
+  {
+    "station_id": "D26",
+    "slug": "prospect-park",
+    "name": "Prospect Park",
+    "borough": "Brooklyn",
+    "routes": [
+      "Q",
+      "FS",
+      "B"
+    ],
+    "lat": 40.661614,
+    "lon": -73.962246,
+    "neighborhood": "Prospect Lefferts Gardens",
+    "zip_code": "11225"
+  },
+  {
+    "station_id": "S01",
+    "slug": "franklin-av",
+    "name": "Franklin Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "FS"
+    ],
+    "lat": 40.680596,
+    "lon": -73.955827,
+    "neighborhood": "Bedford",
+    "zip_code": "11238"
+  },
+  {
+    "station_id": "S03",
+    "slug": "park-pl",
+    "name": "Park Pl",
+    "borough": "Brooklyn",
+    "routes": [
+      "FS"
+    ],
+    "lat": 40.674772,
+    "lon": -73.957624,
+    "neighborhood": "Crown Heights",
+    "zip_code": "11238"
+  },
+  {
+    "station_id": "S04",
+    "slug": "botanic-garden",
+    "name": "Botanic Garden",
+    "borough": "Brooklyn",
+    "routes": [
+      "FS"
+    ],
+    "lat": 40.670343,
+    "lon": -73.959245,
+    "neighborhood": "Crown Heights",
+    "zip_code": "11225"
+  }
+]

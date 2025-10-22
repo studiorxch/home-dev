@@ -1,0 +1,9 @@
+station_id: "G33"
+name: "Bedford-Nostrand Avs"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.689627, lon: -73.953522 }
+neighborhood: "Bedford"
+zip_code: "11205"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "211"
+name: "Pelham Pkwy"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.857192, lon: -73.867615 }
+neighborhood: "Pelham Parkway"
+zip_code: "10462"
+tags: []
+entrances: []

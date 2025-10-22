@@ -1,0 +1,9 @@
+station_id: "R42"
+name: "Bay Ridge Av"
+borough: "Brooklyn"
+routes: ["R"]
+coord: { lat: 40.634967, lon: -74.023377 }
+neighborhood: "Bay Ridge"
+zip_code: "11220"
+tags: []
+entrances: []

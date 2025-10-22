@@ -1,0 +1,9 @@
+station_id: "636"
+name: "Astor Pl"
+borough: "Manhattan"
+routes: ["4","6","6X"]
+coord: { lat: 40.730054, lon: -73.99107 }
+neighborhood: "NoHo"
+zip_code: "10003"
+tags: []
+entrances: []

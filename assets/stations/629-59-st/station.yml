@@ -1,0 +1,9 @@
+station_id: "629"
+name: "59 St"
+borough: "Manhattan"
+routes: ["6X","4","6","5"]
+coord: { lat: 40.762526, lon: -73.967967 }
+neighborhood: "Midtown East"
+zip_code: "10022"
+tags: []
+entrances: []

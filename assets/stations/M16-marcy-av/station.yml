@@ -1,0 +1,9 @@
+station_id: "M16"
+name: "Marcy Av"
+borough: "Brooklyn"
+routes: ["Z","J","M"]
+coord: { lat: 40.708359, lon: -73.957757 }
+neighborhood: "Williamsburg"
+zip_code: "11211"
+tags: []
+entrances: []

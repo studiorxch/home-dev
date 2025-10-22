@@ -1,0 +1,28 @@
+/* _sass/ui/layout.scss */
+/* ============================================================================
+   Layout Wrapper – creates a true column layout beside the fixed sidebar
+   ============================================================================ */
+
+.layout-wrapper {
+  margin-left: 64px; /* matches sidebar width */
+  width: calc(100% - 64px);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background: var(--color-bg);
+  z-index: 1;
+}
+
+@media (max-width: 768px) {
+  .layout-wrapper {
+    margin-left: 56px;
+    width: calc(100% - 56px);
+  }
+}
+
+/* Ensure footer stays inside flow */
+.site-footer {
+  width: 100%;
+  margin-left: 0;
+}

@@ -1,0 +1,9 @@
+station_id: "247"
+name: "Flatbush Av-Brooklyn College"
+borough: "Brooklyn"
+routes: ["2","5"]
+coord: { lat: 40.632836, lon: -73.947642 }
+neighborhood: "Flatbush"
+zip_code: "11210"
+tags: []
+entrances: []

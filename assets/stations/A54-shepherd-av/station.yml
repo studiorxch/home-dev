@@ -1,0 +1,9 @@
+station_id: "A54"
+name: "Shepherd Av"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.67413, lon: -73.88075 }
+neighborhood: "East New York"
+zip_code: "11208"
+tags: []
+entrances: []

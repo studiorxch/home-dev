@@ -1,0 +1,9 @@
+station_id: "115"
+name: "137 St-City College"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.822008, lon: -73.953676 }
+neighborhood: "Hamilton Heights"
+zip_code: "10031"
+tags: []
+entrances: []

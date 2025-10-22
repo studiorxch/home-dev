@@ -1,0 +1,9 @@
+station_id: "612"
+name: "Whitlock Av"
+borough: "Bronx"
+routes: ["6","6X"]
+coord: { lat: 40.826525, lon: -73.886283 }
+neighborhood: "Longwood"
+zip_code: "10459"
+tags: []
+entrances: []

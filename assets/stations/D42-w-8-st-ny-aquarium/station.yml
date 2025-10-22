@@ -1,0 +1,9 @@
+station_id: "D42"
+name: "W 8 St-NY Aquarium"
+borough: "Brooklyn"
+routes: ["F","Q","FX"]
+coord: { lat: 40.576127, lon: -73.975939 }
+neighborhood: "Coney Island"
+zip_code: "11224"
+tags: []
+entrances: []

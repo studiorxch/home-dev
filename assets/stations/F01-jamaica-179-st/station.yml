@@ -1,0 +1,9 @@
+station_id: "F01"
+name: "Jamaica-179 St"
+borough: "Queens"
+routes: ["F","FX","E"]
+coord: { lat: 40.712646, lon: -73.783817 }
+neighborhood: "Jamaica"
+zip_code: "11432"
+tags: []
+entrances: []

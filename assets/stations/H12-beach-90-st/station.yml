@@ -1,0 +1,9 @@
+station_id: "H12"
+name: "Beach 90 St"
+borough: "Queens"
+routes: ["A","H"]
+coord: { lat: 40.588034, lon: -73.813641 }
+neighborhood: "Seaside"
+zip_code: "11693"
+tags: []
+entrances: []

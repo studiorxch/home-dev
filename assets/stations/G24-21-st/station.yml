@@ -1,0 +1,9 @@
+station_id: "G24"
+name: "21 St"
+borough: "Queens"
+routes: ["G"]
+coord: { lat: 40.744065, lon: -73.949724 }
+neighborhood: "Hunters Point"
+zip_code: "11101"
+tags: []
+entrances: []

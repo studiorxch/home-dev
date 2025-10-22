@@ -1,0 +1,9 @@
+station_id: "D39"
+name: "Sheepshead Bay"
+borough: "Brooklyn"
+routes: ["Q","B"]
+coord: { lat: 40.586896, lon: -73.954155 }
+neighborhood: "Sheepshead Bay"
+zip_code: "11235"
+tags: []
+entrances: []

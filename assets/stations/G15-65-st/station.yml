@@ -1,0 +1,9 @@
+station_id: "G15"
+name: "65 St"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.749669, lon: -73.898453 }
+neighborhood: "Woodside"
+zip_code: "11377"
+tags: []
+entrances: []

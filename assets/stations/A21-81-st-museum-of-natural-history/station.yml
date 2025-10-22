@@ -1,0 +1,9 @@
+station_id: "A21"
+name: "81 St-Museum of Natural History"
+borough: "Manhattan"
+routes: ["C","A","B"]
+coord: { lat: 40.781433, lon: -73.972143 }
+neighborhood: "Central Park"
+zip_code: "10024"
+tags: []
+entrances: []

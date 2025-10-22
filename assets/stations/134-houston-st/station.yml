@@ -1,0 +1,9 @@
+station_id: "134"
+name: "Houston St"
+borough: "Manhattan"
+routes: ["2","1"]
+coord: { lat: 40.728251, lon: -74.005367 }
+neighborhood: "Hudson Square"
+zip_code: "10014"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "104"
+name: "231 St"
+borough: "Bronx"
+routes: ["1"]
+coord: { lat: 40.878856, lon: -73.904834 }
+neighborhood: "Kingsbridge"
+zip_code: "10463"
+tags: []
+entrances: []

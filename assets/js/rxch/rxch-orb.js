@@ -1,0 +1,1 @@
+//   rxch-orb.js     ← orb visuals + interaction

@@ -1,0 +1,9 @@
+station_id: "G14"
+name: "Jackson Hts-Roosevelt Av"
+borough: "Queens"
+routes: ["R","E","M","FX","F"]
+coord: { lat: 40.746644, lon: -73.891338 }
+neighborhood: "Elmhurst"
+zip_code: "11373"
+tags: []
+entrances: []

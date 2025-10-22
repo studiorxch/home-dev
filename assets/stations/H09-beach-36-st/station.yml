@@ -1,0 +1,9 @@
+station_id: "H09"
+name: "Beach 36 St"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.595398, lon: -73.768175 }
+neighborhood: "Edgemere"
+zip_code: "11691"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "S09"
+name: "Tottenville"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.512764, lon: -74.251961 }
+neighborhood: "Tottenville"
+zip_code: "10307"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "R44"
+name: "86 St"
+borough: "Brooklyn"
+routes: ["R"]
+coord: { lat: 40.622687, lon: -74.028398 }
+neighborhood: "Bay Ridge"
+zip_code: "11209"
+tags: []
+entrances: []

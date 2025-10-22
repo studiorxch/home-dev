@@ -1,0 +1,9 @@
+station_id: "702"
+name: "Mets-Willets Point"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.754622, lon: -73.845625 }
+neighborhood: "Corona"
+zip_code: "11368"
+tags: []
+entrances: []

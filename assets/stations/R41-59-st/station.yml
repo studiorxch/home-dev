@@ -1,0 +1,9 @@
+station_id: "R41"
+name: "59 St"
+borough: "Brooklyn"
+routes: ["N","W","R"]
+coord: { lat: 40.641362, lon: -74.017881 }
+neighborhood: "Sunset Park"
+zip_code: "11220"
+tags: []
+entrances: []

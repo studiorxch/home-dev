@@ -1,0 +1,9 @@
+station_id: "J14"
+name: "104 St"
+borough: "Queens"
+routes: ["Z","J"]
+coord: { lat: 40.695178, lon: -73.84433 }
+neighborhood: "Richmond Hill"
+zip_code: "11418"
+tags: []
+entrances: []

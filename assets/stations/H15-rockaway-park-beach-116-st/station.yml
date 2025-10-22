@@ -1,0 +1,9 @@
+station_id: "H15"
+name: "Rockaway Park-Beach 116 St"
+borough: "Queens"
+routes: ["A","H"]
+coord: { lat: 40.580903, lon: -73.835592 }
+neighborhood: "Rockaway Park"
+zip_code: "11694"
+tags: []
+entrances: []

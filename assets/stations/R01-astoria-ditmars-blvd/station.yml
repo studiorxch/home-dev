@@ -1,0 +1,9 @@
+station_id: "R01"
+name: "Astoria-Ditmars Blvd"
+borough: "Queens"
+routes: ["N","W"]
+coord: { lat: 40.775036, lon: -73.912034 }
+neighborhood: "Steinway"
+zip_code: "11105"
+tags: []
+entrances: []

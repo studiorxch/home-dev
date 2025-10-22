@@ -1,0 +1,9 @@
+station_id: "R26"
+name: "Rector St"
+borough: "Manhattan"
+routes: ["N","W","R"]
+coord: { lat: 40.70722, lon: -74.013342 }
+neighborhood: "Financial District"
+zip_code: "10006"
+tags: []
+entrances: []

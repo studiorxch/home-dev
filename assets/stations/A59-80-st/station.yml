@@ -1,0 +1,9 @@
+station_id: "A59"
+name: "80 St"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.679371, lon: -73.858992 }
+neighborhood: "Ozone Park"
+zip_code: "11417"
+tags: []
+entrances: []

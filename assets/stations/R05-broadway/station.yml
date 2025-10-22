@@ -1,0 +1,9 @@
+station_id: "R05"
+name: "Broadway"
+borough: "Queens"
+routes: ["N","W"]
+coord: { lat: 40.76182, lon: -73.925508 }
+neighborhood: "Astoria"
+zip_code: "11106"
+tags: []
+entrances: []

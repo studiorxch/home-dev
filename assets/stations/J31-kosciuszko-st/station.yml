@@ -1,0 +1,9 @@
+station_id: "J31"
+name: "Kosciuszko St"
+borough: "Brooklyn"
+routes: ["J"]
+coord: { lat: 40.693342, lon: -73.928814 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11221"
+tags: []
+entrances: []

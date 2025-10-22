@@ -1,0 +1,9 @@
+station_id: "M05"
+name: "Forest Av"
+borough: "Queens"
+routes: ["M"]
+coord: { lat: 40.704423, lon: -73.903077 }
+neighborhood: "Ridgewood"
+zip_code: "11385"
+tags: []
+entrances: []

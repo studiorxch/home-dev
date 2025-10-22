@@ -1,0 +1,9 @@
+station_id: "201"
+name: "Wakefield-241 St"
+borough: "Bronx"
+routes: ["2"]
+coord: { lat: 40.903125, lon: -73.85062 }
+neighborhood: "Wakefield"
+zip_code: "10470"
+tags: []
+entrances: []

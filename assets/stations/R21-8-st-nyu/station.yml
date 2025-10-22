@@ -1,0 +1,9 @@
+station_id: "R21"
+name: "8 St-NYU"
+borough: "Manhattan"
+routes: ["N","Q","W","R"]
+coord: { lat: 40.730328, lon: -73.992629 }
+neighborhood: "NoHo"
+zip_code: "10003"
+tags: []
+entrances: []

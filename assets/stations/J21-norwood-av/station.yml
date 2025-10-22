@@ -1,0 +1,9 @@
+station_id: "J21"
+name: "Norwood Av"
+borough: "Brooklyn"
+routes: ["Z","J"]
+coord: { lat: 40.68141, lon: -73.880039 }
+neighborhood: "Cypress Hills"
+zip_code: "11208"
+tags: []
+entrances: []

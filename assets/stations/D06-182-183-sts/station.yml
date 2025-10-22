@@ -1,0 +1,9 @@
+station_id: "D06"
+name: "182-183 Sts"
+borough: "Bronx"
+routes: ["D","B"]
+coord: { lat: 40.856093, lon: -73.900741 }
+neighborhood: "Tremont"
+zip_code: "10457"
+tags: []
+entrances: []

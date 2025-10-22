@@ -1,0 +1,9 @@
+station_id: "205"
+name: "233 St"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.893193, lon: -73.857473 }
+neighborhood: "Williamsbridge"
+zip_code: "10466"
+tags: []
+entrances: []

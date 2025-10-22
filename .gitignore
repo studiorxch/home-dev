@@ -1,0 +1,136 @@
+# Jekyll build artifacts
+!_site/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.history/
+
+
+
+# Compression archives
+/*.zip
+
+_css.zip
+css/main.css
+css/unused.css
+
+_sass.zip
+_station.zip
+
+*--bak/
+*--bak
+*--ghost/
+*--ghost
+_archives
+
+# GHOST
+visualizer-ghost
+_albums--ghost
+_dev-ghost
+_playground-unpublished--ghost
+_scripts--ghost
+trash--ghost
+
+
+# BAK
+_stations--bak
+
+
+
+# MUSIC
+_tracks.zip
+_tracks/_unreleased/
+_album/_unreleased/
+_events/_archived
+
+
+sitemap.xml
+
+
+
+# DEV 
+_docs
+_dev
+
+
+_data/articles/*.csv
+blog-automator-*.json
+
+# --- Private or internal scripts ---
+_scripts/
+_scripts
+
+
+
+#LEGACY BACKUP
+README-Blog-Template.md
+_blog/_bak
+/assets/playlists
+_snippets
+admin/
+
+
+
+
+
+
+#scripts
+generate_library_yml.py_docs/
+generate_product_redirects.py
+generate_library_yml.py
+generate_library_ym-bak.py
+
+
+
+
+
+
+# Sass cache
+.sass-cache/
+
+
+
+
+
+
+# Bundler / Ruby
+vendor/
+.bundle/
+
+
+
+
+
+
+# System files
+.DS_Store
+Thumbs.db
+.env
+
+
+
+
+
+
+# Logs or temp (if ever used in future)
+*.log
+*.tmp
+
+
+
+
+# Optional: Node (if you ever add JS build tools later)
+node_modules/
+package.json
+
+
+
+
+# Obsidian workspace configs
+_tracks/.obsidian/
+
+
+
+
+
+

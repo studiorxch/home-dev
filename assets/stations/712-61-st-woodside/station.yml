@@ -1,0 +1,9 @@
+station_id: "712"
+name: "61 St-Woodside"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.74563, lon: -73.902984 }
+neighborhood: "Woodside"
+zip_code: "11377"
+tags: []
+entrances: []

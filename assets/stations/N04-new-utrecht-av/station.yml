@@ -1,0 +1,9 @@
+station_id: "N04"
+name: "New Utrecht Av"
+borough: "Brooklyn"
+routes: ["N","W"]
+coord: { lat: 40.624842, lon: -73.996353 }
+neighborhood: "Bensonhurst"
+zip_code: "11219"
+tags: []
+entrances: []

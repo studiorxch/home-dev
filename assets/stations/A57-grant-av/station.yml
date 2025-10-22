@@ -1,0 +1,9 @@
+station_id: "A57"
+name: "Grant Av"
+borough: "Brooklyn"
+routes: ["A"]
+coord: { lat: 40.677044, lon: -73.86505 }
+neighborhood: "City Line"
+zip_code: "11208"
+tags: []
+entrances: []

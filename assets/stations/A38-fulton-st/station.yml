@@ -1,0 +1,9 @@
+station_id: "A38"
+name: "Fulton St"
+borough: "Manhattan"
+routes: ["C","A"]
+coord: { lat: 40.710197, lon: -74.007691 }
+neighborhood: "Financial District"
+zip_code: "10038"
+tags: []
+entrances: []

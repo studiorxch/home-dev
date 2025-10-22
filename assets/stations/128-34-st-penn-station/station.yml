@@ -1,0 +1,9 @@
+station_id: "128"
+name: "34 St-Penn Station"
+borough: "Manhattan"
+routes: ["2","3","1"]
+coord: { lat: 40.750373, lon: -73.991057 }
+neighborhood: "Koreatown"
+zip_code: "10001"
+tags: []
+entrances: []

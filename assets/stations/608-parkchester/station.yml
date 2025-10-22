@@ -1,0 +1,9 @@
+station_id: "608"
+name: "Parkchester"
+borough: "Bronx"
+routes: ["6","6X"]
+coord: { lat: 40.833226, lon: -73.860816 }
+neighborhood: "Castle Hill"
+zip_code: "10472"
+tags: []
+entrances: []

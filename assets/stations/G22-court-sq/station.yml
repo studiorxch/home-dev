@@ -1,0 +1,9 @@
+station_id: "G22"
+name: "Court Sq"
+borough: "Queens"
+routes: ["G"]
+coord: { lat: 40.746554, lon: -73.943832 }
+neighborhood: "Long Island City"
+zip_code: "11101"
+tags: []
+entrances: []

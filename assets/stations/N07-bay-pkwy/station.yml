@@ -1,0 +1,9 @@
+station_id: "N07"
+name: "Bay Pkwy"
+borough: "Brooklyn"
+routes: ["N","W"]
+coord: { lat: 40.611815, lon: -73.981848 }
+neighborhood: "Bensonhurst"
+zip_code: "11204"
+tags: []
+entrances: []

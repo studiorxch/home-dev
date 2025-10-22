@@ -1,0 +1,9 @@
+station_id: "A09"
+name: "168 St"
+borough: "Manhattan"
+routes: ["C","A"]
+coord: { lat: 40.840719, lon: -73.939561 }
+neighborhood: "Washington Heights"
+zip_code: "10032"
+tags: []
+entrances: []

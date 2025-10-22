@@ -1,0 +1,9 @@
+station_id: "M06"
+name: "Seneca Av"
+borough: "Queens"
+routes: ["M"]
+coord: { lat: 40.702762, lon: -73.90774 }
+neighborhood: "Ridgewood"
+zip_code: "11385"
+tags: []
+entrances: []

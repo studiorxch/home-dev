@@ -1,0 +1,9 @@
+station_id: "407"
+name: "Fordham Rd"
+borough: "Bronx"
+routes: ["4"]
+coord: { lat: 40.862803, lon: -73.901034 }
+neighborhood: "University Heights"
+zip_code: "10468"
+tags: []
+entrances: []

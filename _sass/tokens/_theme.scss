@@ -1,0 +1,73 @@
+// _sass/tokens/_theme.scss
+// ============================================================================
+// StudioRich Theme Tokens
+// Controls text, background, and core UI colors for light & dark modes.
+// ============================================================================
+
+// === Base Tokens ===========================================================
+$color-bg-light: #f6f5ef;
+$color-fg-light: #0a0a0a;
+$color-bg-dark: #0a0a0a;
+$color-fg-dark: #f6f5ef;
+
+// === Surface & Border Tokens ===============================================
+$color-surface-subtle: rgba(255, 255, 255, 0.04);
+$color-surface-strong: rgba(255, 255, 255, 0.12);
+$color-border-light: rgba(0, 0, 0, 0.15);
+$color-border-dark: rgba(255, 255, 255, 0.15);
+
+// === CSS Variable Export ===================================================
+:root {
+  --color-bg-light: #{$color-bg-light};
+  --color-fg-light: #{$color-fg-light};
+  --color-bg-dark: #{$color-bg-dark};
+  --color-fg-dark: #{$color-fg-dark};
+  --color-surface-subtle: #{$color-surface-subtle};
+  --color-surface-strong: #{$color-surface-strong};
+  --color-border-light: #{$color-border-light};
+  --color-border-dark: #{$color-border-dark};
+}
+
+[data-theme='light'],
+:root:not([data-theme='dark']) {
+  color-scheme: light;
+  --color-bg: var(--color-bg-light);
+  --color-fg: var(--color-fg-light);
+  --color-border: var(--color-border-light);
+}
+
+[data-theme='dark'] {
+  color-scheme: dark;
+  --color-bg: var(--color-bg-dark);
+  --color-fg: var(--color-fg-dark);
+  --color-border: var(--color-border-dark);
+}
+
+// === Radius Tokens =========================================================
+$radius-sm: 4px;
+$radius-md: 8px;
+$radius-lg: 12px;
+$radius-xl: 20px;
+
+:root {
+  --radius-sm: #{$radius-sm};
+  --radius-md: #{$radius-md};
+  --radius-lg: #{$radius-lg};
+  --radius-xl: #{$radius-xl};
+}
+
+/* === FORCE CORRECT COLOR INHERITANCE === */
+:root {
+  --color-surface: #0a0a0a;
+  --color-text: #f5f5f5;
+}
+
+[data-theme='light'] {
+  --color-surface: #fff;
+  --color-text: #111;
+}
+
+[data-theme='dark'] {
+  --color-surface: #000;
+  --color-text: #f5f5f5;
+}

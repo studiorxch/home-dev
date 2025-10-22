@@ -1,0 +1,9 @@
+station_id: "D37"
+name: "Avenue U"
+borough: "Brooklyn"
+routes: ["Q"]
+coord: { lat: 40.5993, lon: -73.955929 }
+neighborhood: "Homecrest"
+zip_code: "11229"
+tags: []
+entrances: []

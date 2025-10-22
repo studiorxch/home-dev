@@ -1,0 +1,9 @@
+station_id: "D14"
+name: "7 Av"
+borough: "Manhattan"
+routes: ["D","B","E"]
+coord: { lat: 40.762862, lon: -73.981637 }
+neighborhood: "Theater District"
+zip_code: "10019"
+tags: []
+entrances: []

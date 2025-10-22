@@ -1,0 +1,9 @@
+station_id: "241"
+name: "President St-Medgar Evers College"
+borough: "Brooklyn"
+routes: ["2","5"]
+coord: { lat: 40.667883, lon: -73.950683 }
+neighborhood: "Crown Heights"
+zip_code: "11225"
+tags: []
+entrances: []

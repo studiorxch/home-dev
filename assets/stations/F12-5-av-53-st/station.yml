@@ -1,0 +1,9 @@
+station_id: "F12"
+name: "5 Av/53 St"
+borough: "Manhattan"
+routes: ["M","E"]
+coord: { lat: 40.760167, lon: -73.975224 }
+neighborhood: "Midtown East"
+zip_code: "10022"
+tags: []
+entrances: []

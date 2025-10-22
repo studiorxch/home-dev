@@ -1,0 +1,9 @@
+station_id: "217"
+name: "Simpson St"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.824073, lon: -73.893064 }
+neighborhood: "Longwood"
+zip_code: "10459"
+tags: []
+entrances: []

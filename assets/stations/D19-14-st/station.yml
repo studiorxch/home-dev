@@ -1,0 +1,9 @@
+station_id: "D19"
+name: "14 St"
+borough: "Manhattan"
+routes: ["F","FX","M"]
+coord: { lat: 40.738228, lon: -73.996209 }
+neighborhood: "Chelsea"
+zip_code: "10011"
+tags: []
+entrances: []

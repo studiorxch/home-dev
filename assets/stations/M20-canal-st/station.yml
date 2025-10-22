@@ -1,0 +1,9 @@
+station_id: "M20"
+name: "Canal St"
+borough: "Manhattan"
+routes: ["Z","J"]
+coord: { lat: 40.718092, lon: -73.999892 }
+neighborhood: "Chinatown"
+zip_code: "10013"
+tags: []
+entrances: []

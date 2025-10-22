@@ -1,0 +1,9 @@
+station_id: "A17"
+name: "Cathedral Pkwy (110 St)"
+borough: "Manhattan"
+routes: ["C","A","B"]
+coord: { lat: 40.800603, lon: -73.958161 }
+neighborhood: "Harlem"
+zip_code: "10026"
+tags: []
+entrances: []

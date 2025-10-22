@@ -1,0 +1,9 @@
+station_id: "L01"
+name: "8 Av"
+borough: "Manhattan"
+routes: ["L"]
+coord: { lat: 40.739777, lon: -74.002578 }
+neighborhood: "West Village"
+zip_code: "10011"
+tags: []
+entrances: []

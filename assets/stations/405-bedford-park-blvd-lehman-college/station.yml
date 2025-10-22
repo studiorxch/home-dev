@@ -1,0 +1,9 @@
+station_id: "405"
+name: "Bedford Park Blvd-Lehman College"
+borough: "Bronx"
+routes: ["4"]
+coord: { lat: 40.873412, lon: -73.890064 }
+neighborhood: "Kingsbridge Heights"
+zip_code: "10468"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "B06"
+name: "Roosevelt Island"
+borough: "Manhattan"
+routes: ["F","FX"]
+coord: { lat: 40.759145, lon: -73.95326 }
+neighborhood: "Roosevelt Island"
+zip_code: "10044"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "A46"
+name: "Nostrand Av"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.680438, lon: -73.950426 }
+neighborhood: "Bedford"
+zip_code: "11216"
+tags: []
+entrances: []

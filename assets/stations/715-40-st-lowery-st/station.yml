@@ -1,0 +1,9 @@
+station_id: "715"
+name: "40 St-Lowery St"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.743781, lon: -73.924016 }
+neighborhood: "Sunnyside"
+zip_code: "11104"
+tags: []
+entrances: []

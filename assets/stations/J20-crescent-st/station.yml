@@ -1,0 +1,9 @@
+station_id: "J20"
+name: "Crescent St"
+borough: "Brooklyn"
+routes: ["Z","J"]
+coord: { lat: 40.683194, lon: -73.873785 }
+neighborhood: "Cypress Hills"
+zip_code: "11208"
+tags: []
+entrances: []

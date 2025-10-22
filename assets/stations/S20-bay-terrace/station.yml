@@ -1,0 +1,9 @@
+station_id: "S20"
+name: "Bay Terrace"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.5564, lon: -74.136907 }
+neighborhood: "Bay Terrace"
+zip_code: "10306"
+tags: []
+entrances: []

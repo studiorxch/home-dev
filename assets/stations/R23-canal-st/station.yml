@@ -1,0 +1,9 @@
+station_id: "R23"
+name: "Canal St"
+borough: "Manhattan"
+routes: ["N","W","R"]
+coord: { lat: 40.719527, lon: -74.001775 }
+neighborhood: "SoHo"
+zip_code: "10013"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "A07"
+name: "175 St"
+borough: "Manhattan"
+routes: ["A"]
+coord: { lat: 40.847391, lon: -73.939704 }
+neighborhood: "Washington Heights"
+zip_code: "10033"
+tags: []
+entrances: []

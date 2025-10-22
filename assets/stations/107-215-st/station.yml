@@ -1,0 +1,9 @@
+station_id: "107"
+name: "215 St"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.869444, lon: -73.915279 }
+neighborhood: "Inwood"
+zip_code: "10034"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "D15"
+name: "47-50 Sts-Rockefeller Ctr"
+borough: "Manhattan"
+routes: ["D","B","M","FX","F"]
+coord: { lat: 40.758663, lon: -73.981329 }
+neighborhood: "Rockefeller Center"
+zip_code: "10019"
+tags: []
+entrances: []

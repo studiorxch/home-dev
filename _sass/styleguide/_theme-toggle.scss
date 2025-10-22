@@ -1,0 +1,33 @@
+// ============================================================================
+// MODULE: Theme Toggle Button
+// ============================================================================
+@use '../tokens/theme' as *;
+
+.theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 1000;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  background: var(--color-bg);
+  color: var(--color-fg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: 1px solid var(--color-surface-subtle);
+  transition:
+    background 0.3s ease,
+    color 0.3s ease;
+
+  &:hover {
+    background: var(--color-surface-strong);
+  }
+
+  svg {
+    width: 1.2rem;
+    height: 1.2rem;
+  }
+}

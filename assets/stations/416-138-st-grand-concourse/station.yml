@@ -1,0 +1,9 @@
+station_id: "416"
+name: "138 St-Grand Concourse"
+borough: "Bronx"
+routes: ["4","5"]
+coord: { lat: 40.813224, lon: -73.929849 }
+neighborhood: "Grand Concourse"
+zip_code: "10451"
+tags: []
+entrances: []

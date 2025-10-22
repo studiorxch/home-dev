@@ -1,0 +1,9 @@
+station_id: "F38"
+name: "Avenue X"
+borough: "Brooklyn"
+routes: ["F","FX"]
+coord: { lat: 40.58962, lon: -73.97425 }
+neighborhood: "Gravesend"
+zip_code: "11223"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "R39"
+name: "45 St"
+borough: "Brooklyn"
+routes: ["N","W","R"]
+coord: { lat: 40.648939, lon: -74.010006 }
+neighborhood: "Sunset Park"
+zip_code: "11220"
+tags: []
+entrances: []

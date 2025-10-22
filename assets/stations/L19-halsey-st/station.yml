@@ -1,0 +1,9 @@
+station_id: "L19"
+name: "Halsey St"
+borough: "Queens"
+routes: ["L"]
+coord: { lat: 40.695602, lon: -73.904084 }
+neighborhood: "Ridgewood"
+zip_code: "11385"
+tags: []
+entrances: []

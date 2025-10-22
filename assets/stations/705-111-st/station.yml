@@ -1,0 +1,9 @@
+station_id: "705"
+name: "111 St"
+borough: "Queens"
+routes: ["7"]
+coord: { lat: 40.75173, lon: -73.855334 }
+neighborhood: "North Corona"
+zip_code: "11368"
+tags: []
+entrances: []

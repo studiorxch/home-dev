@@ -1,0 +1,9 @@
+station_id: "D32"
+name: "Avenue H"
+borough: "Brooklyn"
+routes: ["Q","B"]
+coord: { lat: 40.62927, lon: -73.961639 }
+neighborhood: "Ditmas Park"
+zip_code: "11230"
+tags: []
+entrances: []

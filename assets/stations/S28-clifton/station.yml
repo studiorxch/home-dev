@@ -1,0 +1,9 @@
+station_id: "S28"
+name: "Clifton"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.621319, lon: -74.071402 }
+neighborhood: "Clifton"
+zip_code: "10304"
+tags: []
+entrances: []

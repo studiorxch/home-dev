@@ -1,0 +1,9 @@
+station_id: "R45"
+name: "Bay Ridge-95 St"
+borough: "Brooklyn"
+routes: ["R"]
+coord: { lat: 40.616622, lon: -74.030876 }
+neighborhood: "Fort Hamilton"
+zip_code: "11209"
+tags: []
+entrances: []

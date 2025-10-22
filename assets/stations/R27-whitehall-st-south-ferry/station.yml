@@ -1,0 +1,9 @@
+station_id: "R27"
+name: "Whitehall St-South Ferry"
+borough: "Manhattan"
+routes: ["N","W","R"]
+coord: { lat: 40.703087, lon: -74.012994 }
+neighborhood: "Financial District"
+zip_code: "10004"
+tags: []
+entrances: []

@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  margin-left: 72px; /* width of left-nav */
+  position: relative;
+  z-index: 10;
+  background: var(--color-bg);
+  color: var(--color-fg);
+}

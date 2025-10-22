@@ -1,0 +1,9 @@
+station_id: "L14"
+name: "Morgan Av"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.706152, lon: -73.933147 }
+neighborhood: "East Williamsburg"
+zip_code: "11206"
+tags: []
+entrances: []

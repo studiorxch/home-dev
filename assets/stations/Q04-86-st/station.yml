@@ -1,0 +1,9 @@
+station_id: "Q04"
+name: "86 St"
+borough: "Manhattan"
+routes: ["N","Q","R"]
+coord: { lat: 40.777891, lon: -73.951787 }
+neighborhood: "Yorkville"
+zip_code: "10028"
+tags: []
+entrances: []

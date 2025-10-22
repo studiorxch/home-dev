@@ -1,0 +1,9 @@
+station_id: "A36"
+name: "Chambers St"
+borough: "Manhattan"
+routes: ["C","A"]
+coord: { lat: 40.714111, lon: -74.008585 }
+neighborhood: "TriBeCa"
+zip_code: "10007"
+tags: []
+entrances: []

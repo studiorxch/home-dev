@@ -1,0 +1,138 @@
+// ============================================================================
+// StudioRich Sidebar Navigation (Stable Layout v4)
+// Fixed column — non-overlapping, flex-safe, and layout-wrapper compatible
+// ============================================================================
+
+/* --- GLOBAL RESET & STRUCTURE --- */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  min-height: 100vh;
+  background: var(--color-bg);
+}
+
+/* ============================================================================
+   ⬅️ FIXED SIDEBAR
+   ============================================================================ */
+.left-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 100vh;
+  background-color: var(--color-bg);
+  border-right: 1px solid var(--color-border);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Divider line for visual clarity */
+.left-nav::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1px;
+  height: 100%;
+  background: var(--color-border);
+}
+
+/* ============================================================================
+   📐 LAYOUT WRAPPER
+   - Defines the true main column next to the sidebar
+   ============================================================================ */
+.layout-wrapper {
+  margin-left: 64px; /* same as .left-nav width */
+  width: calc(100% - 64px);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background: var(--color-bg);
+  z-index: 1;
+}
+
+/* Responsive correction for mobile/tablet */
+@media (max-width: 768px) {
+  .left-nav {
+    width: 56px;
+  }
+
+  .layout-wrapper {
+    margin-left: 56px;
+    width: calc(100% - 56px);
+  }
+}
+
+/* ============================================================================
+   🔼 NAVIGATION GROUPS
+   ============================================================================ */
+.left-nav .nav-top,
+.left-nav .nav-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.3rem;
+}
+
+/* Keep bottom cluster pinned visually */
+.left-nav .nav-bottom {
+  position: sticky;
+  bottom: 1.5rem;
+  margin-top: auto;
+}
+
+/* ============================================================================
+   🎨 ICON BUTTONS
+   ============================================================================ */
+.left-nav a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  transition:
+    background 0.3s ease,
+    transform 0.3s ease;
+}
+
+.left-nav a:hover {
+  transform: scale(1.1);
+  background: var(--color-surface-subtle);
+}
+
+/* ============================================================================
+   🖼️ ICON VISUALS + THEME FILTERS
+   ============================================================================ */
+.left-nav img,
+.left-nav svg {
+  width: 22px;
+  height: 22px;
+  filter: var(--nav-icon-filter);
+  transition: filter 0.3s ease;
+}
+
+[data-theme='light'] {
+  --nav-icon-filter: brightness(0) saturate(100%) invert(0.05) contrast(1.2);
+}
+
+[data-theme='dark'] {
+  --nav-icon-filter: brightness(0) saturate(100%) invert(1) contrast(1.05);
+}
+
+/* ============================================================================
+   🌗 THEME SWITCH
+   ============================================================================ */
+.left-nav .nav-switch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.75rem;
+  padding-bottom: 0.5rem;
+}

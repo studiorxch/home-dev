@@ -1,0 +1,9 @@
+station_id: "614"
+name: "Longwood Av"
+borough: "Bronx"
+routes: ["6"]
+coord: { lat: 40.816104, lon: -73.896435 }
+neighborhood: "Longwood"
+zip_code: "10455"
+tags: []
+entrances: []

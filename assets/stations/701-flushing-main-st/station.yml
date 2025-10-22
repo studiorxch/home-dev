@@ -1,0 +1,9 @@
+station_id: "701"
+name: "Flushing-Main St"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.7596, lon: -73.83003 }
+neighborhood: "Flushing"
+zip_code: "11354"
+tags: []
+entrances: []

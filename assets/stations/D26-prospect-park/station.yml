@@ -1,0 +1,9 @@
+station_id: "D26"
+name: "Prospect Park"
+borough: "Brooklyn"
+routes: ["Q","FS","B"]
+coord: { lat: 40.661614, lon: -73.962246 }
+neighborhood: "Prospect Lefferts Gardens"
+zip_code: "11225"
+tags: []
+entrances: []

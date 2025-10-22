@@ -1,0 +1,9 @@
+station_id: "F03"
+name: "Parsons Blvd"
+borough: "Queens"
+routes: ["F","FX","E"]
+coord: { lat: 40.707564, lon: -73.803326 }
+neighborhood: "Briarwood"
+zip_code: "11432"
+tags: []
+entrances: []

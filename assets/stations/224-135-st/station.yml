@@ -1,0 +1,9 @@
+station_id: "224"
+name: "135 St"
+borough: "Manhattan"
+routes: ["2","3"]
+coord: { lat: 40.814229, lon: -73.94077 }
+neighborhood: "Harlem"
+zip_code: "10030"
+tags: []
+entrances: []

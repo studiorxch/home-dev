@@ -1,0 +1,9 @@
+station_id: "249"
+name: "Kingston Av"
+borough: "Brooklyn"
+routes: ["2","4","3","5"]
+coord: { lat: 40.669399, lon: -73.942161 }
+neighborhood: "Crown Heights"
+zip_code: "11213"
+tags: []
+entrances: []

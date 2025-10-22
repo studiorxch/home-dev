@@ -1,0 +1,9 @@
+station_id: "M21"
+name: "Chambers St"
+borough: "Manhattan"
+routes: ["Z","J"]
+coord: { lat: 40.713243, lon: -74.003401 }
+neighborhood: "Civic Center"
+zip_code: "10007"
+tags: []
+entrances: []

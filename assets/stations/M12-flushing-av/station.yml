@@ -1,0 +1,9 @@
+station_id: "M12"
+name: "Flushing Av"
+borough: "Brooklyn"
+routes: ["Z","J","M"]
+coord: { lat: 40.70026, lon: -73.941126 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11206"
+tags: []
+entrances: []

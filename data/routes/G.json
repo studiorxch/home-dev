@@ -1,0 +1,287 @@
+[
+  {
+    "station_id": "A42",
+    "slug": "hoyt-schermerhorn-sts",
+    "name": "Hoyt-Schermerhorn Sts",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "C",
+      "A"
+    ],
+    "lat": 40.688484,
+    "lon": -73.985001,
+    "neighborhood": "Boerum Hill",
+    "zip_code": "11217"
+  },
+  {
+    "station_id": "F20",
+    "slug": "bergen-st",
+    "name": "Bergen St",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F"
+    ],
+    "lat": 40.686145,
+    "lon": -73.990862,
+    "neighborhood": "Boerum Hill",
+    "zip_code": "11201"
+  },
+  {
+    "station_id": "F22",
+    "slug": "smith-9-sts",
+    "name": "Smith-9 Sts",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F"
+    ],
+    "lat": 40.67358,
+    "lon": -73.995959,
+    "neighborhood": "Gowanus",
+    "zip_code": "11215"
+  },
+  {
+    "station_id": "F21",
+    "slug": "carroll-st",
+    "name": "Carroll St",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F"
+    ],
+    "lat": 40.680303,
+    "lon": -73.995048,
+    "neighborhood": "Carroll Gardens",
+    "zip_code": "11231"
+  },
+  {
+    "station_id": "F23",
+    "slug": "4-av-9-st",
+    "name": "4 Av-9 St",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F"
+    ],
+    "lat": 40.670272,
+    "lon": -73.989779,
+    "neighborhood": "Gowanus",
+    "zip_code": "11215"
+  },
+  {
+    "station_id": "F24",
+    "slug": "7-av",
+    "name": "7 Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F",
+      "FX"
+    ],
+    "lat": 40.666271,
+    "lon": -73.980305,
+    "neighborhood": "South Slope",
+    "zip_code": "11215"
+  },
+  {
+    "station_id": "F25",
+    "slug": "15-st-prospect-park",
+    "name": "15 St-Prospect Park",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F"
+    ],
+    "lat": 40.660365,
+    "lon": -73.979493,
+    "neighborhood": "Windsor Terrace",
+    "zip_code": "11215"
+  },
+  {
+    "station_id": "F26",
+    "slug": "fort-hamilton-pkwy",
+    "name": "Fort Hamilton Pkwy",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F"
+    ],
+    "lat": 40.650782,
+    "lon": -73.975776,
+    "neighborhood": "Windsor Terrace",
+    "zip_code": "11218"
+  },
+  {
+    "station_id": "F27",
+    "slug": "church-av",
+    "name": "Church Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "G",
+      "F",
+      "FX"
+    ],
+    "lat": 40.644041,
+    "lon": -73.979678,
+    "neighborhood": "Kensington",
+    "zip_code": "11218"
+  },
+  {
+    "station_id": "G22",
+    "slug": "court-sq",
+    "name": "Court Sq",
+    "borough": "Queens",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.746554,
+    "lon": -73.943832,
+    "neighborhood": "Long Island City",
+    "zip_code": "11101"
+  },
+  {
+    "station_id": "G24",
+    "slug": "21-st",
+    "name": "21 St",
+    "borough": "Queens",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.744065,
+    "lon": -73.949724,
+    "neighborhood": "Hunters Point",
+    "zip_code": "11101"
+  },
+  {
+    "station_id": "G26",
+    "slug": "greenpoint-av",
+    "name": "Greenpoint Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.731352,
+    "lon": -73.954449,
+    "neighborhood": "Greenpoint",
+    "zip_code": "11222"
+  },
+  {
+    "station_id": "G28",
+    "slug": "nassau-av",
+    "name": "Nassau Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.724635,
+    "lon": -73.951277,
+    "neighborhood": "Greenpoint",
+    "zip_code": "11222"
+  },
+  {
+    "station_id": "G29",
+    "slug": "metropolitan-av",
+    "name": "Metropolitan Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.712792,
+    "lon": -73.951418,
+    "neighborhood": "Williamsburg",
+    "zip_code": "11211"
+  },
+  {
+    "station_id": "G30",
+    "slug": "broadway",
+    "name": "Broadway",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.706092,
+    "lon": -73.950308,
+    "neighborhood": "East Williamsburg",
+    "zip_code": "11206"
+  },
+  {
+    "station_id": "G31",
+    "slug": "flushing-av",
+    "name": "Flushing Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.700377,
+    "lon": -73.950234,
+    "neighborhood": "Williamsburg",
+    "zip_code": "11206"
+  },
+  {
+    "station_id": "G32",
+    "slug": "myrtle-willoughby-avs",
+    "name": "Myrtle-Willoughby Avs",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.694568,
+    "lon": -73.949046,
+    "neighborhood": "Bedford",
+    "zip_code": "11206"
+  },
+  {
+    "station_id": "G33",
+    "slug": "bedford-nostrand-avs",
+    "name": "Bedford-Nostrand Avs",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.689627,
+    "lon": -73.953522,
+    "neighborhood": "Bedford",
+    "zip_code": "11205"
+  },
+  {
+    "station_id": "G34",
+    "slug": "classon-av",
+    "name": "Classon Av",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.688873,
+    "lon": -73.96007,
+    "neighborhood": "Clinton Hill",
+    "zip_code": "11205"
+  },
+  {
+    "station_id": "G35",
+    "slug": "clinton-washington-avs",
+    "name": "Clinton-Washington Avs",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.688089,
+    "lon": -73.966839,
+    "neighborhood": "Clinton Hill",
+    "zip_code": ""
+  },
+  {
+    "station_id": "G36",
+    "slug": "fulton-st",
+    "name": "Fulton St",
+    "borough": "Brooklyn",
+    "routes": [
+      "G"
+    ],
+    "lat": 40.687119,
+    "lon": -73.975375,
+    "neighborhood": "Fort Greene",
+    "zip_code": "11217"
+  }
+]

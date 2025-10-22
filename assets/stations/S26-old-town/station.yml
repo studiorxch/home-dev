@@ -1,0 +1,9 @@
+station_id: "S26"
+name: "Old Town"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.596612, lon: -74.087368 }
+neighborhood: "Old Town"
+zip_code: "10304"
+tags: []
+entrances: []

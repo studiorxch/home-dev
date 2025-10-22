@@ -1,0 +1,9 @@
+station_id: "G21"
+name: "Queens Plaza"
+borough: "Queens"
+routes: ["R","M","E"]
+coord: { lat: 40.748973, lon: -73.937243 }
+neighborhood: "Long Island City"
+zip_code: "11101"
+tags: []
+entrances: []

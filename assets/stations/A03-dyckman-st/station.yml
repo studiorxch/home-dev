@@ -1,0 +1,9 @@
+station_id: "A03"
+name: "Dyckman St"
+borough: "Manhattan"
+routes: ["A"]
+coord: { lat: 40.865491, lon: -73.927271 }
+neighborhood: "Inwood"
+zip_code: "10034"
+tags: []
+entrances: []

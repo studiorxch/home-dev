@@ -1,0 +1,9 @@
+station_id: "H10"
+name: "Beach 25 St"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.600066, lon: -73.761353 }
+neighborhood: "Far Rockaway"
+zip_code: "11691"
+tags: []
+entrances: []

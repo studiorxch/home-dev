@@ -1,0 +1,9 @@
+station_id: "G05"
+name: "Jamaica Center-Parsons/Archer"
+borough: "Queens"
+routes: ["Z","J","E"]
+coord: { lat: 40.702147, lon: -73.801109 }
+neighborhood: "Jamaica"
+zip_code: "11433"
+tags: []
+entrances: []

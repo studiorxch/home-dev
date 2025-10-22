@@ -1,0 +1,9 @@
+station_id: "D43"
+name: "Coney Island-Stillwell Av"
+borough: "Brooklyn"
+routes: ["D","N","Q","FX","F"]
+coord: { lat: 40.577422, lon: -73.981233 }
+neighborhood: "Coney Island"
+zip_code: "11224"
+tags: []
+entrances: []

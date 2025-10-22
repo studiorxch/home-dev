@@ -1,0 +1,9 @@
+station_id: "A51"
+name: "Broadway Junction"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.678334, lon: -73.905316 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11233"
+tags: []
+entrances: []

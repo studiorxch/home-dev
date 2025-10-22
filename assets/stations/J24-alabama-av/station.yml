@@ -1,0 +1,9 @@
+station_id: "J24"
+name: "Alabama Av"
+borough: "Brooklyn"
+routes: ["Z","J"]
+coord: { lat: 40.676992, lon: -73.898654 }
+neighborhood: "East New York"
+zip_code: "11207"
+tags: []
+entrances: []

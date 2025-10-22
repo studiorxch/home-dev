@@ -1,0 +1,9 @@
+station_id: "R24"
+name: "City Hall"
+borough: "Manhattan"
+routes: ["N","W","R"]
+coord: { lat: 40.713282, lon: -74.006978 }
+neighborhood: "Civic Center"
+zip_code: "10007"
+tags: []
+entrances: []

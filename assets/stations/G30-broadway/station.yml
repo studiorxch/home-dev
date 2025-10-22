@@ -1,0 +1,9 @@
+station_id: "G30"
+name: "Broadway"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.706092, lon: -73.950308 }
+neighborhood: "East Williamsburg"
+zip_code: "11206"
+tags: []
+entrances: []

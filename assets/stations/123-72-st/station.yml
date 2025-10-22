@@ -1,0 +1,9 @@
+station_id: "123"
+name: "72 St"
+borough: "Manhattan"
+routes: ["2","3","1"]
+coord: { lat: 40.778453, lon: -73.98197 }
+neighborhood: "Upper West Side"
+zip_code: "10023"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "G19"
+name: "Steinway St"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.756879, lon: -73.92074 }
+neighborhood: "Astoria"
+zip_code: "11103"
+tags: []
+entrances: []

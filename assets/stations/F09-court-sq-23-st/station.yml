@@ -1,0 +1,9 @@
+station_id: "F09"
+name: "Court Sq-23 St"
+borough: "Queens"
+routes: ["M","E"]
+coord: { lat: 40.747846, lon: -73.946 }
+neighborhood: "Hunters Point"
+zip_code: "11101"
+tags: []
+entrances: []

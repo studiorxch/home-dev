@@ -1,0 +1,9 @@
+station_id: "113"
+name: "157 St"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.834041, lon: -73.94489 }
+neighborhood: "Washington Heights"
+zip_code: "10032"
+tags: []
+entrances: []

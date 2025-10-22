@@ -1,0 +1,9 @@
+station_id: "253"
+name: "Rockaway Av"
+borough: "Brooklyn"
+routes: ["2","4","3","5"]
+coord: { lat: 40.662549, lon: -73.908946 }
+neighborhood: "Brownsville"
+zip_code: "11212"
+tags: []
+entrances: []

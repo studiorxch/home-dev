@@ -1,0 +1,9 @@
+station_id: "114"
+name: "145 St"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.826551, lon: -73.95036 }
+neighborhood: "Hamilton Heights"
+zip_code: "10031"
+tags: []
+entrances: []

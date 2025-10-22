@@ -1,0 +1,9 @@
+station_id: "E01"
+name: "World Trade Center"
+borough: "Manhattan"
+routes: ["E"]
+coord: { lat: 40.712582, lon: -74.009781 }
+neighborhood: "TriBeCa"
+zip_code: "10007"
+tags: []
+entrances: []

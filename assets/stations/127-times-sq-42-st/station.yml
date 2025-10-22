@@ -1,0 +1,9 @@
+station_id: "127"
+name: "Times Sq-42 St"
+borough: "Manhattan"
+routes: ["2","3","1"]
+coord: { lat: 40.75529, lon: -73.987495 }
+neighborhood: "Theater District"
+zip_code: "10018"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "L16"
+name: "DeKalb Av"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.703811, lon: -73.918425 }
+neighborhood: "Bushwick"
+zip_code: "11237"
+tags: []
+entrances: []

@@ -1,0 +1,107 @@
+// ============================================================================
+// STYLEGUIDE: TYPE SYSTEM
+// ============================================================================
+.styleguide--type {
+  padding: 4rem max(5vw, 2rem);
+  color: var(--color-text);
+  background: var(--color-bg);
+
+  .styleguide-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 3rem;
+    h1 {
+      font-family: 'Satoshi', sans-serif;
+      font-weight: 700;
+      margin: 0;
+    }
+    p {
+      opacity: 0.7;
+      font-family: 'Inter', sans-serif;
+    }
+  }
+
+  .type-grid {
+    display: grid;
+    gap: 3rem;
+    margin-bottom: 4rem;
+  }
+
+  .type-sample {
+    h2 {
+      font-size: 0.9rem;
+      font-family: 'Inter', sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      opacity: 0.65;
+      margin-bottom: 0.5rem;
+    }
+
+    .type-display {
+      font-family: 'Satoshi', sans-serif;
+      font-weight: 700;
+      font-size: clamp(2rem, 6vw, 4rem);
+      line-height: 1.1;
+    }
+
+    .type-heading {
+      font-family: 'Satoshi', sans-serif;
+      font-weight: 600;
+      font-size: clamp(1.5rem, 4vw, 2.5rem);
+    }
+
+    .type-body {
+      font-family: 'Diatype', 'Inter', sans-serif;
+      font-weight: 400;
+      font-size: 1rem;
+      line-height: 1.5;
+      max-width: 50ch;
+    }
+
+    .type-caption {
+      font-family: 'Inter', monospace;
+      font-size: 0.8rem;
+      letter-spacing: 0.05em;
+      opacity: 0.7;
+    }
+
+    .type-poster {
+      font-family: 'Druk', sans-serif;
+      text-transform: uppercase;
+      font-size: clamp(2rem, 8vw, 5rem);
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+      color: var(--color-accent);
+    }
+  }
+
+  .type-scale {
+    h2 {
+      margin-bottom: 1rem;
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+
+    .scale-grid {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 0.5rem;
+
+      li {
+        font-family: 'Satoshi', sans-serif;
+        background: var(--color-surface-subtle);
+        border-radius: 6px;
+        padding: 0.5rem 1rem;
+        border: 1px solid var(--color-border);
+        transition: background 0.3s;
+        &:hover {
+          background: var(--color-surface);
+        }
+      }
+    }
+  }
+}

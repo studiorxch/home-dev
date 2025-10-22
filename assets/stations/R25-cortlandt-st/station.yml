@@ -1,0 +1,9 @@
+station_id: "R25"
+name: "Cortlandt St"
+borough: "Manhattan"
+routes: ["N","W","R"]
+coord: { lat: 40.710668, lon: -74.011029 }
+neighborhood: "Financial District"
+zip_code: "10007"
+tags: []
+entrances: []

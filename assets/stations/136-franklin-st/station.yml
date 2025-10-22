@@ -1,0 +1,9 @@
+station_id: "136"
+name: "Franklin St"
+borough: "Manhattan"
+routes: ["2","1"]
+coord: { lat: 40.719318, lon: -74.006886 }
+neighborhood: "TriBeCa"
+zip_code: "10013"
+tags: []
+entrances: []

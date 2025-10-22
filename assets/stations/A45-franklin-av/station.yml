@@ -1,0 +1,9 @@
+station_id: "A45"
+name: "Franklin Av"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.68138, lon: -73.956848 }
+neighborhood: "Bedford"
+zip_code: "11238"
+tags: []
+entrances: []

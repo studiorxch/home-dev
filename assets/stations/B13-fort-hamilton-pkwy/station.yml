@@ -1,0 +1,9 @@
+station_id: "B13"
+name: "Fort Hamilton Pkwy"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.640914, lon: -73.994304 }
+neighborhood: "Sunset Park"
+zip_code: "11219"
+tags: []
+entrances: []

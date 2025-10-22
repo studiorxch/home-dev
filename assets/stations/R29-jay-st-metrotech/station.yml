@@ -1,0 +1,9 @@
+station_id: "R29"
+name: "Jay St-MetroTech"
+borough: "Brooklyn"
+routes: ["N","W","R"]
+coord: { lat: 40.69218, lon: -73.985942 }
+neighborhood: "Downtown Brooklyn"
+zip_code: "11201"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "H14"
+name: "Beach 105 St"
+borough: "Queens"
+routes: ["A","H"]
+coord: { lat: 40.583209, lon: -73.827559 }
+neighborhood: "Rockaway Beach"
+zip_code: "11694"
+tags: []
+entrances: []

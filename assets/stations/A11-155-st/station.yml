@@ -1,0 +1,9 @@
+station_id: "A11"
+name: "155 St"
+borough: "Manhattan"
+routes: ["C","A"]
+coord: { lat: 40.830518, lon: -73.941514 }
+neighborhood: "Hamilton Heights"
+zip_code: "10032"
+tags: []
+entrances: []

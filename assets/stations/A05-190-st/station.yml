@@ -1,0 +1,9 @@
+station_id: "A05"
+name: "190 St"
+borough: "Manhattan"
+routes: ["A"]
+coord: { lat: 40.859022, lon: -73.93418 }
+neighborhood: "Washington Heights"
+zip_code: "10040"
+tags: []
+entrances: []

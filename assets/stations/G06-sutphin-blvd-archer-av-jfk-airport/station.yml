@@ -1,0 +1,9 @@
+station_id: "G06"
+name: "Sutphin Blvd-Archer Av-JFK Airport"
+borough: "Queens"
+routes: ["Z","J","E"]
+coord: { lat: 40.700486, lon: -73.807969 }
+neighborhood: "Jamaica"
+zip_code: "11435"
+tags: []
+entrances: []

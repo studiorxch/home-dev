@@ -1,0 +1,9 @@
+station_id: "F31"
+name: "Avenue I"
+borough: "Brooklyn"
+routes: ["F","FX"]
+coord: { lat: 40.625322, lon: -73.976127 }
+neighborhood: "Borough Park"
+zip_code: "11230"
+tags: []
+entrances: []

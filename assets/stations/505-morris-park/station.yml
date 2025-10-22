@@ -1,0 +1,9 @@
+station_id: "505"
+name: "Morris Park"
+borough: "Bronx"
+routes: ["5"]
+coord: { lat: 40.854364, lon: -73.860495 }
+neighborhood: "Pelham Parkway"
+zip_code: "10462"
+tags: []
+entrances: []

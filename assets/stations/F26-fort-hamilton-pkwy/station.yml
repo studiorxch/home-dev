@@ -1,0 +1,9 @@
+station_id: "F26"
+name: "Fort Hamilton Pkwy"
+borough: "Brooklyn"
+routes: ["G","F"]
+coord: { lat: 40.650782, lon: -73.975776 }
+neighborhood: "Windsor Terrace"
+zip_code: "11218"
+tags: []
+entrances: []

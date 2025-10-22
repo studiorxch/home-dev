@@ -1,0 +1,9 @@
+station_id: "B16"
+name: "62 St"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.626472, lon: -73.996895 }
+neighborhood: "Bensonhurst"
+zip_code: "11219"
+tags: []
+entrances: []

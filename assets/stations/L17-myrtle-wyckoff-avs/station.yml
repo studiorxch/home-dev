@@ -1,0 +1,9 @@
+station_id: "L17"
+name: "Myrtle-Wyckoff Avs"
+borough: "Queens"
+routes: ["L"]
+coord: { lat: 40.699814, lon: -73.911586 }
+neighborhood: "Bushwick"
+zip_code: "11385"
+tags: []
+entrances: []

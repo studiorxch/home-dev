@@ -1,0 +1,9 @@
+station_id: "A32"
+name: "W 4 St-Wash Sq"
+borough: "Manhattan"
+routes: ["C","A","E"]
+coord: { lat: 40.732338, lon: -74.000495 }
+neighborhood: "West Village"
+zip_code: "10014"
+tags: []
+entrances: []

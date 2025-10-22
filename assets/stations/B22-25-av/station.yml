@@ -1,0 +1,9 @@
+station_id: "B22"
+name: "25 Av"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.597704, lon: -73.986829 }
+neighborhood: "Bensonhurst"
+zip_code: "11214"
+tags: []
+entrances: []

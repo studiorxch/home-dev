@@ -1,0 +1,9 @@
+station_id: "242"
+name: "Sterling St"
+borough: "Brooklyn"
+routes: ["2","5"]
+coord: { lat: 40.662742, lon: -73.95085 }
+neighborhood: "Prospect Lefferts Gardens"
+zip_code: "11225"
+tags: []
+entrances: []

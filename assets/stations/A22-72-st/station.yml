@@ -1,0 +1,9 @@
+station_id: "A22"
+name: "72 St"
+borough: "Manhattan"
+routes: ["C","A","B"]
+coord: { lat: 40.775594, lon: -73.97641 }
+neighborhood: "Central Park"
+zip_code: "10023"
+tags: []
+entrances: []

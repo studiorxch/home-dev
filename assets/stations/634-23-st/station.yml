@@ -1,0 +1,9 @@
+station_id: "634"
+name: "23 St"
+borough: "Manhattan"
+routes: ["4","6","6X"]
+coord: { lat: 40.739864, lon: -73.986599 }
+neighborhood: "Gramercy Park"
+zip_code: "10010"
+tags: []
+entrances: []

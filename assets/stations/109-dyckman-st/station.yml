@@ -1,0 +1,9 @@
+station_id: "109"
+name: "Dyckman St"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.860531, lon: -73.925536 }
+neighborhood: "Inwood"
+zip_code: "10040"
+tags: []
+entrances: []

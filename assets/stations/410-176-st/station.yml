@@ -1,0 +1,9 @@
+station_id: "410"
+name: "176 St"
+borough: "Bronx"
+routes: ["4"]
+coord: { lat: 40.84848, lon: -73.911794 }
+neighborhood: "Tremont"
+zip_code: "10453"
+tags: []
+entrances: []

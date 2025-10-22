@@ -1,0 +1,9 @@
+station_id: "129"
+name: "28 St"
+borough: "Manhattan"
+routes: ["2","1"]
+coord: { lat: 40.747215, lon: -73.993365 }
+neighborhood: "Chelsea"
+zip_code: "10001"
+tags: []
+entrances: []

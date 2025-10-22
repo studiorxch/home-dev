@@ -1,0 +1,9 @@
+station_id: "N06"
+name: "20 Av"
+borough: "Brooklyn"
+routes: ["N","W"]
+coord: { lat: 40.61741, lon: -73.985026 }
+neighborhood: "Bensonhurst"
+zip_code: "11204"
+tags: []
+entrances: []

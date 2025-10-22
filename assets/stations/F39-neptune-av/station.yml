@@ -1,0 +1,9 @@
+station_id: "F39"
+name: "Neptune Av"
+borough: "Brooklyn"
+routes: ["F","FX"]
+coord: { lat: 40.581011, lon: -73.974574 }
+neighborhood: "Coney Island"
+zip_code: "11224"
+tags: []
+entrances: []

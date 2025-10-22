@@ -1,0 +1,9 @@
+station_id: "D20"
+name: "W 4 St-Wash Sq"
+borough: "Manhattan"
+routes: ["D","B","M","FX","F"]
+coord: { lat: 40.732338, lon: -74.000495 }
+neighborhood: "West Village"
+zip_code: "10014"
+tags: []
+entrances: []

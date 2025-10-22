@@ -1,0 +1,9 @@
+station_id: "L05"
+name: "3 Av"
+borough: "Manhattan"
+routes: ["L"]
+coord: { lat: 40.732849, lon: -73.986122 }
+neighborhood: "East Village"
+zip_code: "10003"
+tags: []
+entrances: []

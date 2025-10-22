@@ -1,0 +1,9 @@
+station_id: "B20"
+name: "20 Av"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.604556, lon: -73.998168 }
+neighborhood: "Bath Beach"
+zip_code: "11214"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "121"
+name: "86 St"
+borough: "Manhattan"
+routes: ["2","1"]
+coord: { lat: 40.788644, lon: -73.976218 }
+neighborhood: "Upper West Side"
+zip_code: "10024"
+tags: []
+entrances: []

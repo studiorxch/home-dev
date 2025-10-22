@@ -1,0 +1,9 @@
+station_id: "D10"
+name: "167 St"
+borough: "Bronx"
+routes: ["D","B"]
+coord: { lat: 40.833771, lon: -73.91844 }
+neighborhood: "Grand Concourse"
+zip_code: "10452"
+tags: []
+entrances: []

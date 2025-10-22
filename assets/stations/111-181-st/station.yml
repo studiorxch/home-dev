@@ -1,0 +1,9 @@
+station_id: "111"
+name: "181 St"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.849505, lon: -73.933596 }
+neighborhood: "Washington Heights"
+zip_code: "10033"
+tags: []
+entrances: []

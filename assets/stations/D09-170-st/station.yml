@@ -1,0 +1,9 @@
+station_id: "D09"
+name: "170 St"
+borough: "Bronx"
+routes: ["D","B"]
+coord: { lat: 40.839306, lon: -73.9134 }
+neighborhood: "Mount Eden"
+zip_code: "10456"
+tags: []
+entrances: []

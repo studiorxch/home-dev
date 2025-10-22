@@ -1,0 +1,9 @@
+station_id: "F18"
+name: "York St"
+borough: "Brooklyn"
+routes: ["F","FX"]
+coord: { lat: 40.701397, lon: -73.986751 }
+neighborhood: "Dumbo"
+zip_code: "11201"
+tags: []
+entrances: []

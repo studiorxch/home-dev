@@ -1,0 +1,9 @@
+station_id: "233"
+name: "Hoyt St"
+borough: "Brooklyn"
+routes: ["2","3"]
+coord: { lat: 40.690545, lon: -73.985065 }
+neighborhood: "Downtown Brooklyn"
+zip_code: "11201"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "F16"
+name: "East Broadway"
+borough: "Manhattan"
+routes: ["F","FX"]
+coord: { lat: 40.713715, lon: -73.990173 }
+neighborhood: "Two Bridges"
+zip_code: "10002"
+tags: []
+entrances: []

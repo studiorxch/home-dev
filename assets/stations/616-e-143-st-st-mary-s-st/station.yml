@@ -1,0 +1,9 @@
+station_id: "616"
+name: "E 143 St-St Mary's St"
+borough: "Bronx"
+routes: ["6"]
+coord: { lat: 40.808719, lon: -73.907657 }
+neighborhood: "Mott Haven"
+zip_code: "10454"
+tags: []
+entrances: []

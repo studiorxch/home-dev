@@ -1,0 +1,9 @@
+station_id: "J22"
+name: "Cleveland St"
+borough: "Brooklyn"
+routes: ["J"]
+coord: { lat: 40.679947, lon: -73.884639 }
+neighborhood: "Cypress Hills"
+zip_code: "11208"
+tags: []
+entrances: []

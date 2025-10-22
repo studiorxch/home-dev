@@ -1,0 +1,9 @@
+station_id: "G09"
+name: "67 Av"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.726523, lon: -73.852719 }
+neighborhood: "Rego Park"
+zip_code: "11375"
+tags: []
+entrances: []

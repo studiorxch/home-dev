@@ -1,0 +1,9 @@
+station_id: "A24"
+name: "59 St-Columbus Circle"
+borough: "Manhattan"
+routes: ["D","C","A","B"]
+coord: { lat: 40.768296, lon: -73.981736 }
+neighborhood: "Hell's Kitchen"
+zip_code: "10023"
+tags: []
+entrances: []

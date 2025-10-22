@@ -1,0 +1,9 @@
+station_id: "D12"
+name: "155 St"
+borough: "Manhattan"
+routes: ["D","B"]
+coord: { lat: 40.830135, lon: -73.938209 }
+neighborhood: "Harlem"
+zip_code: "10039"
+tags: []
+entrances: []

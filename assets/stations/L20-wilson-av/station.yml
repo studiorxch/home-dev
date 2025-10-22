@@ -1,0 +1,9 @@
+station_id: "L20"
+name: "Wilson Av"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.688764, lon: -73.904046 }
+neighborhood: "Bushwick"
+zip_code: "11207"
+tags: []
+entrances: []

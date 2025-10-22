@@ -1,0 +1,9 @@
+station_id: "A52"
+name: "Liberty Av"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.674542, lon: -73.896548 }
+neighborhood: "East New York"
+zip_code: "11207"
+tags: []
+entrances: []

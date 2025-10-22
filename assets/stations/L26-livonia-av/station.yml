@@ -1,0 +1,9 @@
+station_id: "L26"
+name: "Livonia Av"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.664038, lon: -73.900571 }
+neighborhood: "Brownsville"
+zip_code: "11207"
+tags: []
+entrances: []

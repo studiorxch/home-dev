@@ -1,0 +1,954 @@
+[
+  {
+    "station_id": "101",
+    "slug": "van-cortlandt-park-242-st",
+    "name": "Van Cortlandt Park-242 St",
+    "borough": "Bronx",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.889248,
+    "lon": -73.898583,
+    "neighborhood": "Fieldston",
+    "zip_code": "10463"
+  },
+  {
+    "station_id": "103",
+    "slug": "238-st",
+    "name": "238 St",
+    "borough": "Bronx",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.884667,
+    "lon": -73.90087,
+    "neighborhood": "Kingsbridge",
+    "zip_code": "10463"
+  },
+  {
+    "station_id": "104",
+    "slug": "231-st",
+    "name": "231 St",
+    "borough": "Bronx",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.878856,
+    "lon": -73.904834,
+    "neighborhood": "Kingsbridge",
+    "zip_code": "10463"
+  },
+  {
+    "station_id": "201",
+    "slug": "wakefield-241-st",
+    "name": "Wakefield-241 St",
+    "borough": "Bronx",
+    "routes": [
+      "2"
+    ],
+    "lat": 40.903125,
+    "lon": -73.85062,
+    "neighborhood": "Wakefield",
+    "zip_code": "10470"
+  },
+  {
+    "station_id": "204",
+    "slug": "nereid-av",
+    "name": "Nereid Av",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.898379,
+    "lon": -73.854376,
+    "neighborhood": "Wakefield",
+    "zip_code": "10466"
+  },
+  {
+    "station_id": "205",
+    "slug": "233-st",
+    "name": "233 St",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.893193,
+    "lon": -73.857473,
+    "neighborhood": "Williamsbridge",
+    "zip_code": "10466"
+  },
+  {
+    "station_id": "206",
+    "slug": "225-st",
+    "name": "225 St",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.888022,
+    "lon": -73.860341,
+    "neighborhood": "Williamsbridge",
+    "zip_code": "10466"
+  },
+  {
+    "station_id": "207",
+    "slug": "219-st",
+    "name": "219 St",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.883895,
+    "lon": -73.862633,
+    "neighborhood": "Williamsbridge",
+    "zip_code": "10467"
+  },
+  {
+    "station_id": "208",
+    "slug": "gun-hill-rd",
+    "name": "Gun Hill Rd",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.87785,
+    "lon": -73.866256,
+    "neighborhood": "Williamsbridge",
+    "zip_code": "10467"
+  },
+  {
+    "station_id": "209",
+    "slug": "burke-av",
+    "name": "Burke Av",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.871356,
+    "lon": -73.867164,
+    "neighborhood": "Allerton",
+    "zip_code": "10467"
+  },
+  {
+    "station_id": "210",
+    "slug": "allerton-av",
+    "name": "Allerton Av",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.865462,
+    "lon": -73.867352,
+    "neighborhood": "Allerton",
+    "zip_code": "10467"
+  },
+  {
+    "station_id": "212",
+    "slug": "bronx-park-east",
+    "name": "Bronx Park East",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.848828,
+    "lon": -73.868457,
+    "neighborhood": "Pelham Parkway",
+    "zip_code": "10462"
+  },
+  {
+    "station_id": "211",
+    "slug": "pelham-pkwy",
+    "name": "Pelham Pkwy",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.857192,
+    "lon": -73.867615,
+    "neighborhood": "Pelham Parkway",
+    "zip_code": "10462"
+  },
+  {
+    "station_id": "213",
+    "slug": "e-180-st",
+    "name": "E 180 St",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.841894,
+    "lon": -73.873488,
+    "neighborhood": "Van Nest",
+    "zip_code": "10460"
+  },
+  {
+    "station_id": "214",
+    "slug": "west-farms-sq-e-tremont-av",
+    "name": "West Farms Sq-E Tremont Av",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.840295,
+    "lon": -73.880049,
+    "neighborhood": "East Tremont",
+    "zip_code": "10460"
+  },
+  {
+    "station_id": "216",
+    "slug": "freeman-st",
+    "name": "Freeman St",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.829993,
+    "lon": -73.891865,
+    "neighborhood": "Crotona Park East",
+    "zip_code": "10459"
+  },
+  {
+    "station_id": "215",
+    "slug": "174-st",
+    "name": "174 St",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.837288,
+    "lon": -73.887734,
+    "neighborhood": "Crotona Park East",
+    "zip_code": "10460"
+  },
+  {
+    "station_id": "217",
+    "slug": "simpson-st",
+    "name": "Simpson St",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.824073,
+    "lon": -73.893064,
+    "neighborhood": "Longwood",
+    "zip_code": "10459"
+  },
+  {
+    "station_id": "218",
+    "slug": "intervale-av",
+    "name": "Intervale Av",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.822181,
+    "lon": -73.896736,
+    "neighborhood": "Longwood",
+    "zip_code": "10459"
+  },
+  {
+    "station_id": "219",
+    "slug": "prospect-av",
+    "name": "Prospect Av",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.819585,
+    "lon": -73.90177,
+    "neighborhood": "Longwood",
+    "zip_code": "10455"
+  },
+  {
+    "station_id": "220",
+    "slug": "jackson-av",
+    "name": "Jackson Av",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.81649,
+    "lon": -73.907807,
+    "neighborhood": "Morrisania",
+    "zip_code": "10455"
+  },
+  {
+    "station_id": "221",
+    "slug": "3-av-149-st",
+    "name": "3 Av-149 St",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.816109,
+    "lon": -73.917757,
+    "neighborhood": "Mott Haven",
+    "zip_code": "10455"
+  },
+  {
+    "station_id": "222",
+    "slug": "149-st-grand-concourse",
+    "name": "149 St-Grand Concourse",
+    "borough": "Bronx",
+    "routes": [
+      "2",
+      "5"
+    ],
+    "lat": 40.81841,
+    "lon": -73.926718,
+    "neighborhood": "Grand Concourse",
+    "zip_code": "10451"
+  },
+  {
+    "station_id": "401",
+    "slug": "woodlawn",
+    "name": "Woodlawn",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.886037,
+    "lon": -73.878751,
+    "neighborhood": "Norwood",
+    "zip_code": "10467"
+  },
+  {
+    "station_id": "402",
+    "slug": "mosholu-pkwy",
+    "name": "Mosholu Pkwy",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.87975,
+    "lon": -73.884655,
+    "neighborhood": "Norwood",
+    "zip_code": "10467"
+  },
+  {
+    "station_id": "405",
+    "slug": "bedford-park-blvd-lehman-college",
+    "name": "Bedford Park Blvd-Lehman College",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.873412,
+    "lon": -73.890064,
+    "neighborhood": "Kingsbridge Heights",
+    "zip_code": "10468"
+  },
+  {
+    "station_id": "406",
+    "slug": "kingsbridge-rd",
+    "name": "Kingsbridge Rd",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.86776,
+    "lon": -73.897174,
+    "neighborhood": "Fordham",
+    "zip_code": "10468"
+  },
+  {
+    "station_id": "407",
+    "slug": "fordham-rd",
+    "name": "Fordham Rd",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.862803,
+    "lon": -73.901034,
+    "neighborhood": "University Heights",
+    "zip_code": "10468"
+  },
+  {
+    "station_id": "408",
+    "slug": "183-st",
+    "name": "183 St",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.858407,
+    "lon": -73.903879,
+    "neighborhood": "University Heights",
+    "zip_code": "10453"
+  },
+  {
+    "station_id": "409",
+    "slug": "burnside-av",
+    "name": "Burnside Av",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.853453,
+    "lon": -73.907684,
+    "neighborhood": "Morris Heights",
+    "zip_code": "10453"
+  },
+  {
+    "station_id": "410",
+    "slug": "176-st",
+    "name": "176 St",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.84848,
+    "lon": -73.911794,
+    "neighborhood": "Tremont",
+    "zip_code": "10453"
+  },
+  {
+    "station_id": "411",
+    "slug": "mt-eden-av",
+    "name": "Mt Eden Av",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.844434,
+    "lon": -73.914685,
+    "neighborhood": "Mount Eden",
+    "zip_code": "10452"
+  },
+  {
+    "station_id": "412",
+    "slug": "170-st",
+    "name": "170 St",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.840075,
+    "lon": -73.917791,
+    "neighborhood": "Mount Eden",
+    "zip_code": "10452"
+  },
+  {
+    "station_id": "413",
+    "slug": "167-st",
+    "name": "167 St",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.835537,
+    "lon": -73.9214,
+    "neighborhood": "Grand Concourse",
+    "zip_code": "10452"
+  },
+  {
+    "station_id": "414",
+    "slug": "161-st-yankee-stadium",
+    "name": "161 St-Yankee Stadium",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.827994,
+    "lon": -73.925831,
+    "neighborhood": "Grand Concourse",
+    "zip_code": "10452"
+  },
+  {
+    "station_id": "415",
+    "slug": "149-st-grand-concourse",
+    "name": "149 St-Grand Concourse",
+    "borough": "Bronx",
+    "routes": [
+      "4"
+    ],
+    "lat": 40.818375,
+    "lon": -73.927351,
+    "neighborhood": "Grand Concourse",
+    "zip_code": "10451"
+  },
+  {
+    "station_id": "416",
+    "slug": "138-st-grand-concourse",
+    "name": "138 St-Grand Concourse",
+    "borough": "Bronx",
+    "routes": [
+      "4",
+      "5"
+    ],
+    "lat": 40.813224,
+    "lon": -73.929849,
+    "neighborhood": "Grand Concourse",
+    "zip_code": "10451"
+  },
+  {
+    "station_id": "501",
+    "slug": "eastchester-dyre-av",
+    "name": "Eastchester-Dyre Av",
+    "borough": "Bronx",
+    "routes": [
+      "5"
+    ],
+    "lat": 40.8883,
+    "lon": -73.830834,
+    "neighborhood": "Eastchester",
+    "zip_code": "10466"
+  },
+  {
+    "station_id": "502",
+    "slug": "baychester-av",
+    "name": "Baychester Av",
+    "borough": "Bronx",
+    "routes": [
+      "5"
+    ],
+    "lat": 40.878663,
+    "lon": -73.838591,
+    "neighborhood": "Edenwald",
+    "zip_code": "10469"
+  },
+  {
+    "station_id": "503",
+    "slug": "gun-hill-rd",
+    "name": "Gun Hill Rd",
+    "borough": "Bronx",
+    "routes": [
+      "5"
+    ],
+    "lat": 40.869526,
+    "lon": -73.846384,
+    "neighborhood": "Laconia",
+    "zip_code": "10469"
+  },
+  {
+    "station_id": "504",
+    "slug": "pelham-pkwy",
+    "name": "Pelham Pkwy",
+    "borough": "Bronx",
+    "routes": [
+      "5"
+    ],
+    "lat": 40.858985,
+    "lon": -73.855359,
+    "neighborhood": "Pelham Parkway",
+    "zip_code": "10469"
+  },
+  {
+    "station_id": "505",
+    "slug": "morris-park",
+    "name": "Morris Park",
+    "borough": "Bronx",
+    "routes": [
+      "5"
+    ],
+    "lat": 40.854364,
+    "lon": -73.860495,
+    "neighborhood": "Pelham Parkway",
+    "zip_code": "10462"
+  },
+  {
+    "station_id": "601",
+    "slug": "pelham-bay-park",
+    "name": "Pelham Bay Park",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.852462,
+    "lon": -73.828121,
+    "neighborhood": "Pelham Bay",
+    "zip_code": "10461"
+  },
+  {
+    "station_id": "602",
+    "slug": "buhre-av",
+    "name": "Buhre Av",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.84681,
+    "lon": -73.832569,
+    "neighborhood": "Pelham Bay",
+    "zip_code": "10461"
+  },
+  {
+    "station_id": "603",
+    "slug": "middletown-rd",
+    "name": "Middletown Rd",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.843863,
+    "lon": -73.836322,
+    "neighborhood": "Pelham Bay",
+    "zip_code": "10461"
+  },
+  {
+    "station_id": "604",
+    "slug": "westchester-sq-e-tremont-av",
+    "name": "Westchester Sq-E Tremont Av",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.839892,
+    "lon": -73.842952,
+    "neighborhood": "Westchester Square",
+    "zip_code": "10461"
+  },
+  {
+    "station_id": "606",
+    "slug": "zerega-av",
+    "name": "Zerega Av",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.836488,
+    "lon": -73.847036,
+    "neighborhood": "Westchester Square",
+    "zip_code": "10462"
+  },
+  {
+    "station_id": "607",
+    "slug": "castle-hill-av",
+    "name": "Castle Hill Av",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.834255,
+    "lon": -73.851222,
+    "neighborhood": "Castle Hill",
+    "zip_code": "10462"
+  },
+  {
+    "station_id": "608",
+    "slug": "parkchester",
+    "name": "Parkchester",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.833226,
+    "lon": -73.860816,
+    "neighborhood": "Castle Hill",
+    "zip_code": "10472"
+  },
+  {
+    "station_id": "609",
+    "slug": "st-lawrence-av",
+    "name": "St Lawrence Av",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.831509,
+    "lon": -73.867618,
+    "neighborhood": "Soundview",
+    "zip_code": "10472"
+  },
+  {
+    "station_id": "610",
+    "slug": "morrison-av-soundview",
+    "name": "Morrison Av-Soundview",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.829521,
+    "lon": -73.874516,
+    "neighborhood": "Soundview",
+    "zip_code": "10472"
+  },
+  {
+    "station_id": "611",
+    "slug": "elder-av",
+    "name": "Elder Av",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.828584,
+    "lon": -73.879159,
+    "neighborhood": "Soundview",
+    "zip_code": "10472"
+  },
+  {
+    "station_id": "613",
+    "slug": "hunts-point-av",
+    "name": "Hunts Point Av",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.820948,
+    "lon": -73.890549,
+    "neighborhood": "Longwood",
+    "zip_code": "10459"
+  },
+  {
+    "station_id": "612",
+    "slug": "whitlock-av",
+    "name": "Whitlock Av",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.826525,
+    "lon": -73.886283,
+    "neighborhood": "Longwood",
+    "zip_code": "10459"
+  },
+  {
+    "station_id": "614",
+    "slug": "longwood-av",
+    "name": "Longwood Av",
+    "borough": "Bronx",
+    "routes": [
+      "6"
+    ],
+    "lat": 40.816104,
+    "lon": -73.896435,
+    "neighborhood": "Longwood",
+    "zip_code": "10455"
+  },
+  {
+    "station_id": "615",
+    "slug": "e-149-st",
+    "name": "E 149 St",
+    "borough": "Bronx",
+    "routes": [
+      "6"
+    ],
+    "lat": 40.812118,
+    "lon": -73.904098,
+    "neighborhood": "Longwood",
+    "zip_code": "10455"
+  },
+  {
+    "station_id": "616",
+    "slug": "e-143-st-st-mary-s-st",
+    "name": "E 143 St-St Mary's St",
+    "borough": "Bronx",
+    "routes": [
+      "6"
+    ],
+    "lat": 40.808719,
+    "lon": -73.907657,
+    "neighborhood": "Mott Haven",
+    "zip_code": "10454"
+  },
+  {
+    "station_id": "617",
+    "slug": "cypress-av",
+    "name": "Cypress Av",
+    "borough": "Bronx",
+    "routes": [
+      "6"
+    ],
+    "lat": 40.805368,
+    "lon": -73.914042,
+    "neighborhood": "Mott Haven",
+    "zip_code": "10454"
+  },
+  {
+    "station_id": "618",
+    "slug": "brook-av",
+    "name": "Brook Av",
+    "borough": "Bronx",
+    "routes": [
+      "6"
+    ],
+    "lat": 40.807566,
+    "lon": -73.91924,
+    "neighborhood": "Mott Haven",
+    "zip_code": "10454"
+  },
+  {
+    "station_id": "619",
+    "slug": "3-av-138-st",
+    "name": "3 Av-138 St",
+    "borough": "Bronx",
+    "routes": [
+      "6",
+      "6X"
+    ],
+    "lat": 40.810476,
+    "lon": -73.926138,
+    "neighborhood": "Mott Haven",
+    "zip_code": "10454"
+  },
+  {
+    "station_id": "D01",
+    "slug": "norwood-205-st",
+    "name": "Norwood-205 St",
+    "borough": "Bronx",
+    "routes": [
+      "D"
+    ],
+    "lat": 40.874811,
+    "lon": -73.878855,
+    "neighborhood": "Norwood",
+    "zip_code": "10467"
+  },
+  {
+    "station_id": "D03",
+    "slug": "bedford-park-blvd",
+    "name": "Bedford Park Blvd",
+    "borough": "Bronx",
+    "routes": [
+      "D",
+      "B"
+    ],
+    "lat": 40.873244,
+    "lon": -73.887138,
+    "neighborhood": "Bedford Park",
+    "zip_code": "10458"
+  },
+  {
+    "station_id": "D04",
+    "slug": "kingsbridge-rd",
+    "name": "Kingsbridge Rd",
+    "borough": "Bronx",
+    "routes": [
+      "D",
+      "B"
+    ],
+    "lat": 40.866978,
+    "lon": -73.893509,
+    "neighborhood": "Fordham",
+    "zip_code": "10458"
+  },
+  {
+    "station_id": "D05",
+    "slug": "fordham-rd",
+    "name": "Fordham Rd",
+    "borough": "Bronx",
+    "routes": [
+      "D",
+      "B"
+    ],
+    "lat": 40.861296,
+    "lon": -73.897749,
+    "neighborhood": "Fordham",
+    "zip_code": "10458"
+  },
+  {
+    "station_id": "D06",
+    "slug": "182-183-sts",
+    "name": "182-183 Sts",
+    "borough": "Bronx",
+    "routes": [
+      "D",
+      "B"
+    ],
+    "lat": 40.856093,
+    "lon": -73.900741,
+    "neighborhood": "Tremont",
+    "zip_code": "10457"
+  },
+  {
+    "station_id": "D07",
+    "slug": "tremont-av",
+    "name": "Tremont Av",
+    "borough": "Bronx",
+    "routes": [
+      "D",
+      "B"
+    ],
+    "lat": 40.85041,
+    "lon": -73.905227,
+    "neighborhood": "Tremont",
+    "zip_code": "10457"
+  },
+  {
+    "station_id": "D08",
+    "slug": "174-175-sts",
+    "name": "174-175 Sts",
+    "borough": "Bronx",
+    "routes": [
+      "D",
+      "B"
+    ],
+    "lat": 40.8459,
+    "lon": -73.910136,
+    "neighborhood": "Tremont",
+    "zip_code": "10457"
+  },
+  {
+    "station_id": "D09",
+    "slug": "170-st",
+    "name": "170 St",
+    "borough": "Bronx",
+    "routes": [
+      "D",
+      "B"
+    ],
+    "lat": 40.839306,
+    "lon": -73.9134,
+    "neighborhood": "Mount Eden",
+    "zip_code": "10456"
+  },
+  {
+    "station_id": "D10",
+    "slug": "167-st",
+    "name": "167 St",
+    "borough": "Bronx",
+    "routes": [
+      "D",
+      "B"
+    ],
+    "lat": 40.833771,
+    "lon": -73.91844,
+    "neighborhood": "Grand Concourse",
+    "zip_code": "10452"
+  },
+  {
+    "station_id": "D11",
+    "slug": "161-st-yankee-stadium",
+    "name": "161 St-Yankee Stadium",
+    "borough": "Bronx",
+    "routes": [
+      "D",
+      "B"
+    ],
+    "lat": 40.827905,
+    "lon": -73.925651,
+    "neighborhood": "Grand Concourse",
+    "zip_code": "10452"
+  }
+]

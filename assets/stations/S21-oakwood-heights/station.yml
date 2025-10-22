@@ -1,0 +1,9 @@
+station_id: "S21"
+name: "Oakwood Heights"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.56511, lon: -74.12632 }
+neighborhood: "Richmondtown"
+zip_code: "10306"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "256"
+name: "Van Siclen Av"
+borough: "Brooklyn"
+routes: ["2","4","3","5"]
+coord: { lat: 40.665449, lon: -73.889395 }
+neighborhood: "East New York"
+zip_code: "11207"
+tags: []
+entrances: []

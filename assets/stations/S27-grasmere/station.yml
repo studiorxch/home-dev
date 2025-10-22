@@ -1,0 +1,9 @@
+station_id: "S27"
+name: "Grasmere"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.603117, lon: -74.084087 }
+neighborhood: "Grasmere"
+zip_code: "10304"
+tags: []
+entrances: []

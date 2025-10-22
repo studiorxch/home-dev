@@ -1,0 +1,9 @@
+station_id: "F07"
+name: "75 Av"
+borough: "Queens"
+routes: ["F","FX","E"]
+coord: { lat: 40.718331, lon: -73.837324 }
+neighborhood: "Forest Hills"
+zip_code: "11375"
+tags: []
+entrances: []

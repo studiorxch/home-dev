@@ -1,0 +1,9 @@
+station_id: "F20"
+name: "Bergen St"
+borough: "Brooklyn"
+routes: ["G","F"]
+coord: { lat: 40.686145, lon: -73.990862 }
+neighborhood: "Boerum Hill"
+zip_code: "11201"
+tags: []
+entrances: []

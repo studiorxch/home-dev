@@ -1,0 +1,9 @@
+station_id: "B10"
+name: "57 St"
+borough: "Manhattan"
+routes: ["F","FX"]
+coord: { lat: 40.763972, lon: -73.97745 }
+neighborhood: "Midtown East"
+zip_code: "10019"
+tags: []
+entrances: []

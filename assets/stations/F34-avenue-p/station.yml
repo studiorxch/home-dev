@@ -1,0 +1,9 @@
+station_id: "F34"
+name: "Avenue P"
+borough: "Brooklyn"
+routes: ["F","FX"]
+coord: { lat: 40.608944, lon: -73.973022 }
+neighborhood: "Midwood"
+zip_code: "11204"
+tags: []
+entrances: []

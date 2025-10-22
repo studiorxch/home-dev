@@ -1,0 +1,9 @@
+station_id: "H13"
+name: "Beach 98 St"
+borough: "Queens"
+routes: ["A","H"]
+coord: { lat: 40.585307, lon: -73.820558 }
+neighborhood: "Rockaway Beach"
+zip_code: "11694"
+tags: []
+entrances: []

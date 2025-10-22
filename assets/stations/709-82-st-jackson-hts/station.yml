@@ -1,0 +1,9 @@
+station_id: "709"
+name: "82 St-Jackson Hts"
+borough: "Queens"
+routes: ["7"]
+coord: { lat: 40.747659, lon: -73.883697 }
+neighborhood: "Elmhurst"
+zip_code: "11372"
+tags: []
+entrances: []

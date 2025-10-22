@@ -1,0 +1,9 @@
+station_id: "502"
+name: "Baychester Av"
+borough: "Bronx"
+routes: ["5"]
+coord: { lat: 40.878663, lon: -73.838591 }
+neighborhood: "Edenwald"
+zip_code: "10469"
+tags: []
+entrances: []

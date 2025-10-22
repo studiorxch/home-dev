@@ -1,0 +1,9 @@
+station_id: "116"
+name: "125 St"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.815581, lon: -73.958372 }
+neighborhood: "Morningside Heights"
+zip_code: "10027"
+tags: []
+entrances: []

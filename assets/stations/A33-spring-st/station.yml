@@ -1,0 +1,9 @@
+station_id: "A33"
+name: "Spring St"
+borough: "Manhattan"
+routes: ["C","A","E"]
+coord: { lat: 40.726227, lon: -74.003739 }
+neighborhood: "Hudson Square"
+zip_code: "10012"
+tags: []
+entrances: []

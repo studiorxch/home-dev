@@ -1,0 +1,9 @@
+station_id: "218"
+name: "Intervale Av"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.822181, lon: -73.896736 }
+neighborhood: "Longwood"
+zip_code: "10459"
+tags: []
+entrances: []

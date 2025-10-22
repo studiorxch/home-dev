@@ -1,0 +1,9 @@
+station_id: "611"
+name: "Elder Av"
+borough: "Bronx"
+routes: ["6","6X"]
+coord: { lat: 40.828584, lon: -73.879159 }
+neighborhood: "Soundview"
+zip_code: "10472"
+tags: []
+entrances: []

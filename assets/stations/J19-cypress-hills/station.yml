@@ -1,0 +1,9 @@
+station_id: "J19"
+name: "Cypress Hills"
+borough: "Brooklyn"
+routes: ["Z","J"]
+coord: { lat: 40.689941, lon: -73.87255 }
+neighborhood: "Cypress Hills"
+zip_code: "11208"
+tags: []
+entrances: []

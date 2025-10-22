@@ -1,0 +1,9 @@
+station_id: "617"
+name: "Cypress Av"
+borough: "Bronx"
+routes: ["6"]
+coord: { lat: 40.805368, lon: -73.914042 }
+neighborhood: "Mott Haven"
+zip_code: "10454"
+tags: []
+entrances: []

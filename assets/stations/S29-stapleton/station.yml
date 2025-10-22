@@ -1,0 +1,9 @@
+station_id: "S29"
+name: "Stapleton"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.627915, lon: -74.075162 }
+neighborhood: "Stapleton"
+zip_code: "10304"
+tags: []
+entrances: []

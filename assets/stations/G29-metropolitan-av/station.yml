@@ -1,0 +1,9 @@
+station_id: "G29"
+name: "Metropolitan Av"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.712792, lon: -73.951418 }
+neighborhood: "Williamsburg"
+zip_code: "11211"
+tags: []
+entrances: []

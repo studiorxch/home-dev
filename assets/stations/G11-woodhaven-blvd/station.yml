@@ -1,0 +1,9 @@
+station_id: "G11"
+name: "Woodhaven Blvd"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.733106, lon: -73.869229 }
+neighborhood: "Elmhurst"
+zip_code: "11373"
+tags: []
+entrances: []

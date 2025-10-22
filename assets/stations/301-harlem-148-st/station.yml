@@ -1,0 +1,9 @@
+station_id: "301"
+name: "Harlem-148 St"
+borough: "Manhattan"
+routes: ["3"]
+coord: { lat: 40.82388, lon: -73.93647 }
+neighborhood: "Harlem"
+zip_code: "10039"
+tags: []
+entrances: []

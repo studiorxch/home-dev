@@ -1,0 +1,9 @@
+station_id: "F23"
+name: "4 Av-9 St"
+borough: "Brooklyn"
+routes: ["G","F"]
+coord: { lat: 40.670272, lon: -73.989779 }
+neighborhood: "Gowanus"
+zip_code: "11215"
+tags: []
+entrances: []

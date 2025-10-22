@@ -1,0 +1,9 @@
+station_id: "138"
+name: "WTC Cortlandt"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.711835, lon: -74.012188 }
+neighborhood: "Financial District"
+zip_code: "10048"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "S30"
+name: "Tompkinsville"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.636949, lon: -74.074835 }
+neighborhood: "Tompkinsville"
+zip_code: "10301"
+tags: []
+entrances: []

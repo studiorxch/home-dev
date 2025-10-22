@@ -1,0 +1,9 @@
+station_id: "S04"
+name: "Botanic Garden"
+borough: "Brooklyn"
+routes: ["FS"]
+coord: { lat: 40.670343, lon: -73.959245 }
+neighborhood: "Crown Heights"
+zip_code: "11225"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "133"
+name: "Christopher St-Stonewall"
+borough: "Manhattan"
+routes: ["2","1"]
+coord: { lat: 40.733422, lon: -74.002906 }
+neighborhood: "West Village"
+zip_code: "10014"
+tags: []
+entrances: []

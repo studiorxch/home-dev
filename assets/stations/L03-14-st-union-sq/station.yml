@@ -1,0 +1,9 @@
+station_id: "L03"
+name: "14 St-Union Sq"
+borough: "Manhattan"
+routes: ["L"]
+coord: { lat: 40.734789, lon: -73.99073 }
+neighborhood: "Union Square"
+zip_code: "10003"
+tags: []
+entrances: []

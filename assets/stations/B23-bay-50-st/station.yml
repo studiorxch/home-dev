@@ -1,0 +1,9 @@
+station_id: "B23"
+name: "Bay 50 St"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.588841, lon: -73.983765 }
+neighborhood: "Bath Beach"
+zip_code: "11223"
+tags: []
+entrances: []

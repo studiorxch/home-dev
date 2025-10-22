@@ -1,0 +1,9 @@
+station_id: "901"
+name: "Grand Central-42 St"
+borough: "Manhattan"
+routes: ["GS"]
+coord: { lat: 40.752769, lon: -73.979189 }
+neighborhood: "Midtown East"
+zip_code: "10017"
+tags: []
+entrances: []

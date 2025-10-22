@@ -1,0 +1,9 @@
+station_id: "F24"
+name: "7 Av"
+borough: "Brooklyn"
+routes: ["G","F","FX"]
+coord: { lat: 40.666271, lon: -73.980305 }
+neighborhood: "South Slope"
+zip_code: "11215"
+tags: []
+entrances: []

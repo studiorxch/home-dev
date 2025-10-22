@@ -1,0 +1,9 @@
+station_id: "L29"
+name: "Canarsie-Rockaway Pkwy"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.646654, lon: -73.90185 }
+neighborhood: "Canarsie"
+zip_code: "11236"
+tags: []
+entrances: []

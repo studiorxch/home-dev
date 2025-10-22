@@ -1,0 +1,9 @@
+station_id: "R06"
+name: "36 Av"
+borough: "Queens"
+routes: ["N","W"]
+coord: { lat: 40.756804, lon: -73.929575 }
+neighborhood: "Astoria"
+zip_code: "11106"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "H02"
+name: "Aqueduct-N Conduit Av"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.668234, lon: -73.834058 }
+neighborhood: "Ozone Park"
+zip_code: "11420"
+tags: []
+entrances: []

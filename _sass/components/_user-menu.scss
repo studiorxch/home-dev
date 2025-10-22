@@ -1,0 +1,145 @@
+/* _sass/components/_user-menu.scss */
+/* ============================================================================
+   StudioRich User Menu — Centered Inset Dropdown
+   ========================================================================= */
+
+.user-menu {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .user-avatar {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--color-fg);
+    cursor: pointer;
+    transition: all 0.25s ease;
+    box-shadow: 0 0 4px rgba(255, 255, 255, 0.08);
+
+    &:hover {
+      background: var(--color-surface-strong);
+      transform: scale(1.05);
+      box-shadow: 0 0 6px rgba(255, 255, 255, 0.15);
+    }
+  }
+
+  .user-menu-dropdown {
+    position: fixed; /* key change: fixes to viewport instead of sidebar edge */
+    bottom: 72px; /* matches sidebar padding */
+    left: 72px; /* pulls panel inward */
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: 1rem;
+    width: 220px;
+    display: none;
+    flex-direction: column;
+    gap: 0.6rem;
+    z-index: 1000;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.35);
+    backdrop-filter: blur(8px);
+
+    h4 {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      opacity: 0.6;
+      margin-bottom: 0.25rem;
+    }
+
+    label {
+      font-size: 0.75rem;
+      opacity: 0.8;
+      margin-bottom: 0.15rem;
+    }
+
+    select,
+    input[type='range'],
+    input[type='email'],
+    button {
+      width: 100%;
+      background: var(--color-bg);
+      color: var(--color-fg);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-sm);
+      padding: 0.3rem 0.5rem;
+      font-size: 0.8rem;
+    }
+
+    input[type='range'] {
+      appearance: none;
+      height: 5px;
+      background: var(--color-border);
+      border-radius: 4px;
+      outline: none;
+      cursor: pointer;
+    }
+  }
+}
+
+/* === Active State === */
+.user-menu.active .user-menu-dropdown {
+  display: flex;
+  animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* === Authentication Panel === */
+.auth-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+
+  input,
+  button {
+    font-size: 0.75rem;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    background: var(--color-surface);
+    color: var(--color-fg);
+    padding: 0.25rem 0.5rem;
+  }
+
+  button {
+    cursor: pointer;
+    transition: all 0.2s ease;
+
+    &:hover {
+      background: var(--color-surface-strong);
+    }
+  }
+
+  #userInfo {
+    font-size: 0.75rem;
+    opacity: 0.7;
+  }
+}
+
+/* === Status Message === */
+.status-msg {
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+
+  &.success {
+    color: var(--color-success, #66ff99);
+  }
+  &.error {
+    color: var(--color-error, #ff3366);
+  }
+}

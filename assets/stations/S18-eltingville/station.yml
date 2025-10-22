@@ -1,0 +1,9 @@
+station_id: "S18"
+name: "Eltingville"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.544601, lon: -74.16457 }
+neighborhood: "Eltingville"
+zip_code: "10312"
+tags: []
+entrances: []

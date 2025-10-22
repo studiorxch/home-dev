@@ -1,0 +1,9 @@
+station_id: "H07"
+name: "Beach 60 St"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.592374, lon: -73.788522 }
+neighborhood: "Arverne"
+zip_code: "11692"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "D18"
+name: "23 St"
+borough: "Manhattan"
+routes: ["F","FX","M"]
+coord: { lat: 40.742878, lon: -73.992821 }
+neighborhood: "The Flatiron District"
+zip_code: "10010"
+tags: []
+entrances: []

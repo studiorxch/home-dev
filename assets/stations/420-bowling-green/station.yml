@@ -1,0 +1,9 @@
+station_id: "420"
+name: "Bowling Green"
+borough: "Manhattan"
+routes: ["4","5"]
+coord: { lat: 40.704817, lon: -74.014065 }
+neighborhood: "Financial District"
+zip_code: "10004"
+tags: []
+entrances: []

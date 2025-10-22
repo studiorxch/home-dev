@@ -1,0 +1,9 @@
+station_id: "216"
+name: "Freeman St"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.829993, lon: -73.891865 }
+neighborhood: "Crotona Park East"
+zip_code: "10459"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "N08"
+name: "Kings Hwy"
+borough: "Brooklyn"
+routes: ["N","W"]
+coord: { lat: 40.603923, lon: -73.980353 }
+neighborhood: "Gravesend"
+zip_code: "11223"
+tags: []
+entrances: []

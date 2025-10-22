@@ -1,0 +1,9 @@
+station_id: "B18"
+name: "79 St"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.613501, lon: -74.00061 }
+neighborhood: "Bensonhurst"
+zip_code: "11214"
+tags: []
+entrances: []

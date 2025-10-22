@@ -1,0 +1,9 @@
+station_id: "108"
+name: "207 St"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.864621, lon: -73.918822 }
+neighborhood: "Inwood"
+zip_code: "10034"
+tags: []
+entrances: []

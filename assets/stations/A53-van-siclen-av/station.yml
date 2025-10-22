@@ -1,0 +1,9 @@
+station_id: "A53"
+name: "Van Siclen Av"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.67271, lon: -73.890358 }
+neighborhood: "East New York"
+zip_code: "11207"
+tags: []
+entrances: []

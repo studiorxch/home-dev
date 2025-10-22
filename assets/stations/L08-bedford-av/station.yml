@@ -1,0 +1,9 @@
+station_id: "L08"
+name: "Bedford Av"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.717304, lon: -73.956872 }
+neighborhood: "Williamsburg"
+zip_code: "11211"
+tags: []
+entrances: []

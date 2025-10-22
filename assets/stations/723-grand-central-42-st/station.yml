@@ -1,0 +1,9 @@
+station_id: "723"
+name: "Grand Central-42 St"
+borough: "Manhattan"
+routes: ["7","7X"]
+coord: { lat: 40.751431, lon: -73.976041 }
+neighborhood: "Murray Hill"
+zip_code: "10017"
+tags: []
+entrances: []

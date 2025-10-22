@@ -1,0 +1,9 @@
+station_id: "F14"
+name: "2 Av"
+borough: "Manhattan"
+routes: ["F","FX"]
+coord: { lat: 40.723402, lon: -73.989938 }
+neighborhood: "The Bowery"
+zip_code: "10003"
+tags: []
+entrances: []

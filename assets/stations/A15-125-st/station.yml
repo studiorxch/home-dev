@@ -1,0 +1,9 @@
+station_id: "A15"
+name: "125 St"
+borough: "Manhattan"
+routes: ["D","C","A","B"]
+coord: { lat: 40.811109, lon: -73.952343 }
+neighborhood: "Harlem"
+zip_code: "10027"
+tags: []
+entrances: []

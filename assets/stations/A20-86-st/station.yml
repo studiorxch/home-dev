@@ -1,0 +1,9 @@
+station_id: "A20"
+name: "86 St"
+borough: "Manhattan"
+routes: ["C","A","B"]
+coord: { lat: 40.785868, lon: -73.968916 }
+neighborhood: "Central Park"
+zip_code: "10024"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "A34"
+name: "Canal St"
+borough: "Manhattan"
+routes: ["C","A","E"]
+coord: { lat: 40.720824, lon: -74.005229 }
+neighborhood: "TriBeCa"
+zip_code: "10013"
+tags: []
+entrances: []

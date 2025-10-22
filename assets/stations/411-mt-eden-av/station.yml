@@ -1,0 +1,9 @@
+station_id: "411"
+name: "Mt Eden Av"
+borough: "Bronx"
+routes: ["4"]
+coord: { lat: 40.844434, lon: -73.914685 }
+neighborhood: "Mount Eden"
+zip_code: "10452"
+tags: []
+entrances: []

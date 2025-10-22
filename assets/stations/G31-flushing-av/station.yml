@@ -1,0 +1,9 @@
+station_id: "G31"
+name: "Flushing Av"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.700377, lon: -73.950234 }
+neighborhood: "Williamsburg"
+zip_code: "11206"
+tags: []
+entrances: []

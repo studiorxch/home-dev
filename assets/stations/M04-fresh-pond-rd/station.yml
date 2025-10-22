@@ -1,0 +1,9 @@
+station_id: "M04"
+name: "Fresh Pond Rd"
+borough: "Queens"
+routes: ["M"]
+coord: { lat: 40.706186, lon: -73.895877 }
+neighborhood: "Ridgewood"
+zip_code: "11385"
+tags: []
+entrances: []

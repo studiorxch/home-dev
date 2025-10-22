@@ -1,0 +1,9 @@
+station_id: "N12"
+name: "S.B. Coney Island"
+borough: "Brooklyn"
+routes: ["D","F","N","Q"]
+coord: { lat: 40.577422, lon: -73.981233 }
+neighborhood: "Coney Island"
+zip_code: "11224"
+tags: []
+entrances: []

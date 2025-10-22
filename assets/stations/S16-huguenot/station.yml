@@ -1,0 +1,9 @@
+station_id: "S16"
+name: "Huguenot"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.533674, lon: -74.191794 }
+neighborhood: "Huguenot"
+zip_code: "10312"
+tags: []
+entrances: []

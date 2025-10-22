@@ -1,0 +1,9 @@
+station_id: "627"
+name: "77 St"
+borough: "Manhattan"
+routes: ["4","6","6X"]
+coord: { lat: 40.77362, lon: -73.959874 }
+neighborhood: "Lenox Hill"
+zip_code: "10021"
+tags: []
+entrances: []

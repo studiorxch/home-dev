@@ -1,0 +1,9 @@
+station_id: "A10"
+name: "163 St-Amsterdam Av"
+borough: "Manhattan"
+routes: ["C","A"]
+coord: { lat: 40.836013, lon: -73.939892 }
+neighborhood: "Washington Heights"
+zip_code: "10032"
+tags: []
+entrances: []

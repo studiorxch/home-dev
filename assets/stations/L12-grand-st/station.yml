@@ -1,0 +1,9 @@
+station_id: "L12"
+name: "Grand St"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.711926, lon: -73.94067 }
+neighborhood: "East Williamsburg"
+zip_code: "11206"
+tags: []
+entrances: []

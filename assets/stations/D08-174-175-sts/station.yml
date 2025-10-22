@@ -1,0 +1,9 @@
+station_id: "D08"
+name: "174-175 Sts"
+borough: "Bronx"
+routes: ["D","B"]
+coord: { lat: 40.8459, lon: -73.910136 }
+neighborhood: "Tremont"
+zip_code: "10457"
+tags: []
+entrances: []

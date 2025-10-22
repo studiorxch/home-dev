@@ -1,0 +1,9 @@
+station_id: "F11"
+name: "Lexington Av/53 St"
+borough: "Manhattan"
+routes: ["M","E"]
+coord: { lat: 40.757552, lon: -73.969055 }
+neighborhood: "Midtown East"
+zip_code: "10022"
+tags: []
+entrances: []

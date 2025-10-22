@@ -1,0 +1,9 @@
+station_id: "J16"
+name: "85 St-Forest Pkwy"
+borough: "Queens"
+routes: ["Z","J"]
+coord: { lat: 40.692435, lon: -73.86001 }
+neighborhood: "Woodhaven"
+zip_code: "11421"
+tags: []
+entrances: []

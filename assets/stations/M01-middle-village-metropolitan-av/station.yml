@@ -1,0 +1,9 @@
+station_id: "M01"
+name: "Middle Village-Metropolitan Av"
+borough: "Queens"
+routes: ["M"]
+coord: { lat: 40.711396, lon: -73.889601 }
+neighborhood: "Middle Village"
+zip_code: "11379"
+tags: []
+entrances: []

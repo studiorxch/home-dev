@@ -1,0 +1,9 @@
+station_id: "D11"
+name: "161 St-Yankee Stadium"
+borough: "Bronx"
+routes: ["D","B"]
+coord: { lat: 40.827905, lon: -73.925651 }
+neighborhood: "Grand Concourse"
+zip_code: "10452"
+tags: []
+entrances: []

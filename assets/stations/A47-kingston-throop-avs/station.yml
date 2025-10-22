@@ -1,0 +1,9 @@
+station_id: "A47"
+name: "Kingston-Throop Avs"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.679921, lon: -73.940858 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11216"
+tags: []
+entrances: []

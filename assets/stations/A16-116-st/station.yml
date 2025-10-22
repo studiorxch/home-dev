@@ -1,0 +1,9 @@
+station_id: "A16"
+name: "116 St"
+borough: "Manhattan"
+routes: ["C","A","B"]
+coord: { lat: 40.805085, lon: -73.954882 }
+neighborhood: "Harlem"
+zip_code: "10026"
+tags: []
+entrances: []

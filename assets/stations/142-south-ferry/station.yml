@@ -1,0 +1,9 @@
+station_id: "142"
+name: "South Ferry"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.702068, lon: -74.013664 }
+neighborhood: "Financial District"
+zip_code: "10004"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "N09"
+name: "Avenue U"
+borough: "Brooklyn"
+routes: ["N","W"]
+coord: { lat: 40.597473, lon: -73.979137 }
+neighborhood: "Gravesend"
+zip_code: "11223"
+tags: []
+entrances: []

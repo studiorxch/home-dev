@@ -1,0 +1,9 @@
+station_id: "D25"
+name: "7 Av"
+borough: "Brooklyn"
+routes: ["Q","B"]
+coord: { lat: 40.67705, lon: -73.972367 }
+neighborhood: "Park Slope"
+zip_code: "11217"
+tags: []
+entrances: []

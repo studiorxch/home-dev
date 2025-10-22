@@ -1,0 +1,9 @@
+station_id: "222"
+name: "149 St-Grand Concourse"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.81841, lon: -73.926718 }
+neighborhood: "Grand Concourse"
+zip_code: "10451"
+tags: []
+entrances: []

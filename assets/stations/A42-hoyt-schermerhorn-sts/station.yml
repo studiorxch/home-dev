@@ -1,0 +1,9 @@
+station_id: "A42"
+name: "Hoyt-Schermerhorn Sts"
+borough: "Brooklyn"
+routes: ["G","C","A"]
+coord: { lat: 40.688484, lon: -73.985001 }
+neighborhood: "Boerum Hill"
+zip_code: "11217"
+tags: []
+entrances: []

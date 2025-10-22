@@ -1,0 +1,9 @@
+station_id: "A40"
+name: "High St"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.699337, lon: -73.990531 }
+neighborhood: "Downtown Brooklyn"
+zip_code: "11201"
+tags: []
+entrances: []

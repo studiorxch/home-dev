@@ -1,0 +1,34 @@
+<!-- /_layouts/default.html -->
+<!DOCTYPE html>
+<html data-theme="light" lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+<body>
+  {% include sidebar.html %}
+
+  <div class="layout-wrapper">
+    <main class="site-main" role="main">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
+
+  <script type="module" src="/assets/js/magicLink.js"></script>
+
+  <script src="/assets/js/theme-toggle.js?v=3"></script>
+  <script src="/assets/js/user-settings.js?v=3"></script>
+  <script src="/assets/js/subscribe-form.js" defer></script>
+
+
+
+<!-- Map Page Scripts -->
+  {% if jekyll.environment != "production" %}
+<div style="position:fixed;bottom:8px;right:10px;font-size:11px;color:#0f0;background:#111;padding:4px 6px;border-radius:4px;opacity:.7;z-index:9999;">
+  ⚙️ DEV: {{ site.url }}
+</div>
+{% endif %}
+
+<!-- Toast Notification -->
+  <div id="toast" class="toast"></div>
+</body>

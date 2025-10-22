@@ -1,0 +1,9 @@
+station_id: "J29"
+name: "Halsey St"
+borough: "Brooklyn"
+routes: ["J"]
+coord: { lat: 40.68637, lon: -73.916559 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11221"
+tags: []
+entrances: []

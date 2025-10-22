@@ -1,0 +1,9 @@
+station_id: "J27"
+name: "Broadway Junction"
+borough: "Brooklyn"
+routes: ["Z","J"]
+coord: { lat: 40.679498, lon: -73.904512 }
+neighborhood: "Bushwick"
+zip_code: "11207"
+tags: []
+entrances: []

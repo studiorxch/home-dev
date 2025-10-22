@@ -1,0 +1,216 @@
+/* === 404 PAGE STYLES === */
+
+@media (prefers-color-scheme: dark) {
+  .error-layout {
+    background: #0a0a0a;
+    color: #eaeaea;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .glitch::before {
+    text-shadow: -2px 0 #2affff;
+  }
+  .glitch::after {
+    text-shadow: -2px 0 #ff3b3b;
+  }
+}
+
+#error-404,
+.error-layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: var(--color-bg, #0a0a0a);
+  color: var(--color-fg, #fff);
+  text-align: center;
+  padding: 2rem;
+}
+
+.error-container {
+  max-width: 600px;
+}
+
+/* FONT RESTORATION */
+h1,
+p,
+a {
+  font-family: var(--font-display, 'Satoshi', sans-serif);
+}
+
+.error-message {
+  font-family: var(--font-body, 'Inter', sans-serif);
+  font-size: 1rem;
+  opacity: 0.85;
+  margin-top: 1rem;
+  line-height: 1.5;
+}
+
+/* === GLITCH EFFECT === */
+.glitch {
+  position: relative;
+  font-family: var(--font-display, 'Satoshi', sans-serif);
+  font-size: clamp(3rem, 20vw, 8rem);
+  letter-spacing: -0.05em;
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0;
+  line-height: 1;
+}
+
+.glitch::before,
+.glitch::after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+.glitch::before {
+  text-shadow: -2px 0 #00ff88; // mint green
+}
+.glitch::after {
+  text-shadow: -2px 0 #ff006e; // magenta
+}
+
+@keyframes glitch-anim-1 {
+  0% {
+    clip: rect(0, 9999px, 0, 0);
+    transform: translate(0);
+  }
+  10% {
+    clip: rect(10px, 9999px, 40px, 0);
+    transform: translate(-2px, -2px);
+  }
+  20% {
+    clip: rect(20px, 9999px, 60px, 0);
+    transform: translate(2px, 2px);
+  }
+  30% {
+    clip: rect(30px, 9999px, 90px, 0);
+    transform: translate(-2px, 2px);
+  }
+  100% {
+    clip: rect(0, 9999px, 0, 0);
+    transform: translate(0);
+  }
+}
+
+@keyframes glitch-anim-2 {
+  0% {
+    clip: rect(0, 9999px, 0, 0);
+    transform: translate(0);
+  }
+  15% {
+    clip: rect(15px, 9999px, 45px, 0);
+    transform: translate(2px, -1px);
+  }
+  40% {
+    clip: rect(50px, 9999px, 100px, 0);
+    transform: translate(-2px, 2px);
+  }
+  60% {
+    clip: rect(30px, 9999px, 80px, 0);
+    transform: translate(1px, -2px);
+  }
+  100% {
+    clip: rect(0, 9999px, 0, 0);
+    transform: translate(0);
+  }
+}
+
+.glitch-sub {
+  position: relative;
+  margin-top: 0.5rem;
+  font-family: var(--font-body, 'Inter', sans-serif);
+  font-size: clamp(1.2rem, 5vw, 2rem);
+  color: #fff;
+}
+
+.glitch-sub::before,
+.glitch-sub::after {
+  content: attr(data-text);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+
+.glitch-sub::before {
+  left: 1px;
+  text-shadow: -1px 0 #0ff;
+  animation: glitch-sub-anim-1 1.5s infinite linear alternate-reverse;
+}
+.glitch-sub::after {
+  left: -1px;
+  text-shadow: -1px 0 #f0f;
+  animation: glitch-sub-anim-2 2s infinite linear alternate-reverse;
+}
+
+@keyframes glitch-sub-anim-1 {
+  0%,
+  100% {
+    clip: rect(0, 0, 0, 0);
+    transform: translate(0);
+  }
+  20% {
+    clip: rect(5px, 9999px, 15px, 0);
+    transform: translate(-1px, 1px);
+  }
+  40% {
+    clip: rect(20px, 9999px, 35px, 0);
+    transform: translate(1px, -1px);
+  }
+  60% {
+    clip: rect(15px, 9999px, 25px, 0);
+    transform: translate(-1px, -1px);
+  }
+  80% {
+    clip: rect(10px, 9999px, 20px, 0);
+    transform: translate(1px, 0px);
+  }
+}
+@keyframes glitch-sub-anim-2 {
+  0%,
+  100% {
+    clip: rect(0, 0, 0, 0);
+    transform: translate(0);
+  }
+  25% {
+    clip: rect(8px, 9999px, 20px, 0);
+    transform: translate(1px, -1px);
+  }
+  50% {
+    clip: rect(18px, 9999px, 30px, 0);
+    transform: translate(-1px, 1px);
+  }
+  75% {
+    clip: rect(12px, 9999px, 22px, 0);
+    transform: translate(1px, 1px);
+  }
+}
+
+/* === RETURN BUTTON === */
+.btn-return {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.75rem 1.5rem;
+  color: #000;
+  background: #fff;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: none;
+  transition:
+    background 0.2s ease,
+    color 0.2s ease;
+}
+
+.btn-return:hover {
+  background: #ff4654;
+  color: #fff;
+}

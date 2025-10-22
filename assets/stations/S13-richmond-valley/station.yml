@@ -1,0 +1,9 @@
+station_id: "S13"
+name: "Richmond Valley"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.519631, lon: -74.229141 }
+neighborhood: "Richmond Valley"
+zip_code: "10309"
+tags: []
+entrances: []

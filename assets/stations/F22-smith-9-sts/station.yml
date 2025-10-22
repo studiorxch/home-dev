@@ -1,0 +1,9 @@
+station_id: "F22"
+name: "Smith-9 Sts"
+borough: "Brooklyn"
+routes: ["G","F"]
+coord: { lat: 40.67358, lon: -73.995959 }
+neighborhood: "Gowanus"
+zip_code: "11215"
+tags: []
+entrances: []

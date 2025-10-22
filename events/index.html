@@ -1,0 +1,60 @@
+---
+layout: default
+title: 'Events'
+permalink: /events/
+---
+
+{% include hero.html image="/assets/img/events/default.webp" title="Events" %} {% include
+schedule.html %}
+<main class="container-text">
+  <section>
+    <h2>Upcoming</h2>
+    {% assign now = site.time | date: "%s" %} {% assign sorted = site.events | sort: "date" %} {%
+    assign upcoming_count = 0 %}
+    <div class="event-grid">
+      {% for event in sorted %} {% assign ts = event.date | date: "%s" %} {% if ts >= now %} {%
+      assign upcoming_count = upcoming_count | plus: 1 %} {% include event-card.html event=event %}
+      {% endif %} {% endfor %}
+    </div>
+    {% if upcoming_count == 0 %}
+    <p>No upcoming events yet. Check back soon.</p>
+    {% endif %}
+  </section>
+
+  <section style="margin-top: 2rem">
+    <h2>Past</h2>
+    <div class="event-grid">
+      {% assign reversed = sorted | reverse %} {% for event in reversed %} {% assign ts = event.date
+      | date: "%s" %} {% if ts < now %} {% include event-card.html event=event %} {% endif %} {%
+      endfor %}
+    </div>
+  </section>
+</main>
+<style>
+  .event-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.25rem;
+  }
+  .event-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+  .event-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  .event-card__body {
+    margin-top: 0.5rem;
+  }
+  .event-card h3 {
+    margin: 0.15rem 0 0.25rem;
+    font-size: 1.05rem;
+  }
+  .event-card .meta {
+    opacity: 0.7;
+    font-size: 0.9rem;
+  }
+</style>

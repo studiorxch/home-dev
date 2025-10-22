@@ -1,0 +1,9 @@
+station_id: "J15"
+name: "Woodhaven Blvd"
+borough: "Queens"
+routes: ["Z","J"]
+coord: { lat: 40.693879, lon: -73.851576 }
+neighborhood: "Woodhaven"
+zip_code: "11421"
+tags: []
+entrances: []

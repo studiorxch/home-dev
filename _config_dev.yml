@@ -1,0 +1,115 @@
+# --- site basics ---
+title: 'StudioRich DEV'
+email: 'hello@studiorich.shop'
+description: 'StudioRich (Studio Rich) blends lo-fi music, urban visuals, and collectible NFT drops. Discover the upcoming StudioRich Player — a desktop portal for rhythm and story.'
+baseurl: '' # keep empty for root deploy
+url: 'https://dev.studiorich.shop'
+twitter_username: 'studiorxch'
+github_username: 'studiorxch'
+repository: studiorxch/home
+timezone: America/New_York
+future: true # make future-dated content render in dev too
+safe: false
+
+# --- collections ---
+collections:
+  desktop: { output: false }
+  files: { output: false }
+
+  events:
+    output: true
+    permalink: /events/:slug/
+
+  playground:
+    output: true
+    permalink: /playground/:name/
+
+  stations:
+    output: true
+    permalink: /stations/:slug/
+
+  pages:
+    output: true
+    permalink: /:path/
+
+  panels:
+    output: true # panel permalinks come from front matter
+
+  tracks:
+    output: true
+    permalink: /tracks/:name/
+
+# --- sensible defaults (also sets layouts) ---
+defaults:
+  # prevents stations from leaking to search engines until you explicitly whitelist them.
+  - scope: { path: '_stations', type: stations }
+    values:
+      layout: station
+      indexed: false
+      robots: 'noindex,nofollow'
+      sitemap: false
+
+  - scope:
+      path: '_panels'
+    values:
+      layout: default
+      indexed: false
+      robots: 'noindex,nofollow'
+      sitemap: false
+
+  - scope:
+      path: '_events'
+      type: events
+    values:
+      layout: event
+      sitemap: true
+      last_modified_at: 2025-06-12
+
+# --- data & assets ---
+data_dir: data
+sass:
+  sass_dir: _sass
+  style: expanded
+
+include:
+  - assets/data
+  - assets/ui # relative path (no leading slash)
+  - css/main.css
+  - css/main.purged.css
+
+  - _pages
+# --- plugins ---
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  # - jekyll-include-cache   # enable only if you use it
+  # - jekyll-read-file       # enable only if you use its filter
+
+# --- exclude (fixed indentation) ---
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - _site/
+  - events.timeline.json
+  - .history/
+  - '.history'
+  - '.history/*'
+  - README.md
+  - package-lock.json
+  - node_modules
+  - '*--ghost'
+  - '*--bak'
+  - '_archive--bak'
+
+# --- misc ---
+favicon: '/assets/img/logo/favicon.ico'
+google_analytics: 'G-E5KN2YJJKF'
+redirect_from:
+  json: false

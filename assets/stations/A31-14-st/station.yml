@@ -1,0 +1,9 @@
+station_id: "A31"
+name: "14 St"
+borough: "Manhattan"
+routes: ["C","A","E"]
+coord: { lat: 40.740893, lon: -74.00169 }
+neighborhood: "Chelsea"
+zip_code: "10011"
+tags: []
+entrances: []

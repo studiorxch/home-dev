@@ -1,0 +1,9 @@
+station_id: "G08"
+name: "Forest Hills-71 Av"
+borough: "Queens"
+routes: ["R","E","M","FX","F"]
+coord: { lat: 40.721691, lon: -73.844521 }
+neighborhood: "Forest Hills"
+zip_code: "11375"
+tags: []
+entrances: []

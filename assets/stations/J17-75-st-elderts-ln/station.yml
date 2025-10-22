@@ -1,0 +1,9 @@
+station_id: "J17"
+name: "75 St-Elderts Ln"
+borough: "Queens"
+routes: ["Z","J"]
+coord: { lat: 40.691324, lon: -73.867139 }
+neighborhood: "Woodhaven"
+zip_code: "11421"
+tags: []
+entrances: []

@@ -1,0 +1,32 @@
+// _sass/utils/_variables.scss
+// Global color tokens and base theme variables for StudioRich
+
+// Brand Colors
+$color-black: #000;
+$color-white: #fff;
+$color-gray: #777;
+$color-accent: #ff2b2b; // StudioRich red (from logo)
+$color-bg: #0a0a0a;
+
+// Navigation Theme
+$nav-height: 64px;
+$nav-padding: 1rem;
+$nav-bg: $color-black;
+$nav-text: $color-white;
+
+// Spacing Scale (used throughout layout)
+$space-xxs: 0.25rem;
+$space-xs: 0.5rem;
+$space-sm: 0.75rem;
+$space-md: 1rem;
+$space-lg: 1.5rem;
+$space-xl: 2rem;
+$space-xxl: 3rem;
+$space-xxxl: 4rem;
+
+// Typography scale (optional but consistent)
+$font-size-sm: 0.875rem;
+$font-size-md: 1rem;
+$font-size-lg: 1.25rem;
+$font-size-xl: 1.5rem;
+$font-size-xxl: 2rem;

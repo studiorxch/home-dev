@@ -1,0 +1,9 @@
+station_id: "716"
+name: "33 St-Rawson St"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.744587, lon: -73.930997 }
+neighborhood: "Sunnyside"
+zip_code: "11101"
+tags: []
+entrances: []

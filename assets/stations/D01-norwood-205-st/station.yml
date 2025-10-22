@@ -1,0 +1,9 @@
+station_id: "D01"
+name: "Norwood-205 St"
+borough: "Bronx"
+routes: ["D"]
+coord: { lat: 40.874811, lon: -73.878855 }
+neighborhood: "Norwood"
+zip_code: "10467"
+tags: []
+entrances: []

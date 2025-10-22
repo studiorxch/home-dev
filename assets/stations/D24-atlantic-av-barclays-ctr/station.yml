@@ -1,0 +1,9 @@
+station_id: "D24"
+name: "Atlantic Av-Barclays Ctr"
+borough: "Brooklyn"
+routes: ["Q","B"]
+coord: { lat: 40.68446, lon: -73.97689 }
+neighborhood: "Fort Greene"
+zip_code: "11217"
+tags: []
+entrances: []

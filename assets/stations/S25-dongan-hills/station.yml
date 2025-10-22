@@ -1,0 +1,9 @@
+station_id: "S25"
+name: "Dongan Hills"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.588849, lon: -74.09609 }
+neighborhood: "Dongan Hills"
+zip_code: "10305"
+tags: []
+entrances: []

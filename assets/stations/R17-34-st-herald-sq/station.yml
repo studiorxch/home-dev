@@ -1,0 +1,9 @@
+station_id: "R17"
+name: "34 St-Herald Sq"
+borough: "Manhattan"
+routes: ["N","Q","W","R"]
+coord: { lat: 40.749567, lon: -73.98795 }
+neighborhood: "Koreatown"
+zip_code: "10001"
+tags: []
+entrances: []

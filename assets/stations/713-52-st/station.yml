@@ -1,0 +1,9 @@
+station_id: "713"
+name: "52 St"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.744149, lon: -73.912549 }
+neighborhood: "Woodside"
+zip_code: "11377"
+tags: []
+entrances: []

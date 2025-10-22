@@ -1,0 +1,9 @@
+station_id: "135"
+name: "Canal St"
+borough: "Manhattan"
+routes: ["2","1"]
+coord: { lat: 40.722854, lon: -74.006277 }
+neighborhood: "Hudson Square"
+zip_code: "10013"
+tags: []
+entrances: []

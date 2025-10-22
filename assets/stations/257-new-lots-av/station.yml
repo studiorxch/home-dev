@@ -1,0 +1,9 @@
+station_id: "257"
+name: "New Lots Av"
+borough: "Brooklyn"
+routes: ["2","4","3","5"]
+coord: { lat: 40.666235, lon: -73.884079 }
+neighborhood: "East New York"
+zip_code: "11207"
+tags: []
+entrances: []

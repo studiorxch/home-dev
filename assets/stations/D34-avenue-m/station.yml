@@ -1,0 +1,9 @@
+station_id: "D34"
+name: "Avenue M"
+borough: "Brooklyn"
+routes: ["Q","B"]
+coord: { lat: 40.617618, lon: -73.959399 }
+neighborhood: "Midwood"
+zip_code: "11230"
+tags: []
+entrances: []

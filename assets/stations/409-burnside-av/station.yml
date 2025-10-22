@@ -1,0 +1,9 @@
+station_id: "409"
+name: "Burnside Av"
+borough: "Bronx"
+routes: ["4"]
+coord: { lat: 40.853453, lon: -73.907684 }
+neighborhood: "Morris Heights"
+zip_code: "10453"
+tags: []
+entrances: []

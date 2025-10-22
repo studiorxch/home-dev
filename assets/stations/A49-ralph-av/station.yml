@@ -1,0 +1,9 @@
+station_id: "A49"
+name: "Ralph Av"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.678822, lon: -73.920786 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11233"
+tags: []
+entrances: []

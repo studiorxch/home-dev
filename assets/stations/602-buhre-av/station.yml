@@ -1,0 +1,9 @@
+station_id: "602"
+name: "Buhre Av"
+borough: "Bronx"
+routes: ["6","6X"]
+coord: { lat: 40.84681, lon: -73.832569 }
+neighborhood: "Pelham Bay"
+zip_code: "10461"
+tags: []
+entrances: []

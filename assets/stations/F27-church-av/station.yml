@@ -1,0 +1,9 @@
+station_id: "F27"
+name: "Church Av"
+borough: "Brooklyn"
+routes: ["G","F","FX"]
+coord: { lat: 40.644041, lon: -73.979678 }
+neighborhood: "Kensington"
+zip_code: "11218"
+tags: []
+entrances: []

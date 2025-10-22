@@ -1,0 +1,9 @@
+station_id: "B14"
+name: "50 St"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.63626, lon: -73.994791 }
+neighborhood: "Borough Park"
+zip_code: "11219"
+tags: []
+entrances: []

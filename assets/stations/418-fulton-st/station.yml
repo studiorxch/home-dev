@@ -1,0 +1,9 @@
+station_id: "418"
+name: "Fulton St"
+borough: "Manhattan"
+routes: ["4","5"]
+coord: { lat: 40.710368, lon: -74.009509 }
+neighborhood: "Financial District"
+zip_code: "10007"
+tags: []
+entrances: []

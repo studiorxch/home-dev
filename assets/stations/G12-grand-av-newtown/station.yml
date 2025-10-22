@@ -1,0 +1,9 @@
+station_id: "G12"
+name: "Grand Av-Newtown"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.737015, lon: -73.877223 }
+neighborhood: "Elmhurst"
+zip_code: "11373"
+tags: []
+entrances: []

@@ -1,0 +1,169 @@
+// _sass/modules/_map.scss
+// ============================================================================
+// Homepage Map + Station Layout (Clean Stable Build)
+// ============================================================================
+
+.map-hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4rem 0 2rem;
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+}
+
+// ----------------------------------------------------------------------------
+// Container (stable layer for alignment, no clipping here)
+// ----------------------------------------------------------------------------
+
+.map-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-sizing: border-box;
+
+  /* 👇 ensure it respects sidebar like main content */
+  padding-left: var(--sidebar-width, 80px);
+  padding-right: var(--page-margin, 40px);
+
+  .map-mask {
+    overflow: hidden;
+    width: 100%;
+    max-width: 800px;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .map-visual {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+  }
+}
+
+// ----------------------------------------------------------------------------
+// Circular Mask + SVG Background
+// ----------------------------------------------------------------------------
+.map-mask {
+  width: 480px;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  overflow: clip; /* modern replacement for hidden */
+  background: var(--color-surface);
+  border: 1.5px solid var(--color-border);
+  box-shadow:
+    0 0 40px rgba(0, 0, 0, 0.25),
+    inset 0 0 25px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.3s ease;
+  flex: none;
+}
+
+.map-mask:hover {
+  transform: scale(1.02);
+}
+
+// ----------------------------------------------------------------------------
+// SVG as Background (non-interactive rendering)
+// ----------------------------------------------------------------------------
+.map-svg {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: url('/assets/img/map-base.svg') center/contain no-repeat;
+  filter: brightness(0.2) contrast(1.3);
+  transition: filter 0.3s ease;
+}
+
+// ----------------------------------------------------------------------------
+// Debug mode — visual boundaries & guides
+// ----------------------------------------------------------------------------
+.map-container.map-debug {
+  background: repeating-linear-gradient(
+    45deg,
+    rgba(255, 0, 0, 0.05) 0,
+    rgba(255, 0, 0, 0.05) 10px,
+    transparent 10px,
+    transparent 20px
+  );
+}
+
+.map-container.map-debug .map-mask {
+  border: 2px dashed rgba(0, 255, 0, 0.6);
+  box-shadow:
+    0 0 0 2px rgba(0, 255, 0, 0.3),
+    0 0 40px rgba(0, 255, 0, 0.2);
+}
+
+.map-container.map-debug .map-svg {
+  outline: 1px solid rgba(255, 0, 0, 0.5);
+}
+
+// ----------------------------------------------------------------------------
+// Station List Layout
+// ----------------------------------------------------------------------------
+.station-list {
+  padding: 3rem 2rem;
+  background: var(--color-bg);
+}
+
+.station-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  text-align: left;
+}
+
+.station-col h3 {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--color-fg);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.5rem;
+}
+
+.station-col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.station-col li {
+  margin: 0.5rem 0;
+}
+
+.station-col a {
+  color: var(--color-fg);
+  opacity: 0.85;
+  text-decoration: none;
+  transition:
+    opacity 0.2s ease,
+    color 0.2s ease;
+}
+
+.station-col a:hover {
+  opacity: 1;
+  color: var(--color-accent);
+}
+
+// ----------------------------------------------------------------------------
+// Responsive adjustments
+// ----------------------------------------------------------------------------
+@media (max-width: 768px) {
+  .map-mask {
+    width: 320px;
+  }
+
+  .station-grid {
+    text-align: center;
+  }
+}

@@ -1,0 +1,9 @@
+station_id: "G26"
+name: "Greenpoint Av"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.731352, lon: -73.954449 }
+neighborhood: "Greenpoint"
+zip_code: "11222"
+tags: []
+entrances: []

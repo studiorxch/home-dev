@@ -1,0 +1,9 @@
+station_id: "G32"
+name: "Myrtle-Willoughby Avs"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.694568, lon: -73.949046 }
+neighborhood: "Bedford"
+zip_code: "11206"
+tags: []
+entrances: []

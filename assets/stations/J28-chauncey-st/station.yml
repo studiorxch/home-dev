@@ -1,0 +1,9 @@
+station_id: "J28"
+name: "Chauncey St"
+borough: "Brooklyn"
+routes: ["Z","J"]
+coord: { lat: 40.682893, lon: -73.910456 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11207"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "L28"
+name: "East 105 St"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.650573, lon: -73.899485 }
+neighborhood: "Canarsie"
+zip_code: "11236"
+tags: []
+entrances: []

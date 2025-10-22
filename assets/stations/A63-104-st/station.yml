@@ -1,0 +1,9 @@
+station_id: "A63"
+name: "104 St"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.681711, lon: -73.837683 }
+neighborhood: "Ozone Park"
+zip_code: "11417"
+tags: []
+entrances: []

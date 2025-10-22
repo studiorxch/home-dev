@@ -1,0 +1,9 @@
+station_id: "H08"
+name: "Beach 44 St"
+borough: "Queens"
+routes: ["A"]
+coord: { lat: 40.592943, lon: -73.776013 }
+neighborhood: "Edgemere"
+zip_code: "11691"
+tags: []
+entrances: []

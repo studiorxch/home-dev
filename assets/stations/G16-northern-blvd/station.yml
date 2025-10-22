@@ -1,0 +1,9 @@
+station_id: "G16"
+name: "Northern Blvd"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.752885, lon: -73.906006 }
+neighborhood: "Woodside"
+zip_code: "11377"
+tags: []
+entrances: []

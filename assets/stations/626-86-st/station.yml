@@ -1,0 +1,9 @@
+station_id: "626"
+name: "86 St"
+borough: "Manhattan"
+routes: ["6X","4","6","5"]
+coord: { lat: 40.779492, lon: -73.955589 }
+neighborhood: "Upper East Side"
+zip_code: "10028"
+tags: []
+entrances: []

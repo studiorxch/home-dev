@@ -1,0 +1,9 @@
+station_id: "245"
+name: "Beverly Rd"
+borough: "Brooklyn"
+routes: ["2","5"]
+coord: { lat: 40.645098, lon: -73.948959 }
+neighborhood: "Flatbush"
+zip_code: "11226"
+tags: []
+entrances: []

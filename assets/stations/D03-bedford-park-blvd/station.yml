@@ -1,0 +1,9 @@
+station_id: "D03"
+name: "Bedford Park Blvd"
+borough: "Bronx"
+routes: ["D","B"]
+coord: { lat: 40.873244, lon: -73.887138 }
+neighborhood: "Bedford Park"
+zip_code: "10458"
+tags: []
+entrances: []

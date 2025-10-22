@@ -1,0 +1,9 @@
+station_id: "103"
+name: "238 St"
+borough: "Bronx"
+routes: ["1"]
+coord: { lat: 40.884667, lon: -73.90087 }
+neighborhood: "Kingsbridge"
+zip_code: "10463"
+tags: []
+entrances: []

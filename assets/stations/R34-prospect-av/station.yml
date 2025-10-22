@@ -1,0 +1,9 @@
+station_id: "R34"
+name: "Prospect Av"
+borough: "Brooklyn"
+routes: ["D","N","W","R"]
+coord: { lat: 40.665414, lon: -73.992872 }
+neighborhood: "South Slope"
+zip_code: "11215"
+tags: []
+entrances: []

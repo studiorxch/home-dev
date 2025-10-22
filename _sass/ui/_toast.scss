@@ -1,0 +1,27 @@
+// ============================================================================
+// StudioRich Toast Notification (v1.0)
+// ============================================================================
+.toast {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(30, 30, 30, 0.9);
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 9999;
+  transition:
+    opacity 0.3s ease,
+    transform 0.3s ease;
+  transform: translate(-50%, 10px);
+
+  &.show {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+}

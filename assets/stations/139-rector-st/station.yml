@@ -1,0 +1,9 @@
+station_id: "139"
+name: "Rector St"
+borough: "Manhattan"
+routes: ["1"]
+coord: { lat: 40.707513, lon: -74.013783 }
+neighborhood: "Financial District"
+zip_code: "10006"
+tags: []
+entrances: []

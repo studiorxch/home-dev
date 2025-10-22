@@ -1,0 +1,9 @@
+station_id: "F30"
+name: "18 Av"
+borough: "Brooklyn"
+routes: ["F","FX"]
+coord: { lat: 40.629755, lon: -73.976971 }
+neighborhood: "Kensington"
+zip_code: "11230"
+tags: []
+entrances: []

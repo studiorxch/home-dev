@@ -1,0 +1,19 @@
+---
+layout: default
+title: 'Tag: lo-fi'
+permalink: /tag/lofi/
+---
+
+{% include hero.html image="/assets/img/blog/default.webp" title="Blog" %}
+<div class="container-text">
+  <h1>#lo-fi</h1>
+
+  <ul>
+    {% for post in site.posts %} {% if post.tags contains "lofi" %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span> – {{ post.date | date: "%B %d, %Y" }}</span>
+    </li>
+    {% endif %} {% endfor %}
+  </ul>
+</div>

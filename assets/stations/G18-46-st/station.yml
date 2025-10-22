@@ -1,0 +1,9 @@
+station_id: "G18"
+name: "46 St"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.756312, lon: -73.913333 }
+neighborhood: "Astoria"
+zip_code: "11103"
+tags: []
+entrances: []

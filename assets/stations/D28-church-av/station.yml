@@ -1,0 +1,9 @@
+station_id: "D28"
+name: "Church Av"
+borough: "Brooklyn"
+routes: ["Q","B"]
+coord: { lat: 40.650527, lon: -73.962982 }
+neighborhood: "Prospect Park South"
+zip_code: "11226"
+tags: []
+entrances: []

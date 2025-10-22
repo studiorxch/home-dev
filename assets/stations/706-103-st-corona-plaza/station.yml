@@ -1,0 +1,9 @@
+station_id: "706"
+name: "103 St-Corona Plaza"
+borough: "Queens"
+routes: ["7"]
+coord: { lat: 40.749865, lon: -73.8627 }
+neighborhood: "Corona"
+zip_code: "11368"
+tags: []
+entrances: []

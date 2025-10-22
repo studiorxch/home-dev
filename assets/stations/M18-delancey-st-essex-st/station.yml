@@ -1,0 +1,9 @@
+station_id: "M18"
+name: "Delancey St-Essex St"
+borough: "Manhattan"
+routes: ["Z","J","M"]
+coord: { lat: 40.718315, lon: -73.987437 }
+neighborhood: "Lower East Side"
+zip_code: "10002"
+tags: []
+entrances: []

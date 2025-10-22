@@ -1,0 +1,9 @@
+station_id: "L06"
+name: "1 Av"
+borough: "Manhattan"
+routes: ["L"]
+coord: { lat: 40.730953, lon: -73.981628 }
+neighborhood: "Alphabet City"
+zip_code: "10009"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "G20"
+name: "36 St"
+borough: "Queens"
+routes: ["R","F","M","E"]
+coord: { lat: 40.752039, lon: -73.928781 }
+neighborhood: "Astoria"
+zip_code: "11101"
+tags: []
+entrances: []

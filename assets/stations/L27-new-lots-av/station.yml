@@ -1,0 +1,9 @@
+station_id: "L27"
+name: "New Lots Av"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.658733, lon: -73.899232 }
+neighborhood: "East New York"
+zip_code: "11207"
+tags: []
+entrances: []

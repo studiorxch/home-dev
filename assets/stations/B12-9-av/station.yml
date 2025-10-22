@@ -1,0 +1,9 @@
+station_id: "B12"
+name: "9 Av"
+borough: "Brooklyn"
+routes: ["D"]
+coord: { lat: 40.646292, lon: -73.994324 }
+neighborhood: "Sunset Park"
+zip_code: "11219"
+tags: []
+entrances: []

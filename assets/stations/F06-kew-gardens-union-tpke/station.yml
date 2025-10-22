@@ -1,0 +1,9 @@
+station_id: "F06"
+name: "Kew Gardens-Union Tpke"
+borough: "Queens"
+routes: ["F","FX","E"]
+coord: { lat: 40.714441, lon: -73.831008 }
+neighborhood: "Forest Hills"
+zip_code: "11375"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "721"
+name: "Vernon Blvd-Jackson Av"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.742626, lon: -73.953581 }
+neighborhood: "Hunters Point"
+zip_code: "11101"
+tags: []
+entrances: []

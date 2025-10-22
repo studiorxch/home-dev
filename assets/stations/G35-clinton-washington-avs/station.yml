@@ -1,0 +1,9 @@
+station_id: "G35"
+name: "Clinton-Washington Avs"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.688089, lon: -73.966839 }
+neighborhood: "Clinton Hill"
+zip_code: ""
+tags: []
+entrances: []

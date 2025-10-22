@@ -1,0 +1,9 @@
+station_id: "Q03"
+name: "72 St"
+borough: "Manhattan"
+routes: ["N","Q","R"]
+coord: { lat: 40.768799, lon: -73.958424 }
+neighborhood: "Lenox Hill"
+zip_code: "10021"
+tags: []
+entrances: []

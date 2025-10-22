@@ -1,0 +1,9 @@
+station_id: "Q05"
+name: "96 St"
+borough: "Manhattan"
+routes: ["N","Q","R"]
+coord: { lat: 40.784318, lon: -73.947152 }
+neighborhood: "East Harlem"
+zip_code: "10029"
+tags: []
+entrances: []

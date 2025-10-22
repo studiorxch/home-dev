@@ -1,0 +1,9 @@
+station_id: "J30"
+name: "Gates Av"
+borough: "Brooklyn"
+routes: ["Z","J"]
+coord: { lat: 40.68963, lon: -73.92227 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11221"
+tags: []
+entrances: []

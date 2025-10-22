@@ -1,0 +1,31 @@
+// ============================================================================
+// STYLEGUIDE COLORS
+// ============================================================================
+.styleguide--colors {
+  .color-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 1rem;
+  }
+
+  .color-swatch {
+    text-align: center;
+    .swatch {
+      width: 100%;
+      aspect-ratio: 1/1;
+      border-radius: 0.5rem;
+      box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.1);
+    }
+    .label {
+      display: block;
+      margin-top: 0.5rem;
+      font-weight: 600;
+      color: var(--color-text-muted);
+    }
+    code {
+      display: block;
+      font-size: 0.8em;
+      color: var(--color-text-subtle);
+    }
+  }
+}

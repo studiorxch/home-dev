@@ -1,0 +1,9 @@
+station_id: "A44"
+name: "Clinton-Washington Avs"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.683263, lon: -73.965838 }
+neighborhood: "Clinton Hill"
+zip_code: "11238"
+tags: []
+entrances: []

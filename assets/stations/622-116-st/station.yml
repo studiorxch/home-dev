@@ -1,0 +1,9 @@
+station_id: "622"
+name: "116 St"
+borough: "Manhattan"
+routes: ["4","6","6X"]
+coord: { lat: 40.798629, lon: -73.941617 }
+neighborhood: "East Harlem"
+zip_code: "10029"
+tags: []
+entrances: []

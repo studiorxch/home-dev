@@ -1,0 +1,9 @@
+station_id: "A30"
+name: "23 St"
+borough: "Manhattan"
+routes: ["C","A","E"]
+coord: { lat: 40.745906, lon: -73.998041 }
+neighborhood: "Chelsea"
+zip_code: "10011"
+tags: []
+entrances: []

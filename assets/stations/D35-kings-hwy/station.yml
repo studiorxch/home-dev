@@ -1,0 +1,9 @@
+station_id: "D35"
+name: "Kings Hwy"
+borough: "Brooklyn"
+routes: ["Q","B"]
+coord: { lat: 40.60867, lon: -73.957734 }
+neighborhood: "Homecrest"
+zip_code: "11229"
+tags: []
+entrances: []

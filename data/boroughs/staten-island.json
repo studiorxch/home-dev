@@ -1,0 +1,275 @@
+[
+  {
+    "station_id": "S09",
+    "slug": "tottenville",
+    "name": "Tottenville",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.512764,
+    "lon": -74.251961,
+    "neighborhood": "Tottenville",
+    "zip_code": "10307"
+  },
+  {
+    "station_id": "S11",
+    "slug": "arthur-kill",
+    "name": "Arthur Kill",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.516578,
+    "lon": -74.242096,
+    "neighborhood": "Tottenville",
+    "zip_code": "10307"
+  },
+  {
+    "station_id": "S13",
+    "slug": "richmond-valley",
+    "name": "Richmond Valley",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.519631,
+    "lon": -74.229141,
+    "neighborhood": "Richmond Valley",
+    "zip_code": "10309"
+  },
+  {
+    "station_id": "S14",
+    "slug": "pleasant-plains",
+    "name": "Pleasant Plains",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.52241,
+    "lon": -74.217847,
+    "neighborhood": "Pleasant Plains",
+    "zip_code": "10309"
+  },
+  {
+    "station_id": "S15",
+    "slug": "prince-s-bay",
+    "name": "Prince's Bay",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.525507,
+    "lon": -74.200064,
+    "neighborhood": "Prince's Bay",
+    "zip_code": "10309"
+  },
+  {
+    "station_id": "S16",
+    "slug": "huguenot",
+    "name": "Huguenot",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.533674,
+    "lon": -74.191794,
+    "neighborhood": "Huguenot",
+    "zip_code": "10312"
+  },
+  {
+    "station_id": "S17",
+    "slug": "annadale",
+    "name": "Annadale",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.54046,
+    "lon": -74.178217,
+    "neighborhood": "Annadale",
+    "zip_code": "10312"
+  },
+  {
+    "station_id": "S18",
+    "slug": "eltingville",
+    "name": "Eltingville",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.544601,
+    "lon": -74.16457,
+    "neighborhood": "Eltingville",
+    "zip_code": "10312"
+  },
+  {
+    "station_id": "S19",
+    "slug": "great-kills",
+    "name": "Great Kills",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.551231,
+    "lon": -74.151399,
+    "neighborhood": "Eltingville",
+    "zip_code": "10308"
+  },
+  {
+    "station_id": "S20",
+    "slug": "bay-terrace",
+    "name": "Bay Terrace",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.5564,
+    "lon": -74.136907,
+    "neighborhood": "Bay Terrace",
+    "zip_code": "10306"
+  },
+  {
+    "station_id": "S21",
+    "slug": "oakwood-heights",
+    "name": "Oakwood Heights",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.56511,
+    "lon": -74.12632,
+    "neighborhood": "Richmondtown",
+    "zip_code": "10306"
+  },
+  {
+    "station_id": "S22",
+    "slug": "new-dorp",
+    "name": "New Dorp",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.57348,
+    "lon": -74.11721,
+    "neighborhood": "New Dorp",
+    "zip_code": "10306"
+  },
+  {
+    "station_id": "S23",
+    "slug": "grant-city",
+    "name": "Grant City",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.578965,
+    "lon": -74.109704,
+    "neighborhood": "New Dorp",
+    "zip_code": "10306"
+  },
+  {
+    "station_id": "S24",
+    "slug": "jefferson-av",
+    "name": "Jefferson Av",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.583591,
+    "lon": -74.103338,
+    "neighborhood": "Grant City",
+    "zip_code": "10306"
+  },
+  {
+    "station_id": "S25",
+    "slug": "dongan-hills",
+    "name": "Dongan Hills",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.588849,
+    "lon": -74.09609,
+    "neighborhood": "Dongan Hills",
+    "zip_code": "10305"
+  },
+  {
+    "station_id": "S26",
+    "slug": "old-town",
+    "name": "Old Town",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.596612,
+    "lon": -74.087368,
+    "neighborhood": "Old Town",
+    "zip_code": "10304"
+  },
+  {
+    "station_id": "S27",
+    "slug": "grasmere",
+    "name": "Grasmere",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.603117,
+    "lon": -74.084087,
+    "neighborhood": "Grasmere",
+    "zip_code": "10304"
+  },
+  {
+    "station_id": "S28",
+    "slug": "clifton",
+    "name": "Clifton",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.621319,
+    "lon": -74.071402,
+    "neighborhood": "Clifton",
+    "zip_code": "10304"
+  },
+  {
+    "station_id": "S29",
+    "slug": "stapleton",
+    "name": "Stapleton",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.627915,
+    "lon": -74.075162,
+    "neighborhood": "Stapleton",
+    "zip_code": "10304"
+  },
+  {
+    "station_id": "S30",
+    "slug": "tompkinsville",
+    "name": "Tompkinsville",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.636949,
+    "lon": -74.074835,
+    "neighborhood": "Tompkinsville",
+    "zip_code": "10301"
+  },
+  {
+    "station_id": "S31",
+    "slug": "st-george",
+    "name": "St George",
+    "borough": "Staten Island",
+    "routes": [
+      "SI"
+    ],
+    "lat": 40.643748,
+    "lon": -74.073643,
+    "neighborhood": "St. George",
+    "zip_code": "10301"
+  }
+]

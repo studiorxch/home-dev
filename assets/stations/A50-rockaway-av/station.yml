@@ -1,0 +1,9 @@
+station_id: "A50"
+name: "Rockaway Av"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.67834, lon: -73.911946 }
+neighborhood: "Stuyvesant Heights"
+zip_code: "11233"
+tags: []
+entrances: []

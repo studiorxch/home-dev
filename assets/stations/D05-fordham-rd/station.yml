@@ -1,0 +1,9 @@
+station_id: "D05"
+name: "Fordham Rd"
+borough: "Bronx"
+routes: ["D","B"]
+coord: { lat: 40.861296, lon: -73.897749 }
+neighborhood: "Fordham"
+zip_code: "10458"
+tags: []
+entrances: []

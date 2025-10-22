@@ -1,0 +1,9 @@
+station_id: "G34"
+name: "Classon Av"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.688873, lon: -73.96007 }
+neighborhood: "Clinton Hill"
+zip_code: "11205"
+tags: []
+entrances: []

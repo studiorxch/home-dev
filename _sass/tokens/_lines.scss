@@ -1,0 +1,67 @@
+/*! ============================================================================
+ *  _sass/tokens/_lines.scss
+ *  StudioRich Token Map: Subway Line Colors
+ *  Defines official StudioRich line palette inspired by NYC subway lines.
+ *  ============================================================================ */
+
+@use 'sass:map';
+@use 'tokens/theme' as *;
+
+// StudioRich Subway Line Palette (extended)
+$line-tones: (
+  'carmine': #8b2e2e,
+  'amber-ochre': #d98e04,
+  'gold': #c9a635,
+  'sage': #4f7942,
+  'indigo': #2e3a87,
+  'plum': #5a2a6d,
+  'bronze': #4b3621,
+  'mint': #93c572,
+  'patina': #43b3ae,
+  'steel': #5a5a5a,
+  'gray-express': #808080,
+  'shuttle': #999999,
+);
+
+$line-colors: (
+  '1': map.get($line-tones, 'carmine'),
+  '2': map.get($line-tones, 'carmine'),
+  '3': map.get($line-tones, 'carmine'),
+  '4': map.get($line-tones, 'sage'),
+  '5': map.get($line-tones, 'sage'),
+  '5x': map.get($line-tones, 'sage'),
+  '6': map.get($line-tones, 'sage'),
+  '6x': map.get($line-tones, 'sage'),
+  '7': map.get($line-tones, 'plum'),
+  '7x': map.get($line-tones, 'plum'),
+  'a': map.get($line-tones, 'indigo'),
+  'c': map.get($line-tones, 'indigo'),
+  'e': map.get($line-tones, 'indigo'),
+  'b': map.get($line-tones, 'amber-ochre'),
+  'd': map.get($line-tones, 'amber-ochre'),
+  'f': map.get($line-tones, 'amber-ochre'),
+  'fx': map.get($line-tones, 'amber-ochre'),
+  'm': map.get($line-tones, 'amber-ochre'),
+  'n': map.get($line-tones, 'gold'),
+  'q': map.get($line-tones, 'gold'),
+  'r': map.get($line-tones, 'gold'),
+  'w': map.get($line-tones, 'gold'),
+  'j': map.get($line-tones, 'bronze'),
+  'z': map.get($line-tones, 'bronze'),
+  'g': map.get($line-tones, 'mint'),
+  'l': map.get($line-tones, 'patina'),
+  's': map.get($line-tones, 'shuttle'),
+  'sir': map.get($line-tones, 'steel'),
+);
+/* keep this synced */
+:root {
+  --color-map-bg: var(--color-bg); // ← now matches sidebar exactly
+}
+
+[data-theme='light'] {
+  --color-map-bg: var(--color-bg-light);
+}
+
+[data-theme='dark'] {
+  --color-map-bg: var(--color-bg-dark);
+}

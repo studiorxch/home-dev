@@ -1,0 +1,9 @@
+station_id: "124"
+name: "66 St-Lincoln Center"
+borough: "Manhattan"
+routes: ["2","1"]
+coord: { lat: 40.77344, lon: -73.982209 }
+neighborhood: "Lincoln Square"
+zip_code: "10023"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "F04"
+name: "Sutphin Blvd"
+borough: "Queens"
+routes: ["F","FX","E"]
+coord: { lat: 40.70546, lon: -73.810708 }
+neighborhood: "Jamaica"
+zip_code: "11435"
+tags: []
+entrances: []

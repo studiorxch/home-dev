@@ -1,0 +1,9 @@
+station_id: "A28"
+name: "34 St-Penn Station"
+borough: "Manhattan"
+routes: ["C","A","E"]
+coord: { lat: 40.752287, lon: -73.993391 }
+neighborhood: "Garment District"
+zip_code: "10001"
+tags: []
+entrances: []

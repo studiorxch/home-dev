@@ -1,0 +1,9 @@
+station_id: "503"
+name: "Gun Hill Rd"
+borough: "Bronx"
+routes: ["5"]
+coord: { lat: 40.869526, lon: -73.846384 }
+neighborhood: "Laconia"
+zip_code: "10469"
+tags: []
+entrances: []

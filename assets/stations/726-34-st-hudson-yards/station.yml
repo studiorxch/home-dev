@@ -1,0 +1,9 @@
+station_id: "726"
+name: "34 St-Hudson Yards"
+borough: "Manhattan"
+routes: ["7","7X"]
+coord: { lat: 40.755882, lon: -74.00191 }
+neighborhood: "Hell's Kitchen"
+zip_code: "10001"
+tags: []
+entrances: []

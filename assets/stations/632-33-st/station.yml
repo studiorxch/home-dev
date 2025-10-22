@@ -1,0 +1,9 @@
+station_id: "632"
+name: "33 St"
+borough: "Manhattan"
+routes: ["4","6","6X"]
+coord: { lat: 40.746081, lon: -73.982076 }
+neighborhood: "Koreatown"
+zip_code: "10016"
+tags: []
+entrances: []

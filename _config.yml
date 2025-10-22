@@ -1,0 +1,127 @@
+# ==========================================================
+# StudioRich — Production Config (studiorich.shop)
+# ==========================================================
+
+title: 'StudioRich'
+email: 'hello@studiorich.shop'
+description: 'StudioRich blends lo-fi music, urban visuals, and collectible NFT drops. Discover the upcoming StudioRich Player — a desktop portal for rhythm and story.'
+baseurl: ''
+url: 'https://studiorich.shop'
+environment: 'production'
+twitter_username: 'studiorxch'
+github_username: 'studiorxch'
+repository: 'studiorxch/home'
+timezone: 'America/New_York'
+future: true
+safe: false
+
+# ==========================================================
+# Collections
+# ==========================================================
+collections:
+  desktop: { output: false }
+  files: { output: false }
+
+  events:
+    output: true
+    permalink: /events/:slug/
+
+  playground:
+    output: true
+    permalink: /playground/:name/
+
+  stations:
+    output: true
+    permalink: /stations/:slug/
+
+  panels:
+    output: true
+
+  tracks:
+    output: true
+    permalink: /tracks/:name/
+
+  shop:
+    output: true
+    permalink: /shop/:title/
+
+  redirects:
+    output: true
+
+# ==========================================================
+# Defaults
+# ==========================================================
+defaults:
+  # Prevent unfinished stations from being indexed
+  - scope: { path: '_stations', type: stations }
+    values:
+      layout: station
+      indexed: false
+      robots: 'noindex,nofollow'
+      sitemap: false
+
+  - scope: { path: '_panels' }
+    values:
+      layout: default
+      indexed: false
+      robots: 'noindex,nofollow'
+      sitemap: false
+
+  - scope: { path: '_events', type: events }
+    values:
+      layout: event
+      sitemap: true
+      last_modified_at: 2025-06-12
+
+# ==========================================================
+# Data / Assets / Build
+# ==========================================================
+data_dir: data
+
+sass:
+  sass_dir: _sass
+
+include:
+  - assets/data
+  - assets/ui
+  - css/main.css
+  - css/main.purged.css
+  - _pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+# ==========================================================
+# Exclusions
+# ==========================================================
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - _site/
+  - events.timeline.json
+  - .history/
+  - '.history'
+  - '.history/*'
+  - README.md
+  - package-lock.json
+  - node_modules
+  - '*--ghost'
+  - '*--bak'
+  - '_archive--bak'
+
+# ==========================================================
+# Meta / Branding
+# ==========================================================
+favicon: '/assets/img/logo/favicon.ico'
+google_analytics: 'G-E5KN2YJJKF'
+
+redirect_from:
+  json: false

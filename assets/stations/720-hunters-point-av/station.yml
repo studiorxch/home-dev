@@ -1,0 +1,9 @@
+station_id: "720"
+name: "Hunters Point Av"
+borough: "Queens"
+routes: ["7","7X"]
+coord: { lat: 40.742216, lon: -73.948916 }
+neighborhood: "Hunters Point"
+zip_code: "11101"
+tags: []
+entrances: []

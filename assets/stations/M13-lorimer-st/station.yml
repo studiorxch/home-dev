@@ -1,0 +1,9 @@
+station_id: "M13"
+name: "Lorimer St"
+borough: "Brooklyn"
+routes: ["Z","J","M"]
+coord: { lat: 40.703869, lon: -73.947408 }
+neighborhood: "East Williamsburg"
+zip_code: "11206"
+tags: []
+entrances: []

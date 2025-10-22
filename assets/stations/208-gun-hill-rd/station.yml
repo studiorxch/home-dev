@@ -1,0 +1,9 @@
+station_id: "208"
+name: "Gun Hill Rd"
+borough: "Bronx"
+routes: ["2","5"]
+coord: { lat: 40.87785, lon: -73.866256 }
+neighborhood: "Williamsbridge"
+zip_code: "10467"
+tags: []
+entrances: []

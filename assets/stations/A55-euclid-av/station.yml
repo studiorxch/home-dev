@@ -1,0 +1,9 @@
+station_id: "A55"
+name: "Euclid Av"
+borough: "Brooklyn"
+routes: ["C","A"]
+coord: { lat: 40.675377, lon: -73.872106 }
+neighborhood: "City Line"
+zip_code: "11208"
+tags: []
+entrances: []

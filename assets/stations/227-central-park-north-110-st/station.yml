@@ -1,0 +1,9 @@
+station_id: "227"
+name: "Central Park North (110 St)"
+borough: "Manhattan"
+routes: ["2","3"]
+coord: { lat: 40.799075, lon: -73.951822 }
+neighborhood: "Harlem"
+zip_code: "10026"
+tags: []
+entrances: []

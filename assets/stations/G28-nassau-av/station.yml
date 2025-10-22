@@ -1,0 +1,9 @@
+station_id: "G28"
+name: "Nassau Av"
+borough: "Brooklyn"
+routes: ["G"]
+coord: { lat: 40.724635, lon: -73.951277 }
+neighborhood: "Greenpoint"
+zip_code: "11222"
+tags: []
+entrances: []

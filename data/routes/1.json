@@ -1,0 +1,520 @@
+[
+  {
+    "station_id": "101",
+    "slug": "van-cortlandt-park-242-st",
+    "name": "Van Cortlandt Park-242 St",
+    "borough": "Bronx",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.889248,
+    "lon": -73.898583,
+    "neighborhood": "Fieldston",
+    "zip_code": "10463"
+  },
+  {
+    "station_id": "103",
+    "slug": "238-st",
+    "name": "238 St",
+    "borough": "Bronx",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.884667,
+    "lon": -73.90087,
+    "neighborhood": "Kingsbridge",
+    "zip_code": "10463"
+  },
+  {
+    "station_id": "104",
+    "slug": "231-st",
+    "name": "231 St",
+    "borough": "Bronx",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.878856,
+    "lon": -73.904834,
+    "neighborhood": "Kingsbridge",
+    "zip_code": "10463"
+  },
+  {
+    "station_id": "106",
+    "slug": "marble-hill-225-st",
+    "name": "Marble Hill-225 St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.874561,
+    "lon": -73.909831,
+    "neighborhood": "Marble Hill",
+    "zip_code": "10463"
+  },
+  {
+    "station_id": "107",
+    "slug": "215-st",
+    "name": "215 St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.869444,
+    "lon": -73.915279,
+    "neighborhood": "Inwood",
+    "zip_code": "10034"
+  },
+  {
+    "station_id": "108",
+    "slug": "207-st",
+    "name": "207 St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.864621,
+    "lon": -73.918822,
+    "neighborhood": "Inwood",
+    "zip_code": "10034"
+  },
+  {
+    "station_id": "109",
+    "slug": "dyckman-st",
+    "name": "Dyckman St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.860531,
+    "lon": -73.925536,
+    "neighborhood": "Inwood",
+    "zip_code": "10040"
+  },
+  {
+    "station_id": "110",
+    "slug": "191-st",
+    "name": "191 St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.855225,
+    "lon": -73.929412,
+    "neighborhood": "Washington Heights",
+    "zip_code": "10040"
+  },
+  {
+    "station_id": "111",
+    "slug": "181-st",
+    "name": "181 St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.849505,
+    "lon": -73.933596,
+    "neighborhood": "Washington Heights",
+    "zip_code": "10033"
+  },
+  {
+    "station_id": "112",
+    "slug": "168-st-washington-hts",
+    "name": "168 St-Washington Hts",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.840556,
+    "lon": -73.940133,
+    "neighborhood": "Washington Heights",
+    "zip_code": "10032"
+  },
+  {
+    "station_id": "113",
+    "slug": "157-st",
+    "name": "157 St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.834041,
+    "lon": -73.94489,
+    "neighborhood": "Washington Heights",
+    "zip_code": "10032"
+  },
+  {
+    "station_id": "114",
+    "slug": "145-st",
+    "name": "145 St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.826551,
+    "lon": -73.95036,
+    "neighborhood": "Hamilton Heights",
+    "zip_code": "10031"
+  },
+  {
+    "station_id": "115",
+    "slug": "137-st-city-college",
+    "name": "137 St-City College",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.822008,
+    "lon": -73.953676,
+    "neighborhood": "Hamilton Heights",
+    "zip_code": "10031"
+  },
+  {
+    "station_id": "116",
+    "slug": "125-st",
+    "name": "125 St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.815581,
+    "lon": -73.958372,
+    "neighborhood": "Morningside Heights",
+    "zip_code": "10027"
+  },
+  {
+    "station_id": "117",
+    "slug": "116-st-columbia-university",
+    "name": "116 St-Columbia University",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.807722,
+    "lon": -73.96411,
+    "neighborhood": "Morningside Heights",
+    "zip_code": "10025"
+  },
+  {
+    "station_id": "118",
+    "slug": "cathedral-pkwy-110-st",
+    "name": "Cathedral Pkwy (110 St)",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.803967,
+    "lon": -73.966847,
+    "neighborhood": "Upper West Side",
+    "zip_code": "10025"
+  },
+  {
+    "station_id": "119",
+    "slug": "103-st",
+    "name": "103 St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.799446,
+    "lon": -73.968379,
+    "neighborhood": "Upper West Side",
+    "zip_code": "10025"
+  },
+  {
+    "station_id": "120",
+    "slug": "96-st",
+    "name": "96 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "3",
+      "1"
+    ],
+    "lat": 40.793919,
+    "lon": -73.972323,
+    "neighborhood": "Upper West Side",
+    "zip_code": "10025"
+  },
+  {
+    "station_id": "121",
+    "slug": "86-st",
+    "name": "86 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.788644,
+    "lon": -73.976218,
+    "neighborhood": "Upper West Side",
+    "zip_code": "10024"
+  },
+  {
+    "station_id": "122",
+    "slug": "79-st",
+    "name": "79 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.783934,
+    "lon": -73.979917,
+    "neighborhood": "Upper West Side",
+    "zip_code": "10024"
+  },
+  {
+    "station_id": "123",
+    "slug": "72-st",
+    "name": "72 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "3",
+      "1"
+    ],
+    "lat": 40.778453,
+    "lon": -73.98197,
+    "neighborhood": "Upper West Side",
+    "zip_code": "10023"
+  },
+  {
+    "station_id": "124",
+    "slug": "66-st-lincoln-center",
+    "name": "66 St-Lincoln Center",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.77344,
+    "lon": -73.982209,
+    "neighborhood": "Lincoln Square",
+    "zip_code": "10023"
+  },
+  {
+    "station_id": "125",
+    "slug": "59-st-columbus-circle",
+    "name": "59 St-Columbus Circle",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.768247,
+    "lon": -73.981929,
+    "neighborhood": "Hell's Kitchen",
+    "zip_code": "10023"
+  },
+  {
+    "station_id": "126",
+    "slug": "50-st",
+    "name": "50 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.761728,
+    "lon": -73.983849,
+    "neighborhood": "Theater District",
+    "zip_code": "10019"
+  },
+  {
+    "station_id": "127",
+    "slug": "times-sq-42-st",
+    "name": "Times Sq-42 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "3",
+      "1"
+    ],
+    "lat": 40.75529,
+    "lon": -73.987495,
+    "neighborhood": "Theater District",
+    "zip_code": "10018"
+  },
+  {
+    "station_id": "128",
+    "slug": "34-st-penn-station",
+    "name": "34 St-Penn Station",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "3",
+      "1"
+    ],
+    "lat": 40.750373,
+    "lon": -73.991057,
+    "neighborhood": "Koreatown",
+    "zip_code": "10001"
+  },
+  {
+    "station_id": "129",
+    "slug": "28-st",
+    "name": "28 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.747215,
+    "lon": -73.993365,
+    "neighborhood": "Chelsea",
+    "zip_code": "10001"
+  },
+  {
+    "station_id": "130",
+    "slug": "23-st",
+    "name": "23 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.744081,
+    "lon": -73.995657,
+    "neighborhood": "Chelsea",
+    "zip_code": "10011"
+  },
+  {
+    "station_id": "131",
+    "slug": "18-st",
+    "name": "18 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.74104,
+    "lon": -73.997871,
+    "neighborhood": "Chelsea",
+    "zip_code": "10011"
+  },
+  {
+    "station_id": "132",
+    "slug": "14-st",
+    "name": "14 St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "3",
+      "1"
+    ],
+    "lat": 40.737826,
+    "lon": -74.000201,
+    "neighborhood": "West Village",
+    "zip_code": "10011"
+  },
+  {
+    "station_id": "133",
+    "slug": "christopher-st-stonewall",
+    "name": "Christopher St-Stonewall",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.733422,
+    "lon": -74.002906,
+    "neighborhood": "West Village",
+    "zip_code": "10014"
+  },
+  {
+    "station_id": "134",
+    "slug": "houston-st",
+    "name": "Houston St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.728251,
+    "lon": -74.005367,
+    "neighborhood": "Hudson Square",
+    "zip_code": "10014"
+  },
+  {
+    "station_id": "135",
+    "slug": "canal-st",
+    "name": "Canal St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.722854,
+    "lon": -74.006277,
+    "neighborhood": "Hudson Square",
+    "zip_code": "10013"
+  },
+  {
+    "station_id": "136",
+    "slug": "franklin-st",
+    "name": "Franklin St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "1"
+    ],
+    "lat": 40.719318,
+    "lon": -74.006886,
+    "neighborhood": "TriBeCa",
+    "zip_code": "10013"
+  },
+  {
+    "station_id": "137",
+    "slug": "chambers-st",
+    "name": "Chambers St",
+    "borough": "Manhattan",
+    "routes": [
+      "2",
+      "3",
+      "1"
+    ],
+    "lat": 40.715478,
+    "lon": -74.009266,
+    "neighborhood": "TriBeCa",
+    "zip_code": "10007"
+  },
+  {
+    "station_id": "138",
+    "slug": "wtc-cortlandt",
+    "name": "WTC Cortlandt",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.711835,
+    "lon": -74.012188,
+    "neighborhood": "Financial District",
+    "zip_code": "10048"
+  },
+  {
+    "station_id": "139",
+    "slug": "rector-st",
+    "name": "Rector St",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.707513,
+    "lon": -74.013783,
+    "neighborhood": "Financial District",
+    "zip_code": "10006"
+  },
+  {
+    "station_id": "142",
+    "slug": "south-ferry",
+    "name": "South Ferry",
+    "borough": "Manhattan",
+    "routes": [
+      "1"
+    ],
+    "lat": 40.702068,
+    "lon": -74.013664,
+    "neighborhood": "Financial District",
+    "zip_code": "10004"
+  }
+]

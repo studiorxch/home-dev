@@ -1,0 +1,9 @@
+station_id: "232"
+name: "Borough Hall"
+borough: "Brooklyn"
+routes: ["2","3"]
+coord: { lat: 40.693219, lon: -73.989998 }
+neighborhood: "Downtown Brooklyn"
+zip_code: "11201"
+tags: []
+entrances: []

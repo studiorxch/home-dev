@@ -1,0 +1,72 @@
+[
+  {
+    "station_id": "H04",
+    "slug": "broad-channel",
+    "name": "Broad Channel",
+    "borough": "Queens",
+    "routes": [
+      "A",
+      "H"
+    ],
+    "lat": 40.608382,
+    "lon": -73.815925,
+    "neighborhood": "Broad Channel",
+    "zip_code": "11693"
+  },
+  {
+    "station_id": "H12",
+    "slug": "beach-90-st",
+    "name": "Beach 90 St",
+    "borough": "Queens",
+    "routes": [
+      "A",
+      "H"
+    ],
+    "lat": 40.588034,
+    "lon": -73.813641,
+    "neighborhood": "Seaside",
+    "zip_code": "11693"
+  },
+  {
+    "station_id": "H13",
+    "slug": "beach-98-st",
+    "name": "Beach 98 St",
+    "borough": "Queens",
+    "routes": [
+      "A",
+      "H"
+    ],
+    "lat": 40.585307,
+    "lon": -73.820558,
+    "neighborhood": "Rockaway Beach",
+    "zip_code": "11694"
+  },
+  {
+    "station_id": "H14",
+    "slug": "beach-105-st",
+    "name": "Beach 105 St",
+    "borough": "Queens",
+    "routes": [
+      "A",
+      "H"
+    ],
+    "lat": 40.583209,
+    "lon": -73.827559,
+    "neighborhood": "Rockaway Beach",
+    "zip_code": "11694"
+  },
+  {
+    "station_id": "H15",
+    "slug": "rockaway-park-beach-116-st",
+    "name": "Rockaway Park-Beach 116 St",
+    "borough": "Queens",
+    "routes": [
+      "A",
+      "H"
+    ],
+    "lat": 40.580903,
+    "lon": -73.835592,
+    "neighborhood": "Rockaway Park",
+    "zip_code": "11694"
+  }
+]

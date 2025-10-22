@@ -1,0 +1,9 @@
+station_id: "S14"
+name: "Pleasant Plains"
+borough: "Staten Island"
+routes: ["SI"]
+coord: { lat: 40.52241, lon: -74.217847 }
+neighborhood: "Pleasant Plains"
+zip_code: "10309"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "231"
+name: "Clark St"
+borough: "Brooklyn"
+routes: ["2","3"]
+coord: { lat: 40.697466, lon: -73.993086 }
+neighborhood: "Brooklyn Heights"
+zip_code: "11201"
+tags: []
+entrances: []

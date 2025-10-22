@@ -1,0 +1,9 @@
+station_id: "R32"
+name: "Union St"
+borough: "Brooklyn"
+routes: ["D","N","W","R"]
+coord: { lat: 40.677316, lon: -73.98311 }
+neighborhood: "Park Slope"
+zip_code: "11215"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "R30"
+name: "DeKalb Av"
+borough: "Brooklyn"
+routes: ["D","N","Q","R","B","W"]
+coord: { lat: 40.690635, lon: -73.981824 }
+neighborhood: "Downtown Brooklyn"
+zip_code: "11201"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "R36"
+name: "36 St"
+borough: "Brooklyn"
+routes: ["D","N","W","R"]
+coord: { lat: 40.655144, lon: -74.003549 }
+neighborhood: "Greenwood Heights"
+zip_code: "11232"
+tags: []
+entrances: []

@@ -1,0 +1,9 @@
+station_id: "L11"
+name: "Graham Av"
+borough: "Brooklyn"
+routes: ["L"]
+coord: { lat: 40.714565, lon: -73.944053 }
+neighborhood: "East Williamsburg"
+zip_code: "11211"
+tags: []
+entrances: []
