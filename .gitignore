@@ -5,6 +5,9 @@ _site/
 .jekyll-metadata
 .history/
 
+# macOS junk
+._*
+.DS_Store
 
 
 # Compression archives
