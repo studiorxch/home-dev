@@ -1,5 +1,5 @@
-{% assign domain = site.url | downcase %}
-{% if domain contains "dev.studiorich.shop" %}
+{% assign current_host = site.github.hostname | default: site.url %}
+{% if current_host contains "dev" %}
 User-agent: *
 Disallow: /
 {% else %}

@@ -5,14 +5,12 @@
     {% include head.html %}
   </head>
 <body>
-  {% if site.url contains "dev" %}
-  <script>
-    // Simple password gate for dev.studiorich.shop
-    if (sessionStorage.getItem("devAuth") !== "ok") {
-      window.location.replace("/gate.html");
-    }
-  </script>
-  {% endif %}
+ <script>
+if (location.hostname.includes("dev.studiorich.shop") && sessionStorage.getItem("devAuth") !== "ok") {
+  location.href = "/gate.html";
+}
+</script>
+
 
   {% include sidebar.html %}
 
