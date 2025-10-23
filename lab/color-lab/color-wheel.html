@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>StudioRich Color Wheel</title>
+<style>
+  body {
+    font-family: "Inter", sans-serif;
+    background: #111;
+    color: #eee;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  canvas {
+    border-radius: 50%;
+    cursor: crosshair;
+  }
+  #palette {
+    margin-top: 1rem;
+    display: flex;
+    gap: 0.5rem;
+  }
+  .swatch {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 1px solid #333;
+  }
+  #export {
+    margin-top: 1.2rem;
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  a {
+    margin-top: 0.75rem;
+    color: #0ff;
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+  <h1>StudioRich Color Wheel</h1>
+  <canvas id="wheel" width="300" height="300"></canvas>
+  <div id="palette"></div>
+  <button id="export">Generate SVG Swatch</button>
+  <a id="draglink" href="#" draggable="true"> </a>
+
+<script>
+const canvas = document.getElementById("wheel");
+const ctx = canvas.getContext("2d");
+const paletteDiv = document.getElementById("palette");
+const exportBtn = document.getElementById("export");
+const dragLink = document.getElementById("draglink");
+let colors = [];
+
+function drawWheel() {
+  const r = canvas.width / 2;
+  for (let i = 0; i < 360; i++) {
+    ctx.beginPath();
+    ctx.moveTo(r, r);
+    ctx.arc(r, r, r, (i - 1) * Math.PI/180, i * Math.PI/180);
+    ctx.closePath();
+    ctx.fillStyle = `hsl(${i},100%,50%)`;
+    ctx.fill();
+  }
+}
+drawWheel();
+
+canvas.addEventListener("click", (e) => {
+  const rect = canvas.getBoundingClientRect();
+  const x = e.clientX - rect.left;
+  const y = e.clientY - rect.top;
+  const imgData = ctx.getImageData(x, y, 1, 1).data;
+  const color = `rgb(${imgData[0]}, ${imgData[1]}, ${imgData[2]})`;
+  colors.push(color);
+  renderPalette();
+});
+
+function renderPalette() {
+  paletteDiv.innerHTML = "";
+  colors.forEach(c => {
+    const div = document.createElement("div");
+    div.className = "swatch";
+    div.style.background = c;
+    paletteDiv.appendChild(div);
+  });
+}
+
+exportBtn.addEventListener("click", () => {
+  if (!colors.length) return alert("Pick some colors first!");
+  const size = 300, r = 140;
+  const slice = (2 * Math.PI) / colors.length;
+  let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">`;
+  svg += `<circle cx="150" cy="150" r="${r}" fill="#111"/>`;
+  colors.forEach((c, i) => {
+    const start = i * slice - Math.PI / 2;
+    const end = start + slice;
+    const x1 = 150 + r * Math.cos(start);
+    const y1 = 150 + r * Math.sin(start);
+    const x2 = 150 + r * Math.cos(end);
+    const y2 = 150 + r * Math.sin(end);
+    const largeArc = slice > Math.PI ? 1 : 0;
+    svg += `<path d="M150,150 L${x1},${y1} A${r},${r} 0 ${largeArc} 1 ${x2},${y2} Z" fill="${c}"/>`;
+  });
+  svg += `<text x="150" y="290" text-anchor="middle" fill="#777" font-size="10">StudioRich Palette</text></svg>`;
+
+  const blob = new Blob([svg], { type: "image/svg+xml" });
+  const url = URL.createObjectURL(blob);
+  dragLink.href = url;
+  dragLink.download = "StudioRich_Palette.svg";
+  dragLink.textContent = "⬇️ Drag into Notion or click to download";
+});
+</script>
+</body>
+</html>
