@@ -121,5 +121,36 @@ exportBtn.addEventListener("click", () => {
   dragLink.textContent = "⬇️ Drag into Notion or click to download";
 });
 </script>
+
+<!-- EyeDropper API Integration -->
+ 
+<button id="pickColor">🎯 Pick Color From Screen</button>
+<div id="picked" style="margin-top:1rem;font-size:1.2rem;"></div>
+
+<script>
+const pickBtn = document.getElementById("pickColor");
+const picked = document.getElementById("picked");
+
+pickBtn.addEventListener("click", async () => {
+  if (!window.EyeDropper) {
+    alert("Your browser doesn’t support the EyeDropper API.");
+    return;
+  }
+  const eyeDropper = new EyeDropper();
+  try {
+    const result = await eyeDropper.open();
+    picked.textContent = `Picked: ${result.sRGBHex}`;
+    picked.style.color = result.sRGBHex;
+    // You can also push this into your palette array if desired:
+    colors.push(result.sRGBHex);
+    renderPalette();
+  } catch (err) {
+    console.log("Color picking cancelled");
+  }
+});
+</script>
+
+
+
 </body>
 </html>
